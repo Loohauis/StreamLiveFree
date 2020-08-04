@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:-1,*(00)  ★ ☆ ★ ☆ ★ UPDATE 2020-07-30
+#EXTINF:-1,*(00)  ★ ☆ ★ ☆ ★ UPDATE 2020-08-04
 http://0.0.0.0:00
 
 #EXTINF:-1,*(00) 4U EXERCISE
@@ -105,6 +105,12 @@ https://streaming-live-app.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 #EXTINF:-1,*(01)-RTP 2
 https://streaming-live.rtp.pt/liverepeater/rtp2.smil/playlist.m3u8
 
+#EXTINF:-1,*(01)-RTP 2 new 1
+https://streaming-live.rtp.pt/liverepeater/rtp2.smil/.m3u8
+
+#EXTINF:-1,*(01)-RTP 2 new 2
+https://streaming-live.rtp.pt/liverepeater/rtp2.smil/chunklist_b1290000_slpt.m3u8
+
 #EXTINF:-1,*(01)-RTP 3
 https://streaming-live.rtp.pt/liverepeater/rtpn.smil/playlist.m3u8
 
@@ -156,7 +162,7 @@ http://0.0.0.0:02
 #EXTINF:-1,*(02) 24 HD
 http://51.158.190.97/hls/stream.m3u8
 
-#EXTINF:-1,*(02) CINE LIFE
+#EXTINF:-1,*(02) CINELIFE | FHD
 https://magselect-stirr.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,*(02) CINE SKY
