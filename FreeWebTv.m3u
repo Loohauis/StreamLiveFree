@@ -1,5 +1,43 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*(00)  > > > > > UPDATE 2020-11-14
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***Newsmax-TV | @P
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",*tvtropical | 480p
+https://59f2354c05961.streamlock.net:1443/tvtropical/tvtropical/playlist.m3u8
+#EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",TVídeoNews
+https://59f2354c05961.streamlock.net:1443/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 group-title="*(08) > > > > > MUSIC",Sexy KpopTV
+https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/playlist.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",*RecordTV Natal - TV Tropical
+https://59f2354c05961.streamlock.net:1443/tvtropical/tvtropical/playlist.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",*Rede Brasil (SP)
+https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",*TV Birigui
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",*TV Destak - WebTV
+https://59f2354c05961.streamlock.net:1443/pascoal/pascoal/playlist.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",*Sexy Kpop
+https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/playlist.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",*FOX SPORTS NEWS AUSTRALIA | @p
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",*AUSTRALIA CHANNEL | @p
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 group-title="*(07) > > > > > KIDS",*3ABN KIDS.TV | @p
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",*3ABN Francais Latino | @p
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",*3ABN | @p
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/index.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",*3ABN Francais
+https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",*3ABN International
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",*3ABN Praise Him Music Channel
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",*3ABN Proclaim!
+https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",*Dare to Dream
+https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*(00)  > > > > > UPDATE 2020-11-11
 http://0.0.0.0:00
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*(01) > > > > > FAVORITES
 http://0.0.0.0:01
@@ -11,10 +49,8 @@ http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 http://hd.quickcpa.org/srv/foxb.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***Newsy TV | @P
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***EURONEWS | 480P
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***EURONEWS UK | 480P
 https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***EURONEWS PT| @P
-https://euronews-pt-p9-cdn.hexaglobe.net/b81ee2517661a8bb5169ceda7d245e2b/5fb0488c/euronews/euronews-euronews-website-web-responsive-2/ewnsabrpt_por.smil/playlist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***FAILARMY | 720P
 https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***FUNNIEST VIDEOS | 720p
@@ -55,6 +91,8 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 http://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP MEMORIA | 504P
 http://streaming-live-app.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP ONLINE - RTP 1 | S0
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8?pxt_rtp
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP ONLINE - RTP 1 | S1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8?pxt_rtp
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP ONLINE - RTP 1 | S2
@@ -437,8 +475,6 @@ http://111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 #EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",Smithsonian
 http://ms-azure-video.gslb.startimestv.com/live/SMITHSONIAN_CHANNEL_1166_500_480x360_662502/playlist.m3u8
-#EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",TVídeoNews
-https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
 #EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",UN Web TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
 #EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",*(05) > > > > > ENTERTAINMENT
@@ -1241,8 +1277,6 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
 http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="*(08) > > > > > MUSIC",RTL (Itália)
 https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
-#EXTINF:-1 group-title="*(08) > > > > > MUSIC",Sexy KpopTV
-https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
 #EXTINF:-1 group-title="*(08) > > > > > MUSIC",The Retro Channel
 https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 group-title="*(08) > > > > > MUSIC",Top Latino TV
@@ -1349,8 +1383,6 @@ https://fnurtmp-f.akamaihd.net/i/RNCPOOL_1@344188/master.m3u8
 https://fnurtmp-f.akamaihd.net/i/DIGHANGOUT_1@344188/master.m3u8
 #EXTINF:-1 group-title="*(10) > > > > > NEWS",*NBC NEWS LIVE EVENT
 https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
-#EXTINF:-1 group-title="*(10) > > > > > NEWS",*NEWS MAX
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_404.m3u8
 #EXTINF:-1 group-title="*(10) > > > > > NEWS",*RT ESPANHOL S1 | R
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 #EXTINF:-1 group-title="*(10) > > > > > NEWS",*RT ESPANHOL S2 | R
@@ -1461,8 +1493,6 @@ http://sonlife7-i.akamaihd.net/hls/live/585011/ch7/ch70/ch70.m3u8
 http://cdn.media7.truegod.tv/stpeterslive/smil:stpeters.smil/playlist.m3u8
 #EXTINF:-1 group-title="*(13) > > > > > RELIGIOUS",*TBN
 https://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
-#EXTINF:-1 group-title="*(13) > > > > > RELIGIOUS",*TBN HD
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="*(13) > > > > > RELIGIOUS",*TRINITY CHANNEL
 http://rtmp1.abnsat.com/hls/trinity.m3u8
 #EXTINF:-1 group-title="*(13) > > > > > RELIGIOUS",Canção Nova
@@ -2189,12 +2219,8 @@ https://srv3.zcast.com.br/rdctv/rdctv/playlist.m3u8
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",RecordTV Mato Grosso - TV Conquista
 http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",RecordTV Natal - TV Tropical
-https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",Rede Brasil - TV Marajoara (PA)
 http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",Rede Brasil (SP)
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",Rede Metrópole
 http://177.130.81.30/hls/metropole.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",Rede Minas
@@ -2227,8 +2253,6 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/e48d0a10fc266bc112
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",TV Aracati
 https://livefocamundo.com:8081/8148/index.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",TV Birigui
-https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",TV Brusque (SC)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",TV Câmara
@@ -2241,8 +2265,6 @@ https://5d2c98775bafe.streamlock.net/8180/8180/playlist.m3u8
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",TV Cultura
 https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",TV Destak - WebTV
-https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",TV Diário do Sertão
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > WORLD COUNTRIES",TV Escola
@@ -2441,8 +2463,6 @@ https://54627d4fc5996.streamlock.net/tvopoja/tvopoja/playlist.m3u8
 http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
 #EXTINF:-1 group-title="Unsorted",*[GBR]-FOX 25 BOSTON (WFXT)
 http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8
-#EXTINF:-1 group-title="Unsorted",*[GBR]-NEWSMAX
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1 group-title="Unsorted",*[GBR]-RT UK
 http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
 #EXTINF:-1 group-title="Unsorted",*[GBR]-RT US
@@ -2901,12 +2921,6 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 group-title="Unsorted",*[USA]-NEWS CENTER 7 (OHIO)
 http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
-#EXTINF:-1 group-title="Unsorted",*[USA]-NEWSMAX TV
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="Unsorted",*[USA]-NEWSMAX TV
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
-#EXTINF:-1 group-title="Unsorted",*[USA]-NEWSMAXTV (US)
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 group-title="Unsorted",*[USA]-NEWSNET
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1 group-title="Unsorted",*[USA]-NEWSY
@@ -3385,8 +3399,6 @@ http://video1.in-news.ru/360/index.m3u8
 https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
 #EXTINF:-1 group-title="Unsorted",*3ABN
 https://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1 group-title="Unsorted",*3ABNKIDS.TV
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
 #EXTINF:-1 group-title="Unsorted",*3D:RFI MONDE
 http://live02.rfi.fr/rfimonde-32.mp3
 #EXTINF:-1 group-title="Unsorted",*3DAA
@@ -4971,8 +4983,6 @@ http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
 http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
 #EXTINF:-1 group-title="Unsorted",*AURORA TV
 http://85.94.81.190:8844/sdi/aurora.m3u8
-#EXTINF:-1 group-title="Unsorted",*AUSTRALIA CHANNEL
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 group-title="Unsorted",*AUSTRALIA2GB SYDNEY
 http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
 #EXTINF:-1 group-title="Unsorted",*AUSTRALIAABC RADIO SYDNEY
@@ -6783,8 +6793,6 @@ http://listen.radionomy.com/foreverfmradio.m3u
 http://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
 #EXTINF:-1 group-title="Unsorted",*ENGLISHNBC 11 NEWS
 http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/index_1286_av-p.m3u8
-#EXTINF:-1 group-title="Unsorted",*ENGLISHNEWSMAX TV HD 720P
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
 #EXTINF:-1 group-title="Unsorted",*ENGLISHPE2
 http://direct.emuparadise.me/roms/get-download.php?gid=52626&token=a800cf7561c46083aca10020b1da9305&mirror_available=true
 #EXTINF:-1 group-title="Unsorted",*ENGLISHRADIOSPUTNIK
@@ -7109,8 +7117,6 @@ http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Unsorted",*FOX SPORT 3
 http://210.210.155.35/uq2663/h/h21/index1.m3u8
-#EXTINF:-1 group-title="Unsorted",*FOX SPORT HD 1
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 group-title="Unsorted",*FOX TV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 group-title="Unsorted",*FRANCE 2
@@ -9043,8 +9049,6 @@ http://195.29.70.67/PLTV/88888888/224/3221226407/02.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226407/03.m3u8
 #EXTINF:-1 group-title="Unsorted",*NEWS ONE
 https://bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Unsorted",*NEWS USA  HD
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
 #EXTINF:-1 group-title="Unsorted",*NEWS18 HARYANA
 https://etv-haryana.akamaized.net/i/etv_haryana_live_1@349009/index_1_av-b.m3u8
 #EXTINF:-1 group-title="Unsorted",*NEWS4 (WRC-TV) (NBC) (WASHINGTON DC)
@@ -9053,8 +9057,6 @@ http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u
 #EXTINF:-1 group-title="Unsorted",*-NEWS-CBS NEWS
 https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_360.m3u8
-#EXTINF:-1 group-title="Unsorted",*NEWSMAX TV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 group-title="Unsorted",*NEWS-TIMES NOW
 http://timesnow-lh.akamaihd.net/i/TIMESNOWWEB/TimesNow_1@129288/master.m3u8
 #EXTINF:-1 group-title="Unsorted",*NEWTV MOVIES (OPT-2)
@@ -9063,7 +9065,7 @@ http://112.50.243.12/PLTV/88888888/224/3221225804/index.m3u8
 https://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 #EXTINF:-1 group-title="Unsorted",*NFL NOW 5000K
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
-#EXTINF:-1 group-title="Unsorted",*NG RADIO SHOW (ÃƑÆ’Ã‚ÂÃƑÂ€¦Ã‚Â¸ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â¾ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â»ÃƑÆ’Ã¢Â‚¬ËŒÃƑÂ¢Ã¢Â€ŠÂ¬Ã‚Â¹ÃƑÆ’Ã¢Â‚¬ËŒÃƑÂ€ŠÃ‚ÂÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â°ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚ÂµÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â²ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â¾)
+#EXTINF:-1 group-title="Unsorted",*NG RADIO SHOW
 http://listen2.myradio24.com:9000/8840
 #EXTINF:-1 group-title="Unsorted",*NGC - ARABE  HD
 http://www.elahmad.com/tv/m3u8/tv_anywhere.m3u8?id=natgeo
@@ -10101,8 +10103,6 @@ http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 https://tvstreamer.redcom.ru/Redcams/index.m3u8
 #EXTINF:-1 group-title="Unsorted",*REDE BRASIL
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
-#EXTINF:-1 group-title="Unsorted",*REDE BRASIL SP
-https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 group-title="Unsorted",*REDE EVANGELIZAR
 http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 #EXTINF:-1 group-title="Unsorted",*REDE MÃƑÆ’Ã†Â€™ÃƑÂ€ Ã¢Â‚¬Â„¢O AMIGA
@@ -11791,8 +11791,6 @@ http://www.tv3.cat/directetv3cat/tv3cat.m3u8
 http://hls.m-ten.ru:8080/hls/23/live.m3u8
 #EXTINF:-1 group-title="Unsorted",*TV - CAM2
 http://hls.m-ten.ru:8080/hls/24/live.m3u8
-#EXTINF:-1 group-title="Unsorted",*TV - FOX NEWS
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 group-title="Unsorted",*TV - HARMONIC
 https://cdn3.viblast.com/streams/hls/airshow/playlist.m3u8
 #EXTINF:-1 group-title="Unsorted",*TV - IZRU
@@ -12851,8 +12849,6 @@ https://gmlv.cc1.media/videos/permanent/964/1492039833/index.m3u8
 https://live2.ntdimg.com/cnlive/playlist.m3u8
 #EXTINF:-1 group-title="Unsorted",*UNKNOWN 342
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF:-1 group-title="Unsorted",*UNKNOWN 346
-https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 #EXTINF:-1 group-title="Unsorted",*UNKNOWN 349
 https://m.vk.com/doc335016860_471009669?hash=2c84203eec25f367c1&dl=a1fcf77e305b4278cb
 #EXTINF:-1 group-title="Unsorted",*UNKNOWN 35
@@ -13855,18 +13851,6 @@ https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:-1 group-title="Testing",365 Dney
 https://plbl.m9.lfstrm.tv/365_dney/normal/1/index.m3u8
-#EXTINF:-1 group-title="Testing",3ABN
-https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/index.m3u8
-#EXTINF:-1 group-title="Testing",3ABN Francais
-https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
-#EXTINF:-1 group-title="Testing",3ABN International
-https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
-#EXTINF:-1 group-title="Testing",3ABN Kids
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 group-title="Testing",3ABN Praise Him Music Channel
-https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
-#EXTINF:-1 group-title="Testing",3ABN Proclaim!
-https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
 #EXTINF:-1 group-title="Testing",4 CH4 Teen
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
 #EXTINF:-1 group-title="Testing",4 Fun
@@ -14093,8 +14077,6 @@ http://htvpalsat.mada.ps:8888/audeh/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-auftv/index.m3u8
 #EXTINF:-1 group-title="Testing",Aurora Arte
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
-#EXTINF:-1 group-title="Testing",Australia Channel
-http://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:-1 group-title="Testing",Auto 24
 http://95.24.126.200:8621/udp/233.33.221.29:5050
 #EXTINF:-1 group-title="Testing",Auto 24 Russia
@@ -14179,8 +14161,6 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/master.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-billycboxing/index.m3u8
 #EXTINF:-1 group-title="Testing",Bip
 http://biptv.tv:80/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 group-title="Testing",Birigui
-https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/tvdigitalbirigui/chunklist.m3u8
 #EXTINF:-1 group-title="Testing",BL Bac Lieu
 http://118.69.205.213/thbl/thbl.m3u8
 #EXTINF:-1 group-title="Testing",Black Artist
@@ -14537,8 +14517,6 @@ http://live.creacast.com/d5tv/smil:d5tv.smil/chunklist.m3u8
 https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Testing",Dagestan
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-#EXTINF:-1 group-title="Testing",Dare to Dream
-https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
 #EXTINF:-1 group-title="Testing",DCN
 http://video.oct.dc.gov/out/u/21_4.m3u8
 #EXTINF:-1 group-title="Testing",Demand Africa
@@ -16139,8 +16117,6 @@ http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist.m3u8
 http://188.35.9.11:2028
 #EXTINF:-1 group-title="Testing",Setanta Sports+ Russia
 http://195.158.29.129/live_360/live.stream+_360p.m3u8
-#EXTINF:-1 group-title="Testing",Sexy Kpop
-https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/chunklist.m3u8
 #EXTINF:-1 group-title="Testing",Sfera
 http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Testing",Shalom
