@@ -1,14 +1,21 @@
 ﻿#EXTM3U
+
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",ZIG ZAG
 https://ptiptv.tk/zigzag.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
 
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP 3 USER1
-http://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8?DVR|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP 1 s01
+https://streaming-live.rtp.pt/liverepeater/rtp1.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP 1 s02
+http://streaming-live.rtp.pt/livetvhlsDVR/rtp1dvr.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
 
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP 3 USER2
-http://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8?DVR|http-user-agent%3DMozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F87.0.4280.66%20Safari%2F537.36
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP 2 s01
+https://streaming-live.rtp.pt/liverepeater/rtp2.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP 2 s02
+http://streaming-live.rtp.pt/livetvhlsDVR/rtp2dvr.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
 
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP 3 USER3
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP 3 s01
+https://streaming-live.rtp.pt/liverepeater/rtpn.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP 3 s02
 http://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
 
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*****FAILARMY | 720P
