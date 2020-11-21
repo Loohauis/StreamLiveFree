@@ -1,45 +1,26 @@
 ﻿#EXTM3U
-
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",ZIG ZAG
-https://ptiptv.tk/zigzag.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
-
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP 1 s01
-https://streaming-live.rtp.pt/liverepeater/rtp1.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP 1 s02
-http://streaming-live.rtp.pt/livetvhlsDVR/rtp1dvr.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
-
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP 2 s01
-https://streaming-live.rtp.pt/liverepeater/rtp2.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP 2 s02
-http://streaming-live.rtp.pt/livetvhlsDVR/rtp2dvr.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
-
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP 3 s01
-https://streaming-live.rtp.pt/liverepeater/rtpn.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP 3 s02
-http://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
-
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*****FAILARMY | 720P
 https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP 1 | 504P
-https://streaming-live.rtp.pt/liverepeater/rtp1.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtp1.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP 1 | 720P
-https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP 2 | 360P
-https://streaming-live.rtp.pt/liverepeater/rtp2.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtp2.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP 3 | 504P
-https://streaming-live.rtp.pt/liverepeater/rtpn.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtpn.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP ACORES | 360P
-http://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+http://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP AFRICA | 360P
-http://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+http://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP INTERNACIONAL | 360P
-http://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+http://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP INTERNACIONAL | 480P
 http://210.210.155.35/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP MADEIRA | 360P
-http://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+http://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**RTP MEMORIA | 504P
-http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**SIC | @P
 http://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**SIC NOTÍCIAS | @P
@@ -294,6 +275,8 @@ http://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYX
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",XCORPS TV HD
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+#EXTINF:-1 group-title="*(07) > > > > > KIDS",ZIG ZAG
+https://ptiptv.tk/zigzag.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
 #EXTINF:-1 group-title="*(07) > > > > > KIDS",[IDN]-ANIMAX
 http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:-1 group-title="*(07) > > > > > KIDS",[IDN]-ANIPLUS
