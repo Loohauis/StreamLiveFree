@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*(01)  > > > > > FREE WEB TV ( UPDATE 2020-12-04 )
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*(01)  > > > > > FREE WEB TV ( UPDATE 2020-12-06 )
 http://0.0.0.0:01
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***RTP 1 | 504P
 https://streaming-live.rtp.pt/liverepeater/rtp1.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
@@ -28,11 +28,11 @@ http://live.impresa.pt/live/sicnot/sicnot.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***SIC ONLINE | @P
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***TVI
-https://ptiptv.tk/tvi.m3u8?okhM1ipmMkzrnFBU6LLkx-ZPXkY
+https://ptiptv.tk/tvi.m3u8?qki6QW1wWnYwY1BUuz6_OE313ww
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***TVI 24
-https://ptiptv.tk/tvi24.m3u8?okhM1ipmMkzrnFBU6LLkx-ZPXkY
+https://ptiptv.tk/tvi24.m3u8?qki6QW1wWnYwY1BUuz6_OE313ww
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***TVI REALITY
-https://ptiptv.tk/tvi-direct.m3u8?okhM1ipmMkzrnFBU6LLkx-ZPXkY
+https://ptiptv.tk/tvi-direct.m3u8?qki6QW1wWnYwY1BUuz6_OE313ww
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**KURIAKOS TV | 1080P
 http://195.22.11.11:1935/ktv/ktv1/playlist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**PORTO CANAL S01 | 360P
@@ -2127,10 +2127,14 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365e
 https://nbcnewshls-i.akamaihd.net/hls/live/1005206/nnn_live2/index.m3u8
 #EXTINF:-1 group-title="*(10) > > > > > NEWS",***[USA] PIXII NEWS | @P
 https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
-#EXTINF:-1 group-title="*(10) > > > > > NEWS",***[AUS] ABC AUSTRALIA
-https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="*(10) > > > > > NEWS",***[AUS] ABC AUSTRALIA | @P
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?DVRabout=Watch%20ABC%20News%20Australia%20online%20live
 #EXTINF:-1 group-title="*(10) > > > > > NEWS",**[EUR] EURONEWS | 480P
 https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
+#EXTINF:-1 group-title="*(10) > > > > > NEWS",**[PRT] EURONEWS PT
+https://ptiptv.tk/euronews-pt.m3u8?qki6QW1wWnYwY1BUuz6_OE313ww
+#EXTINF:-1 group-title="*(10) > > > > > NEWS",**[EUR] EURONEWS
+https://ptiptv.tk/euronews.m3u8?qki6QW1wWnYwY1BUuz6_OE313ww
 #EXTINF:-1 group-title="*(10) > > > > > NEWS",**[BRA] CNN BRASIL | 720P
 https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
 #EXTINF:-1 group-title="*(10) > > > > > NEWS",**AL JAZEERA | 1080P
