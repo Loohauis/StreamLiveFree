@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*(01)  > > > > > FREE WEB TV ( UPDATE 2020-12-15 )
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*(01)  > > > > > FREE WEB TV ( UPDATE 2020-12-16 )
 http://0.0.0.0:01
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] RTP 1 | 504P
 https://streaming-live.rtp.pt/liverepeater/rtp1.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
@@ -30,19 +30,33 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] SIC RADICAL
 http://live.impresa.pt/live/sicrad/sicrad.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] TVI
-https://ptiptv.tk/tvi.m3u8?qki6QW1wWnYwY1BUuz6_OE313ww
+https://ptiptv.tk/tvi.m3u8?tEhM1ipmMkzrnFBUMfnZzErE_ao
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] TVI 24
-https://ptiptv.tk/tvi24.m3u8?qki6QW1wWnYwY1BUuz6_OE313ww
+https://ptiptv.tk/tvi24.m3u8?tEhM1ipmMkzrnFBUMfnZzErE_ao
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] TVI REALITY
-https://ptiptv.tk/tvi-direct.m3u8?qki6QW1wWnYwY1BUuz6_OE313ww
+https://ptiptv.tk/tvi-direct.m3u8?tEhM1ipmMkzrnFBUMfnZzErE_ao
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[USA] CBS NEWS
+https://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/master.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[USA] CBS NEWS HD
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[USA] CNN USA | 720P
+https://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[USA] FOX BUSINESS | 720P
+https://1043115116.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[USA] FOX NEWS | 720P
+https://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[USA] FSTV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[USA] MSNBC | 720P
+https://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**[EUR] EURONEWS UK
-https://ptiptv.tk/euronews.m3u8?rki6QW1wWnYwY1BUdpYzuTSALso
+https://ptiptv.tk/euronews.m3u8?tEhM1ipmMkzrnFBUMfnZzErE_ao
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**[PRT]  TV MOZAMBIQUE INTERNACIONAL | 480P
 http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**[PRT] ARTV
 https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**[PRT] EURONEWS PT
-https://ptiptv.tk/euronews-pt.m3u8?rki6QW1wWnYwY1BUdpYzuTSALso
+https://ptiptv.tk/euronews-pt.m3u8?tEhM1ipmMkzrnFBUMfnZzErE_ao
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**[PRT] KURIAKOS TV | 1080P
 http://195.22.11.11:1935/ktv/ktv1/playlist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**[PRT] PORTO CANAL
@@ -71,6 +85,30 @@ https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922
 https://c.mjh.nz/101002210224/
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",[AUS] SNOWY MOUNTAINS TELEVISION
 https://c.mjh.nz/snowy-mountains/
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",[BRA] SPORTV 1
+https://bozztv.com/teleyupp/teleup-pfc-next/index.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",[ESP] 24H
+https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",[ESP] LA 1
+https://rtvelivestream.akamaized.net/la1_dvr.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",[ESP] LA 1 GEO
+https://rtvelivestream.akamaized.net/la1_ak_dvr.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",[ESP] LA 2
+https://rtvelivestream.akamaized.net/la2_dvr.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",[ESP] LA 2 GEO
+https://rtvelivestream.akamaized.net/la2_ak_dvr.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",[ESP] RTVE TELEDEPORTES
+https://rtvelivestream.akamaized.net/tdp_dvr.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",[ESP] TVE
+http://rtvelivestream.akamaized.net/la1_dvr.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",[FRA] TV5MONDE FRANCE
+https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",[IDN] INEWSTV S01
+https://linier.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8?hdnts=exp=1608131871~hmac=e5e9411630cafc13874da87855e0bb4f63b1ffd5361ee0797ca1529adb376fcc
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",[IDN] INEWSTV S02
+https://linier.rctiplus.id/live/eds/inews_fta/live_fta/hdntl=exp=1608217383~acl=%2f*~data=hdntl~hmac=94969227485ca9fb70c9de070918c71fb97422488d89cab07a7eaf7d96413b95/inews_fta-avc1_300000=5.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",[IDN] INEWSTV S03
+https://linier.rctiplus.id/live/eds/inews_fta/live_fta/hdntl=exp=1608217383~acl=%2f*~data=hdntl~hmac=94969227485ca9fb70c9de070918c71fb97422488d89cab07a7eaf7d96413b95/inews_fta-mp4a_64000=2.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",[USA] BSPOKETV
 https://bspoketv.s.llnwi.net/streams/322/master.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",[USA] CINEMAX (EAST)
@@ -111,6 +149,22 @@ https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
 https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",[USA] THIS OLD HOUSE
 https://thisoldhouse-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",4MUSIC
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",BOX TV
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",BOX UP FRONT
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxupfront-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxupfront/
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",KERRANG | HD
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",KILLARNEY | WWW.MCNMEDIA.TV
+https://1104069653.rsc.cdn77.org/live/_724a07187b96b387ad836fc386ecf6fadac80dfc_/724a07187b96b387ad836fc386ecf6fadac80dfc_33.stream/playlist.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",KISS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MAGIC
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",TESTE UNKNOWN 264
 http://tv24.5v.pl/tvbola.php?s=http://live.redtraffic.xyz/bigdick.m3u8
 #EXTINF:-1 group-title="*(02) > > > > > MOVIES",*(02)  > > > > > MOVIES
@@ -739,8 +793,6 @@ https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist_DVR.m3u8
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",[ESP] REALMADRID TV EN
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
-#EXTINF:-1 group-title="*(06) > > > > > SPORTS",[ESP] TELEDEPORTE GEO
-https://rtvelivestream.akamaized.net/tdp_dvr.m3u8
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",[ESP] UD LAS PALMAS TV
 https://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",[ITA] 100 AUTOMOTO TV ???
@@ -1789,8 +1841,6 @@ https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 group-title="*(08) > > > > > MUSIC",BARAZA TV GREEK MUSIC HITS
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 group-title="*(08) > > > > > MUSIC",BOX TV | SD
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 group-title="*(08) > > > > > MUSIC",BOX UP FRONT | SD
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxupfront-desktop.m3u8
 #EXTINF:-1 group-title="*(08) > > > > > MUSIC",CADENA ELITE
@@ -2417,12 +2467,8 @@ https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:-1 group-title="*(10) > > > > > NEWS",**[BRA] CNN BRASIL | 720P
 https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
-#EXTINF:-1 group-title="*(10) > > > > > NEWS",**[EUR] EURONEWS
-https://ptiptv.tk/euronews.m3u8?qki6QW1wWnYwY1BUuz6_OE313ww
 #EXTINF:-1 group-title="*(10) > > > > > NEWS",**[EUR] EURONEWS | 480P
 https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
-#EXTINF:-1 group-title="*(10) > > > > > NEWS",**[PRT] EURONEWS PT
-https://ptiptv.tk/euronews-pt.m3u8?qki6QW1wWnYwY1BUuz6_OE313ww
 #EXTINF:-1 group-title="*(10) > > > > > NEWS",**[RUS] EURONEWS
 https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 group-title="*(10) > > > > > NEWS",[AUS] ABC AUSTRALIA | @P
@@ -2451,8 +2497,6 @@ http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8
 #EXTINF:-1 group-title="*(10) > > > > > NEWS",[DEU] DEUTSCHE WELLE LIVE 08
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
-#EXTINF:-1 group-title="*(10) > > > > > NEWS",[ESP] 24H
-https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1 group-title="*(10) > > > > > NEWS",[ESP] EUROPAPRESS TV
 https://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
 #EXTINF:-1 group-title="*(10) > > > > > NEWS",[ESP] NEGOCIOS TV
@@ -4371,8 +4415,6 @@ https://stream1.vossaskyen.no/bt/FinseStasjon.stream/chunklist_w254227656.m3u8?c
 https://cdn-001.whatsupcams.com/hls/it_firenze1.m3u8
 #EXTINF:-1 group-title="*(15) > > > > > WORLD IPCAMS",FOZ DO IGUAÇU (FRIENDSHIP BRIDGE)
 https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
-#EXTINF:-1 group-title="*(15) > > > > > WORLD IPCAMS",FREE SPEECH TV
-https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1 group-title="*(15) > > > > > WORLD IPCAMS",FT. LAUDERDALE (FL) (MARINA)
 https://videos3.earthcam.com/fecnetwork/8891.flv/chunklist_w2089501293.m3u8
 #EXTINF:-1 group-title="*(15) > > > > > WORLD IPCAMS",GIZA (THE PYRAMIDS)
@@ -9093,12 +9135,8 @@ https://str.intercomarcal.com/hls/tvixa.m3u8
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[ESP] LA 1
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[ESP] LA 1
-https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[ESP] LA 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[ESP] LA 2
-https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[ESP] LA 7
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[ESP] LA 7 TV MURCIA
@@ -9277,8 +9315,6 @@ https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:beauties_web/playlist_DVR.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[ESP] TV3 CATALUNYA
 https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[ESP] TVE
-http://rtvelivestream.akamaized.net/la1_dvr.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[ESP] TVE 1 | @P
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[ESP] TVG (OPT-2)
@@ -9345,8 +9381,6 @@ http://rtcg3.videostreaming.rs:1935/rtcg/smil:rtcg.smil/playlist.m3u8
 https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[EUR] TV3CAT
 https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist_DVR.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[EUR] TV5MONDE FRANCIA FR
-https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[FIN] TAIVAS TV7
 http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/chunklist_w2131949141.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[FIN] YLE TV1
@@ -11721,8 +11755,6 @@ https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
 https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] CBS 12
 https://content.uplynk.com/7dd85b057b134b14afdb3d710398c2a8.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] CBS NEWS USA EN
-https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] CBSN BAY AREA
@@ -16619,6 +16651,12 @@ http://88.202.231.174/live/axn_1200_atk/playlist.m3u8
 http://tv.zelinet.cz/tv/download/playlist.m3u
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",CZWORKA
 http://stream14.polskieradio.pl:1935/pr4_video/video_pr4.stream/playlist.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",Ð
+http://icecast.vgtrk.cdnvideo.ru/moscowfm128
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",Ð
+http://live.pervoeradio.net:7000/live128.mp3
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",Ð
+https://live-k2306-kbp.1plus1.video/487229/smil:487229.smil/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",Ð Ð‘ÐŠ +
 http://online-video.rbc.ru/online/rbctv_576p/index.m3u8?e=e5&t=1Qwzf0
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",Ð Ð°Ð´Ð¸Ð¾ Ð Ð°Ð´Ð¾Ð½ÐµÐ¶
@@ -16851,8 +16889,6 @@ http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
 https://cdn1.mobiletv.bg/T5/dm_sat/dm_sat_794613_850k.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",DNO RADIO (OPT-1)
 http://58e4d59f4ba2c.streamlock.net/streektv/streektv/playlist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ÐŒÐ¾ÑÐºÐ²Ð° FM
-http://icecast.vgtrk.cdnvideo.ru/moscowfm128
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",DOG TV HD
 http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",DOĞUŞ TV
@@ -16909,10 +16945,6 @@ http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",DW NEWS
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ÐŸÐ»ÑŽÑÐŸÐ»ÑŽÑ
-https://live-k2306-kbp.1plus1.video/487229/smil:487229.smil/playlist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ÐŸÐµÑ€Ð²Ð¾Ðµ Ð˜Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚ Ð Ð°Ð´Ð¸Ð¾ (Ð Ð¾ÑÑ‚Ð¾Ð²)
-http://live.pervoeradio.net:7000/live128.mp3
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",DZERZHINSK
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",E RF
@@ -17843,7 +17875,7 @@ https://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",I24 NEWS ARABIA (NEWS) (SA) (ARABIC)
 https://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",IÃƑÆ’Ã†Â€™ÃƑÂ€ŠÃ‚ÂÃƑÆ’Ã¢Â‚¬Å¡ÃƑÂ€ŠÃ‚Â½ÃƑÆ’Ã†Â€™ÃƑÂ¢Ã¢Â€ŠÂ¬Ã‹Å“ÃƑÆ’Ã‚Â¢ÃƑÂ¢Ã¢Â‚¬Å¡Ã‚Â¬ÃƑÂ€¦Ã‚Â¡ÃƑÆ’Ã†Â€™ÃƑÂ€ŠÃ‚ÂÃƑÆ’Ã¢Â‚¬Å¡ÃƑÂ€ŠÃ‚ÂµÃƑÆ’Ã†Â€™ÃƑÂ¢Ã¢Â€ŠÂ¬Ã‹Å“ÃƑÆ’Ã‚Â¢ÃƑÂ¢Ã¢Â€ŠÂ¬Ã…Â¡ÃƑÂ€ŠÃ‚Â¬
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",IÃ
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",IBB
 http://wowza.istweb.tv:1935/webtv/webtv_wowza2/playlist.m3u8
@@ -18582,16 +18614,12 @@ http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",KVF KRINGVARP FOROYA
 https://w1.kringvarp.fo/uttanlands/smil:uttanlands.smil/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",KXPA
-http://38.96.148.253:5852/;
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",LA 1 GEO
-https://rtvelivestream.akamaized.net/la1_ak_dvr.m3u8
+http://38.96.148.253:5852/
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",LA 1 LIVE
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-p.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",LA 2
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",LA 2 GEO
-https://rtvelivestream.akamaized.net/la2_ak_dvr.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",LA 7 TELEVISIÃƑÆ’Ã†Â€™ÃƑÂ€ŠÃ‚Â³N REGIÃƑÆ’Ã†Â€™ÃƑÂ€ŠÃ‚Â³N DE MURCIA
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",LA 7 TELEVISI
 https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",LA 90 FM
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
@@ -19525,7 +19553,7 @@ http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
 https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ON 4
 http://yayin.netradyom.com:1935/live/on4/playist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ON! ÃƑÆ’Ã‚ÂÃƑÂ€¦Ã‚Â¸ÃƑÆ’Ã¢Â‚¬ËŒÃƑÂ€ŠÃ‚ÂÃƑÆ’Ã¢Â‚¬ËŒÃƑÂ¢Ã¢Â€ŠÂ¬Ã…Â¡ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â½ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â¸ÃƑÆ’Ã¢Â‚¬ËŒÃƑÂ¢Ã¢Â€ŠÂ¬Ã‚Â ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â°
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ON!
 http://sc.id-tv.kz/Tan.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ONDA
 http://ss6.domint.net:2052/otv_str/tv10/chunklist.m3u8
@@ -20027,10 +20055,10 @@ http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/chunklist
 http://radionebunya.ro/asculta.m3u
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RADIOROCK ANTENNE DEUTSCHLAND
 http://mp3channels.webradio.de:80/rockantenne-deutschland
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RADYO
+http://radioturku.com:9400/;
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RADYO AHMET KAYA
 http://ahmetkaya.canliyayinda.com:9999/;
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RADYO TÃƑÆ’Ã†Â€™ÃƑÂ€ŠÃ‚Â¼RKÃƑÆ’Ã†Â€™ÃƑÂ€ŠÃ‚Â¼-IZMIR
-http://radioturku.com:9400/;
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RÃƑÆ’Ã†Â€™ÃƑÂ€ŠÃ‚Â¡DIO ALEGRIA FM
 http://stream.ouveai.com.br:8061/;
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RÃƑÆ’Ã†Â€™ÃƑÂ€ŠÃ‚Â¡DIO BAND FM
@@ -20133,24 +20161,24 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",REALITATEA TV
 https://livestream.realitatea.net/livestream/liverealitatea.stream/chunklist.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RECORD
+http://air.radiorecord.ru:8102/ansh_320
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RECORD
+http://air.radiorecord.ru:8102/gast_320
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RECORD
+http://air.radiorecord.ru:8102/gop_320
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RECORD
+http://air.radiorecord.ru:8102/mdl_320
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RECORD
+http://air.radiorecord.ru:8102/sd90_320
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RECORD BLACK
 http://air.radiorecord.ru:8102/yo_320
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RECORD BREAKS
 http://air.radiorecord.ru:8102/brks_320
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RECORD CHILL-OUT
 http://air.radiorecord.ru:8102/chil_320
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RECORD Ð¡ÑƑÐ¿ÐµÑ€Ð´Ð¸ÑÐºÐ¾ 90-Ñ…
-http://air.radiorecord.ru:8102/sd90_320
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RECORD Ð“Ð°ÑÑ‚Ð°Ñ€Ð±Ð°Ð¹Ñ‚ÐµÑ€
-http://air.radiorecord.ru:8102/gast_320
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RECORD Ð“Ð¾Ð¿
-http://air.radiorecord.ru:8102/gop_320
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RECORD ÐÐ½ÑˆÐ»Ð°Ð³ FM
-http://air.radiorecord.ru:8102/ansh_320
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RECORD DEEP
 http://air.radiorecord.ru:8102/deep_320
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RECORD ÐŒÐµÐ´Ð»ÑÐº
-http://air.radiorecord.ru:8102/mdl_320
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RECORD EDM
 http://air.radiorecord.ru:8102/club_320
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RECORD FUTURE BASS
@@ -20243,7 +20271,7 @@ http://c2.manasat.com:1935/church-online/ingles3/playlist.m3u8
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",REN TV INTERNATIONAL
 http://sc.id-tv.kz/RenTV_38_39.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RENASCENÃƑÆ’Ã†Â€™ÃƑÂ¢Ã¢Â€ŠÂ¬Ã‚Â¡A
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RENASCEN
 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",REP CHECA: RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
@@ -20387,7 +20415,7 @@ http://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
 http://188.113.190.12/193/video.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RT DOCUMENTARY CHANNEL
 http://RTCDN.api.visionip.tv/live/ASHTTP/rtcdn-rtcdn-doc-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RT ESPAÃƑÆ’Ã†Â€™ÃƑÂ¢Ã¢Â€ŠÂ¬Ã‹Å“OL HD
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RT ESPA
 http://rt-lh.akamaihd.net:80/i/ch_02@325606/index_720p_av-b.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RT ESPANOL
 http://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
@@ -20543,7 +20571,7 @@ https://rutv.gcdn.co/streams/1410_1272/playlist.m3u8
 https://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RUANG TRAMPIL
 https://dl.dropbox.com/s/8ih2a47l4xq4p2r/Ruangtrampil2.m3u8?dl=0
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RUSIA ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â¢P
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RUSIA
 https://a3569455160-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RUSIA: IZVESTIA
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -20575,6 +20603,8 @@ https://a3569455160-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RUSSIA
 http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:chel_r24.smil/playlist.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RUSSIA
+http://nfw.video.rian.ru/flv/audio.aspx?ID=68862011&type=mp3
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RUSSIA 1
 http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:r1_lipetsk.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RUSSIA 1
@@ -20623,8 +20653,6 @@ http://euro.online.hls.cn.ru/streaming/sport/126/tvrec/playlist.m3u8
 http://rt-lh.akamaihd.net/i/ch_05@325609/master.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RUSSIAN TODAY DOCUMENTARY HD
 http://rt-lh.akamaihd.net/i/ch_05@325609/index_720p_av-p.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RUSSIANÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â°ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â´ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â¸ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â¾ ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â¡ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â¿ÃƑÆ’Ã¢Â‚¬ËŒÃƑÂ€ Ã¢Â‚¬Â„¢ÃƑÆ’Ã¢Â‚¬ËŒÃƑÂ¢Ã¢Â€ŠÂ¬Ã…Â¡ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â½ÃƑÆ’
-http://nfw.video.rian.ru/flv/audio.aspx?ID=68862011&type=mp3
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RUSSIANCTC
 http://ott.watch/stream/Q4P8WLNEFU/138.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RUSSIANKRASNAYA LINIYA 512K
@@ -21117,14 +21145,12 @@ http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_edu
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syriatv
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",SYROS TV1
 http://176.9.123.140:1935/msg116s/msg116s/master.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",SZEGED TELEVÃƑÆ’Ã†Â€™ÃƑÂ€ŠÃ‚Â­ZIÃƑÆ’Ã†Â€™ÃƑÂ€ŠÃ‚Â³
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",SZEGED TELE
 http://rtmp1.40e.hu:8000/live/vtvszeged.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",T13
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13lq
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TA DE BITUCA
 https://videos3.earthcam.com/fecnetwork/5173.flv/chunklist_w165613221.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TÃƑÆ’Ã†Â€™ÃƑÂ€ŠÃ‚Â©LÃƑÆ’Ã†Â€™ÃƑÂ€ŠÃ‚Â© MB
-http://tvl-live.fl.freecaster.net/live/telemb/telemb.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TÃƑÆ’Ã†Â€™ÃƑÂ€ŠÃ‚Â¼RKMENISTAN
 https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TAG TV (OPT-2)
@@ -21410,13 +21436,13 @@ http://113.160.198.111/Medias/HaNam/Playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",THIS IS BULGARIA
 http://31.13.223.104:1935/travel/community.stream/master.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",THRILL
+http://210.210.155.35/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",THRILL
 http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",THRILL (OPT-3)
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",THRILL TV
 http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",THRILLÃƑÆ’Ã‚Â©ÃƑÂ¢Ã¢Â€ŠÂ¬Ã‚ÂºÃƑÂ€ŠÃ‚Â»ÃƑÆ’Ã‚Â¥ÃƑÂ€ŠÃ‚Â½ÃƑÂ€ŠÃ‚Â±ÃƑÆ’Ã‚Â¥ÃƑÂ€ŠÃ‚ÂÃƑÂ€ŠÃ‚Â° (ÃƑÆ’Ã‚Â¥ÃƑÂ€ŠÃ‚ÂÃƑÂ€ŠÃ‚Â°ÃƑÆ’Ã‚Â¥ÃƑÂ€ŠÃ‚Â°ÃƑÂ€ŠÃ‚Â¼|ÃƑÆ’Ã‚Â¨ÃƑÂ¢Ã¢Â€ŠÂ¬Ã‚Â¹ÃƑÂ€ŠÃ‚Â±ÃƑÆ’Ã‚Â¨ÃƑÂ€ŠÃ‚ÂªÃƑÂ€
-http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",THT 4 RUSSIA
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",THT 4 RUSSIA
@@ -21744,6 +21770,8 @@ http://tv545.com/stream/3znj4KV/channel/1015.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_432_av-p.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
+http://tvl-live.fl.freecaster.net/live/telemb/telemb.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
 http://tvsever.ru:8080/hls/ach2.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
 http://tvshops.bonus-tv.ru:80/cdn/discount/tracks-v1a1/index.m3u8
@@ -22055,7 +22083,7 @@ http://83.56.24.104:9981/stream/channelid/1329177212?ticket=E31854C8621FC2E0886A
 http://hls.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV5
 http://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/chunklist_w898856001.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV5 (ÃƑÆ’Ã‚ÂÃƑÂ¢Ã¢Â€ŠÂ¬Ã¢Â‚¬ÂÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â°ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â¿ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â¾ÃƑÆ’Ã¢Â‚¬ËŒÃƑÂ¢Ã¢Â‚¬Å¡Ã‚Â¬ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â¾ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â¶ÃƑÆ’Ã¢Â‚¬ËŒÃƑÂ€¦Ã¢Â‚¬Â„¢ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Âµ)
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV5
 https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV5 LINARES
 http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
@@ -25017,6 +25045,10 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",AAJ TAK
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",AD SPORTS 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6\u0026checkedby:iptvcat.com
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",ADULT SWIM
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",AKAKU 53 HAWAII [480P]
 https://akaku.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",AKAKU 54 HAWAII [480P]
@@ -25053,6 +25085,10 @@ http://161.0.157.38/PLTV/88888888/224/3221226253/index.m3u8
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_C03_ANIMALPLANETHD/variant.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",ANJAN
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",AQUA TEEN HUNGER FORCE (GEO)
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",ARTUR
+https://stream.allsprk.tv/live/9/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",ASTRO CERIA
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",ASTRO GO SHOP
@@ -25083,8 +25119,18 @@ http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w555673922.m3u
 https://streamer12.vdn.dstreamone.net/barkattv/dexpo/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",BASHMENT
 http://161.0.157.38/PLTV/88888888/224/3221226311/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",BAYWATCH
+https://stream.allsprk.tv/live/4/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",BBC WORLD NEWS
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_BBCWORLDNEWS/variant.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",BEACH TV - FLORIDA - ALABAMA
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",BEACH TV - KEY WEST - FLORIDA KEYS
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",BEACH TV - MYRTLE BEACH - GRAND STRAND
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",BEACH TV - PANAMA CITY
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",BEIN PREMIER
 http://lihattv.toh.info/jhos/beib3_5/-/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",BEIN SPORTS 1
@@ -25101,6 +25147,10 @@ http://180.250.29.12/jhos/beib3_3/1424681872/playlist.m3u8
 http://lihattv.toh.info/jhos/beib3.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",BFLIX MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",BIZ TV HD
+https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",BLACK CINEMA
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web\u0026deviceMake=Chrome\u0026deviceModel=Chrome\u0026sid=6e360db0-724b-11e8-be77-bf4d1417b012\u0026deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf\u0026deviceVersion=37.0.2049.0\u0026appVersion=2.0.0\u0026deviceDNT=0\u0026userId=\u0026advertisingId=\u0026deviceLat=38.5783\u0026deviceLon=-90.6666\u0026app_name=\u0026appName=\u0026appStoreUrl=\u0026serverSideAds=true\u0026checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",BOOMERANG
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",BOOMERANG
@@ -25115,12 +25165,30 @@ https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",BTL TV
 https://livecdn.live247stream.com/btl/tv/btl/stream1/chunks.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CAMP SPOOPY
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269\u0026livestream=1\u0026live=1\u0026app_bundle=com.plexapp.desktop\u0026did=df8e1a36-847d-5096-86a7-3803ed330ede\u0026app_domain=app.plex.tv\u0026app_name=plex\u0026h=691\u0026w=1224\u0026content_title=MorUy57ijWhGe4ixZb_T\u0026content_series=5f77a99416621400402b3dc1\u0026custom4=plex\u0026gdpr=1\u0026device_make=Windows\u0026device_model=Firefox\u0026coppa=1\u0026us_privacy=1---\u0026checkedby:iptvcat.com
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CANAL 12 PUERTO MADRYN
+https://59db7e671a1ad.streamlock.net/madryntv/madryntv/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CANAL 2 JUJUY
+http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CANAL 22 BA
+http://api.new.livestream.com/accounts/27390802/events/8239465/live.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CANAL TERRES DE L'EBRE
+http://liveingesta118.cdnmedia.tv//canaltetvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CANAL TERRES DE L'EBRE (OPT-2)
+http://liveingesta118.cdnmedia.tv/canaltetvlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",CATCH
 http://161.0.157.38/PLTV/88888888/224/3221226865/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",CBS NEWS (CBSN)
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CHANNEL FIGHT
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68\u0026live=1\u0026app_bundle=com.plexapp.desktop\u0026did=df8e1a36-847d-5096-86a7-3803ed330ede\u0026app_domain=app.plex.tv\u0026app_name=plex\u0026h=691\u0026w=1224\u0026content_title=MorUy57ijWhGe4ixZb_T\u0026content_series=5f0ff265d71dcb00449ec02a\u0026custom4=plex\u0026gdpr=1\u0026device_make=Windows\u0026device_model=Firefox\u0026coppa=0\u0026us_privacy=1---\u0026checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",CHANNEL Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CINEMAX
+http://193.33.39.108:8107/30709
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CLASSIC MOVIES
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web\u0026deviceMake=Chrome\u0026deviceModel=Chrome\u0026sid=6e360db0-724b-11e8-be77-bf4d1417b012\u0026deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf\u0026deviceVersion=37.0.2049.0\u0026appVersion=2.0.0\u0026deviceDNT=0\u0026userId=\u0026advertisingId=\u0026deviceLat=38.5783\u0026deviceLon=-90.6666\u0026app_name=\u0026appName=\u0026appStoreUrl=\u0026serverSideAds=true\u0026checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",CNBC
 http://161.0.157.38/PLTV/88888888/224/3221227005/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",CNBC WORLD
@@ -25135,6 +25203,8 @@ http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",COOKING CHANNEL
 http://161.0.157.38/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",COOKING PANDA
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46\u0026live=1\u0026app_bundle=com.plexapp.desktop\u0026did=df8e1a36-847d-5096-86a7-3803ed330ede\u0026app_domain=app.plex.tv\u0026app_name=plex\u0026h=691\u0026w=1224\u0026content_title=MorUy57ijWhGe4ixZb_T\u0026content_series=5f07e9fdf313eb0041bbecda\u0026custom4=plex\u0026gdpr=1\u0026device_make=Windows\u0026device_model=Firefox\u0026coppa=0\u0026us_privacy=1---\u0026checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",CT-N STREAMING MEDIA
 http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",Ð Ð°Ð´Ð¸Ð¾ UVAGA (Ð‘ÐµÐ»Ð°Ñ€ÑƑÑÑŒ)
@@ -25157,6 +25227,8 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",DRAMA SANGAT
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",DRINK TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=62\u0026live=1\u0026app_bundle=com.plexapp.desktop\u0026did=df8e1a36-847d-5096-86a7-3803ed330ede\u0026app_domain=app.plex.tv\u0026app_name=plex\u0026h=691\u0026w=1224\u0026content_title=MorUy57ijWhGe4ixZb_T\u0026content_series=5eea605474085f0040ddc76a\u0026custom4=plex\u0026gdpr=1\u0026device_make=Windows\u0026device_model=Firefox\u0026coppa=0\u0026us_privacy=1---\u0026checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",DUNYA NEWS
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",DW-TV
@@ -25165,8 +25237,12 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/variant.m3u8
 http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",ENTERR10
 http://streamitv.multitvsolution.in/idvo/enter10bangla.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",ESPLUGUES TELEVISIO
+https://vodingesta1083.cdnmedia.tv/video/etv/lcnhpgm134311015ceb4c0c-e8af_H
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",ESPN 2
 http://161.0.157.38/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",ETV MANISA
+https://broadcasttr.com:446/manisaetv/bant1/chunklist_w149497199.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",EURONEWS
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_EURONEWS/variant.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",EUROPA PLUS TV
@@ -25209,12 +25285,16 @@ http://161.0.157.38/PLTV/88888888/224/3221226821/index.m3u8
 http://161.0.157.38/PLTV/88888888/224/3221226729/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",GLOBAL PUNJAB
 https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",GREENBELT TV
+https://t07113a-lh.akamaihd.net/i/t07113a_1@756729/master.m3u8?set-akamai-hls-revision=5\u0026set-cc-attribute=none\u0026checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",GREENSBORO TV NETWORK [360P]
 http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",GULISTAN NEWS
 https://rtmp.smartstream.video/gulistannews/gulistannews/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",GULLI
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_GULLI/variant.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",GUSTO TV
+https://gustous-plex.amagi.tv/hls/amagi_hls_data_gustoAAAA-gustous-plex/CDN/playlist.m3u8?us_privacy=1---\u0026did=df8e1a36-847d-5096-86a7-3803ed330ede\u0026dnt=0\u0026X-Plex-Token=MorUy57ijWhGe4ixZb_T\u0026channelId=5f8746eabd529300418246d9\u0026checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",HBO 2
 http://161.0.157.38/PLTV/88888888/224/3221227026/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",HBO HD
@@ -25223,8 +25303,12 @@ http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
 http://msk2.peers.tv/streaming/49kanal/16/tvrec/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",HISTORY HD
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_C05_HDHISTORY/variant.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",HOUSE OF CARDS
+https://stream.allsprk.tv/live/3/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",HRT2 (CROACIA) | 720P
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",HSN
+https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",HTTP-USER-AGENT=STREAM
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/0154340d802199f.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",HTTP-USER-AGENT=STREAM
@@ -25449,6 +25533,10 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f761f6f79ecb16
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f982966b84c04e0.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",HULCHUL TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",HUNT CHANNEL
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",HUNT CHANNEL
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",HYPE
 http://161.0.157.38/PLTV/88888888/224/3221226726/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",IBAADAT TV
@@ -25465,6 +25553,8 @@ http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_DISCOVERYINVESTIGATION/variant.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",ISAAC TV
 https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",JANAM TV
+https://vidhttps.r.worldssl.net/janamtv-origin/liveabr/janamtv-origin/live1/chunks.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",JHANJAR HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",JIMJAM
@@ -25477,10 +25567,24 @@ http://125.227.210.37:8935/VideoInput/play.ts
 https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",KINO TV
 http://51.195.44.53:8081/tv/kino-tv/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",LA XARXA
+https://liveingesta118.cdnmedia.tv//vsnxallive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",LAKE HAVASU CITY 4
 https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",LATIDO MUSIC
+https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---\u0026did=3f68a808-1437-5e57-9eaf-7a12279d9462\u0026dnt=0\u0026X-Plex-Token=nkPyxTGm41qFS7TFC9Yh\u0026channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/720x404_1460800/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",LIFE PUNJABI
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",LNKTV CITY
+http://5tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",LNKTV EDUCATION
+http://80tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",LNKTV HEALTH
+http://10tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",LOCAL NOW PHILIDELPHIA
+https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT\u0026experienceid=paPhiladelphia\u0026seid=532865b2-796b-497d-abb2-56df16f62f32\u0026showlocalnow=false\u0026cdn=https://ottcdn-a.akamaihd.net\u0026sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0\u0026format=HLS\u0026tpp=10443\u0026checkedby:iptvcat.com
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",MAGHREB ARABE PRESS
+https://www.maptvnews.ma/live/smil:OutStream1.smil/chunklist_w1876499295_b4500000_sleng.m3u8?v=2545016994\u0026checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",MAHA MOVIE
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",MALAIMURASU
@@ -25489,6 +25593,8 @@ https://wowzaprod170-i.akamaihd.net/hls/live/630629/b6055932/playlist.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",MARUTAM TV
 http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",MATARO TELEVISIO
+http://liveingesta118.cdnmedia.tv//m1tvlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",MAX PRIME HD
 http://161.0.157.38/PLTV/88888888/224/3221226834/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",MCM TOP
@@ -25501,6 +25607,8 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_C05_MEZZOLIVEHD/variant.m3u8
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",MH1 PRIM
 http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",MIJAS 3.40 TV (OPT-2)
+https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",MM
 http://161.0.157.38/PLTV/88888888/224/3221226847/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",MSNBC | 720P
@@ -25527,6 +25635,8 @@ http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",NASA TV MEDIA
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",NAT GEO
+https://stream.allsprk.tv/live/8/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",NAT GEO WILD
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",NAT GEO WILD HD
@@ -25537,6 +25647,8 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_NATGEO/variant.m3u8
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_C04_NGCHD/variant.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",NAURA
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",NBC 15 MADISON WI (WMTVNBC)
+http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q\u0026checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",NBC 4 NEWS (WASHINGTON DC)
 https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",NBC GOLF
@@ -25551,28 +25663,42 @@ http://hls.novotelecom.ru/streaming/nickelodeon/tvrec/playlist.m3u8
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_NICKELODEON/variant.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",NICKELODEON HD
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_C01_NICKELODEONHD/variant.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",NO TV - NEW ORLEANS TELEVISION
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",NTV7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",NYXT
+http://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",OAN ENCORE
+https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/512x288_875600/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",OCEAN TV
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_OCEANTV/variant.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",OMROEP GELDERLAND
+https://web.omroepgelderland.nl/live/livetv.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",PARAMOUNT CHANNEL
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_PARAMOUNTCHANNEL/variant.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",PARAMOUNT CHANNEL HD
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_C02_PARAMOUNTCHANNELHD/variant.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",PARAMOUNT COMEDY HD
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",PARTY TYME KARAOKE
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64\u0026live=1\u0026app_bundle=com.plexapp.desktop\u0026did=df8e1a36-847d-5096-86a7-3803ed330ede\u0026app_domain=app.plex.tv\u0026app_name=plex\u0026h=691\u0026w=1224\u0026content_title=MorUy57ijWhGe4ixZb_T\u0026content_series=5f17a1a283581000409bd875\u0026custom4=plex\u0026gdpr=1\u0026device_make=Windows\u0026device_model=Firefox\u0026coppa=0\u0026us_privacy=1---\u0026checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",PATV
 http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",PEACE TV URDU
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",PIK SAT CHIPRE
 http://cdnvideo.webvideocore.net/live11uk/out_2xtqzyrq6gysc48ko0cs/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",PLAYERS TV
+https://playerstv-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-playerstv-plex/CDN/playlist.m3u8?us_privacy=1---\u0026did=df8e1a36-847d-5096-86a7-3803ed330ede\u0026dnt=0\u0026X-Plex-Token=MorUy57ijWhGe4ixZb_T\u0026channelId=5f74cf81ffbe690040689f44\u0026checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",PREMIERA (ESLOVACO) | 720P
 http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",PRIME ASIA
 http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",PUNCH DRUNK LOVE
+https://stream.allsprk.tv/live/1/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",PUNJABI ZINDABAD
 http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",Q TV
@@ -25599,6 +25725,16 @@ http://rouge-rnb.ice.infomaniak.ch/rouge-rnb-64.aac
 http://rouge-reggae.ice.infomaniak.ch/rouge-reggae-64.aac
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",RADIO ROUGE:ROUGE ROCK
 http://rouge-rockpop.ice.infomaniak.ch/rouge-rockpop-high.aac
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RADIOU TV USA
+https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RENAND STIMPY
+https://stream.allsprk.tv/live/7/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",ROPE 2 ROPE
+https://nrpus.bozztv.com/36bay2/gusa-rope2rope/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RTL (OPT-2)
+http://live-edge02.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RTL (OPT-3)
+http://live-edge01.rtl.lu/channel2/smil:channel2/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",RTM SPORTS HD
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",RTTV HD
@@ -25639,6 +25775,8 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_6
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_C04_SHOP24/variant.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",SHOPPING LIVE
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_SHOPPINGLIFE/variant.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",SITELER TV
+http://live.arkumedia.com:1935/sitelertv/sitelertv/chunklist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",SMARTLABS
@@ -25651,8 +25789,18 @@ http://51.52.156.22:8888/http/009
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_SONYSCIFI/variant.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",SONY TURBO
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_SONYTURBO/variant.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",SOUTHPARK
+https://stream.allsprk.tv/live/2/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",SPORTS GRID
+https://sportsgrid-plex.amagi.tv/amRdirect/us_privacy=1---\u0026did=3f68a808-1437-5e57-9eaf-7a12279d9462\u0026dnt=0\u0026X-Plex-Token=nkPyxTGm41qFS7TFC9Yh\u0026channelId=5ef11485d33ab9004048a1ca/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/1280x720_2855600/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",SPORTS MAX
 http://161.0.157.38/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",SQADL
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=39\u0026live=1\u0026app_bundle=com.plexapp.desktop\u0026did=df8e1a36-847d-5096-86a7-3803ed330ede\u0026app_domain=app.plex.tv\u0026app_name=plex\u0026h=691\u0026w=1224\u0026content_title=MorUy57ijWhGe4ixZb_T\u0026content_series=5f12332eeca6a20040b328e5\u0026custom4=plex\u0026gdpr=1\u0026device_make=Windows\u0026device_model=Firefox\u0026coppa=1\u0026us_privacy=1---\u0026checkedby:iptvcat.com
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",STARGATE ATLANTIS
+https://stream.allsprk.tv/live/6/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",STARGATE SG1
+https://stream.allsprk.tv/live/5/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",STARSHINE TV
 https://5e74ff08e631e.streamlock.net/ShineStarTV/mp4:ShineStarTV/chunklist_w804518484.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",STRK HD 720 RUSIA
@@ -25661,20 +25809,40 @@ http://msk2.peers.tv/streaming/strk/126/hd/playlist.m3u8
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",TAMIL VISION
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TAROT CANAL
+https://live2.tarotcanal.com/live/livestream/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",TB 3 RUSIA
 http://msk2.peers.tv/streaming/tv3/126/tvrec/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",TELESHOP HD
 http://161.0.157.38/PLTV/88888888/224/3221226207/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TELEVISIO BADALONA
+http://liveingesta118.cdnmedia.tv//badalonatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TELEVISIO BERGUEDA
+http://liveingesta118.cdnmedia.tv//berguedatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TG TOON GOOGLES
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37\u0026live=1\u0026app_bundle=com.plexapp.desktop\u0026did=df8e1a36-847d-5096-86a7-3803ed330ede\u0026app_domain=app.plex.tv\u0026app_name=plex\u0026h=691\u0026w=1224\u0026content_title=MorUy57ijWhGe4ixZb_T\u0026content_series=5eea605574085f0040ddc794\u0026custom4=plex\u0026gdpr=1\u0026device_make=Windows\u0026device_model=Firefox\u0026coppa=1\u0026us_privacy=1---\u0026checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",THANTHI TV
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",THE BOX
+http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/u0026checkedby:iptvcat.com
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",THE FILM DETECTIVE
+https://filmdetective-plex.amagi.tv/amRdirect/us_privacy=1---\u0026did=3f68a808-1437-5e57-9eaf-7a12279d9462\u0026dnt=0\u0026X-Plex-Token=nkPyxTGm41qFS7TFC9Yh\u0026channelId=5eea605674085f0040ddc7a3/hls/amagi_hls_data_plexAAAAA-filmdetective-plex/CDN/1280x720_3256000/chunklist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",THE LOVE DESTINATION
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=43\u0026live=1\u0026app_bundle=com.plexapp.desktop\u0026did=df8e1a36-847d-5096-86a7-3803ed330ede\u0026app_domain=app.plex.tv\u0026app_name=plex\u0026h=691\u0026w=1224\u0026content_title=MorUy57ijWhGe4ixZb_T\u0026content_series=5eea605674085f0040ddc7a9\u0026custom4=plex\u0026gdpr=1\u0026device_make=Windows\u0026device_model=Firefox\u0026coppa=0\u0026us_privacy=1---\u0026checkedby:iptvcat.com
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",THE XFILES
+https://stream.allsprk.tv/live/0/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",TIVA HD 720 PUERTO RICO
 http://live-h1.frontlayer.net/fl729845/live/live.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",TLC
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_TLC/variant.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",TLC HD
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_C04_TLCHD/variant.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TOON GOOGLES
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36\u0026live=1\u0026app_bundle=com.plexapp.desktop\u0026did=df8e1a36-847d-5096-86a7-3803ed330ede\u0026app_domain=app.plex.tv\u0026app_name=plex\u0026h=691\u0026w=1224\u0026content_title=MorUy57ijWhGe4ixZb_T\u0026content_series=5f123330eca6a20040b328e8\u0026custom4=plex\u0026gdpr=1\u0026device_make=Windows\u0026device_model=Firefox\u0026coppa=1\u0026us_privacy=1---\u0026checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",TRIDENT 10 TV
 http://161.0.157.38/PLTV/88888888/224/3221226832/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TRINITY CHANNEL
+http://rtmp1.abnsat.com/hls/trinity.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",TRINITY TV
 http://161.0.157.38/PLTV/88888888/224/3221226638/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",TV 1000
@@ -25705,6 +25873,8 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",ULTRA FILM HD 720
 http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNIDENTIVIED
+https://studio1091-plex.amagi.tv/amRdirect/us_privacy=1---\u0026did=3f68a808-1437-5e57-9eaf-7a12279d9462\u0026dnt=0\u0026X-Plex-Token=nkPyxTGm41qFS7TFC9Yh\u0026channelId=5eea605374085f0040ddc764/hls/amagi_hls_data_plexAAAAA-unindentifiedtv-plex/CDN/1920x1080_5055600/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",UNIVERSAL CHANNEL HD
 http://161.0.157.38/PLTV/88888888/224/3221226828/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN
@@ -25721,18 +25891,40 @@ http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",UPDATED:8/15-PLANET POP
 http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",US | YOUTOO AMERICA HD
+https://thegateway.app/YouToo/CueTones/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UTV UNAH
+https://live-utv.unah.edu.hn/web/salida.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",VASANTH TV
 http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836bc39f96d0a9a958a659dfc1d&bgsecuredir=1
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",VELICHAM
 https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",VENN
+https://venntv-plex.amagi.tv/hls/amagi_hls_data_venntvAAA-venntv-plex/CDN/playlist.m3u8?us_privacy=1---\u0026did=df8e1a36-847d-5096-86a7-3803ed330ede\u0026dnt=0\u0026X-Plex-Token=MorUy57ijWhGe4ixZb_T\u0026channelId=5f74cf7dffbe690040689f3b%20\u0026checkedby:iptvcat.com
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",VH1
+http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c\u0026ad.locationDesc=vh1_channel\u0026ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue\u0026expand=simulcast_standard\u0026ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb\u0026delay=10800\u0026euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb\u0026exp=1531977295\u0026rn=1284714433\u0026ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb\u0026cid=7a16e3d5ffd0413ba4d8ac89688ed7cd\u0026\u0026checkedby:iptvcat.com
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",VIDEO 33 ALTO ADIGE
+http://livestream.goinfo.it/V33Live/v33ros/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",WABI 5 - BANGOR - MAINE
+https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo\u0026checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",WEATHER CHANNEL
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",WJAX ACTION NEWS - JACKSONVILLE
+https://d2eit0bra9qkiw.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10050_b9ac3c93-be86-4f7e-82b8-796b7f8bfda3_LE/in/cmg-wjaxtv-hls-v3/live.m3u8?aws.sessionId=dcb19887-c2ac-40ff-94fa-4f9c8692f754\u0026checkedby:iptvcat.com
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",WMFD
+https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",WOW CINEMA
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",WU TANG
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73\u0026live=1\u0026app_bundle=com.plexapp.desktop\u0026did=df8e1a36-847d-5096-86a7-3803ed330ede\u0026app_domain=app.plex.tv\u0026app_name=plex\u0026h=691\u0026w=1224\u0026content_title=MorUy57ijWhGe4ixZb_T\u0026content_series=5eea605474085f0040ddc770\u0026custom4=plex\u0026gdpr=1\u0026device_make=Windows\u0026device_model=Firefox\u0026coppa=0\u0026us_privacy=1---\u0026checkedby:iptvcat.com
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",YAHOO! FINANCE
+https://yahoo-plex.amagi.tv/amRdirect/us_privacy=1---\u0026did=61e24c69-c657-5bf3-b863-7cdc122e912c\u0026dnt=0\u0026X-Plex-Token=yd2t7_mqLeso7PyTUYZ6\u0026channelId=5f170f01b898490041b49dd1/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",ZEE CAFE
 http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",ZEE CINEMA
 http://161.0.157.38/PLTV/88888888/224/3221226709/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",ZEE CINEMA
+https://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8?silma.m3u8\u0026checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",ZEE PUNJABI
 http://z5amshls.akamaized.net/punjabi/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",ZEE SMILE
