@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*(01)  > > > > > FREE WEB TV ( UPDATE 2020-12-24 )
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*(01)  > > > > > FREE WEB TV ( UPDATE 2020-12-27 )
 http://0.0.0.0:01
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] RTP 1 | 504P
 https://streaming-live.rtp.pt/liverepeater/rtp1.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
@@ -30,19 +30,19 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] SIC RADICAL
 http://live.impresa.pt/live/sicrad/sicrad.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] TVI
-https://ptiptv.tk/tvi.m3u8?vEhM1ipmMkzrnFBUtwB6q7aF1pU
+https://ptiptv.tk/tvi.m3u8?v0hM1ipmMkzrnFBUQN2fJB_kAwc
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] TVI 24
-https://ptiptv.tk/tvi24.m3u8?vEhM1ipmMkzrnFBUtwB6q7aF1pU
+https://ptiptv.tk/tvi24.m3u8?v0hM1ipmMkzrnFBUQN2fJB_kAwc
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] TVI REALITY
-https://ptiptv.tk/tvi-direct.m3u8?vEhM1ipmMkzrnFBUtwB6q7aF1pU
+https://ptiptv.tk/tvi-direct.m3u8?v0hM1ipmMkzrnFBUQN2fJB_kAwc
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**[EUR] EURONEWS UK
-https://ptiptv.tk/euronews.m3u8?vEhM1ipmMkzrnFBUtwB6q7aF1pU
+https://ptiptv.tk/euronews.m3u8?v0hM1ipmMkzrnFBUQN2fJB_kAwc
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**[PRT]  TV MOZAMBIQUE INTERNACIONAL | 480P
 http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**[PRT] ARTV
 https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**[PRT] EURONEWS PT
-https://ptiptv.tk/euronews-pt.m3u8?vEhM1ipmMkzrnFBUtwB6q7aF1pU
+https://ptiptv.tk/euronews-pt.m3u8?v0hM1ipmMkzrnFBUQN2fJB_kAwc
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**[PRT] KURIAKOS TV | 1080P
 http://195.22.11.11:1935/ktv/ktv1/playlist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**[PRT] PORTO CANAL S01 | 360P
@@ -61,12 +61,16 @@ https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",[USA] SHOWTIME (WEST)
 https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",ABC NEWS 24/7
+http://176.31.74.164:8081/abcnewslive/abcnews/playlist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",EAWAZ TV (CA)
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",GEM USA
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",KILLARNEY | WWW.MCNMEDIA.TV
 https://1104069653.rsc.cdn77.org/live/_724a07187b96b387ad836fc386ecf6fadac80dfc_/724a07187b96b387ad836fc386ecf6fadac80dfc_33.stream/playlist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",TVM (OPT-2)
-http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_b714000_slpor.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",NBC HD
+http://161.0.157.50/PLTV/88888888/224/3221227040/01.m3u8
 #EXTINF:-1 group-title="*(02) > > > > > MOVIES",*(02)  > > > > > MOVIES
 http://0.0.0.0:02
 #EXTINF:-1 group-title="*(02) > > > > > MOVIES",***[USA] MIH TV
@@ -931,6 +935,10 @@ http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/226.m3u8
 http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/75.m3u8
 #EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",*(04)  > > > > > DOCUMENTARY
 http://0.0.0.0:04
+#EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",[ARABE] D MAX TR | 1080P
+http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",[USA] NASA TV | 720P
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",[USA] THIS OLD HOUSE
 https://thisoldhouse-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",AMAZING DISCOVERIES TV
@@ -945,6 +953,10 @@ https://s4.idata.uz/animal/tracks-v1a1/mono.m3u8
 http://ivi.bupt.edu.cn/hls/cctv9.m3u8
 #EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",CGTN DOCUMENTARY
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",CGTN DOCUMENTARY | 288P
+http://livedoc.cgtn.com/200d/prog_index.m3u8
+#EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",CGTN DOCUMENTARY | 576P
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",CRIME & INVESTIGATION
 http://203.154.243.31:15001
 #EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",DARCIZZLE OFFSHORE | 720P
@@ -1105,6 +1117,8 @@ https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 https://nosey-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",[USA] POP STAR
 https://linear-10.frequency.stream/10/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",[USA] TWIT
+http://iphone-streaming.ustream.tv:80/uhls/1524/streams/live/playlist.m3u8
 #EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",13 MAX (ARGENTINA)
 http://coninfo.net:1935/13maxhd/live_720p/.m3u8
 #EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",13 MV LAOS
@@ -1203,8 +1217,6 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",FASHION TV PG16
 https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8
-#EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",FASHIONTV CZECH&SLOVAK
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",FORENSIC FILES
 http://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
 #EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",FTV INTERNAC
@@ -1283,8 +1295,6 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/ch
 http://vps.parsiland.net/hls/ParsiLand.m3u8
 #EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",PAYAM JAVAN TV
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
-#EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",PBC TAPESH TV (BACKUP)
-http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
 #EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",PEOPLE TV
 https://a.jsrdn.com/broadcast/b5d2k0x/c.m3u8
 #EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",PEOPLE TV
@@ -1371,6 +1381,8 @@ https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
 http://dmitry-tv.my1.ru/his/ua/CH_SPORTHD_720.m3u8
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",[USA] CBS SPORTS HD | @P
 http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
+#EXTINF:-1 group-title="*(06) > > > > > SPORTS",[USA] COMBAT GO
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-combatgoA/CDN/master.m3u8
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",[USA] FIGHT PLUS
 https://nimble.dashstreams.net/onestudio/fightplustv/playlist.m3u8
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",[USA] STADIUM TV
@@ -1877,10 +1889,6 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",RAI SPORT
 https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
-#EXTINF:-1 group-title="*(06) > > > > > SPORTS",RAI SPORT (GEO)
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975
-#EXTINF:-1 group-title="*(06) > > > > > SPORTS",RAI SPORT+ (GEO)
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",REAL MADRID
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",REAL MADRID HD
@@ -2671,8 +2679,6 @@ https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 #EXTINF:-1 group-title="*(08) > > > > > MUSIC",KALOOPY
 http://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/00924547-be9a-43a2-b57e-602a3ef40a64/0.m3u8
-#EXTINF:-1 group-title="*(08) > > > > > MUSIC",KARAOKE CHANNEL
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 #EXTINF:-1 group-title="*(08) > > > > > MUSIC",KERRANG | HD
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8
 #EXTINF:-1 group-title="*(08) > > > > > MUSIC",KERRANG | HD
@@ -3155,6 +3161,8 @@ https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_
 http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="*(08) > > > > > MUSIC",TRT MUZIK
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="*(08) > > > > > MUSIC",TURBO MIX RADIO TV | SD
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
 #EXTINF:-1 group-title="*(08) > > > > > MUSIC",TV 538
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q2.m3u8
 #EXTINF:-1 group-title="*(08) > > > > > MUSIC",TV DIRECT 13
@@ -6397,14 +6405,64 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.
 http://109.71.162.112/live/hd.jasminchannel.stream/master.m3u8
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",***JASMIN TV SD
 http://109.71.162.112/live/sd.jasminchannel.stream/master.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",***MIAMI TV MEXICO | @P
-http://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",**STREAMSAT PLAYBOY TV
 http://85.240.152.189:8001/1:0:1:527:67:53:CE40000:0:0:0:
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",**STREAMSAT VENUS
 http://85.240.152.189:8001/1:0:1:D5:66:53:CE40000:0:0:0:
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",**VISIT-X
 http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET ANAL
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET BIG ASS
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET BIG DICK
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET BIG TITS
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET BLONDE
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET BLOWJOB
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET BRUNETTE
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET COMPILATION
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET CUCKOLD
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET FETISH
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET GANGBANG
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET GAY
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET HARDCORE
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET INTERRACIAL
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET LATINA
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET LESBIAN
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET LIVE CAMS
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET PORNSTAR
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET ROUGH
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET RUSSIAN
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET TEEN
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET THREESOME
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*BALKAN HOT
+http://194.54.183.85:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*BALKAN HOT 2
+http://194.54.183.85:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*REDTRAFFIC BIG ASS HD
 http://live.redtraffic.xyz/bigass.m3u8
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*REDTRAFFIC BIG DICK HD
@@ -6473,6 +6531,32 @@ https://video1.tizam.cc/films/prekrasnye_sis_ki_06-1.mp4
 https://video1.tizam.cc/files/2500969/mandingos_milfs_2.mp4
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK & WHITE 10
 https://video1.tizam.cc/files/2431315/black_and_white.mp4
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK AND WHITE 11
+https://video1.tizam.cc/files/2505211/black_and_white.11.mp4
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK AND WHITE 12
+https://video1.tizam.cc/files/2528831/black_and_white_12.mp4
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK AND WHITE 14
+https://video2.tizam.cc/films/Black-and-White-14.mp4
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK AND WHITE 6
+https://video2.tizam.cc/files/2278762/black_and_white_6_chast_1.mp4
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK AND WHITE 8
+https://video1.tizam.cc/films/BlackandWhite8.mp4
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK AND WHITE 9
+https://video2.tizam.cc/files/2399524/black_and_white_9___chernye_i_belye_9.mp4
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK BOLTS 10
+https://video2.tizam.cc/films/Blacked-Raw-10.mp4
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK LABEL 4
+https://video2.tizam.cc/files/2392797/chyornaya_ikona_4_1.mp4
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK LABEL 6
+https://video1.tizam.cc/files/2474758/interracial_icon_6.mp4
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK LABEL 7
+https://video1.tizam.cc/files/2494973/interracial_icon_7.mp4
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK MALE AND HIS WHITE GF FUCK IN FRONT OF THE CAMERA
+https://video1.tizam.cc/roliki/BlackedRaw142019.mp4
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK RAW MATERIALS В11
+https://video2.tizam.cc/films/Blacked-Raw-V11.mp4
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK WITH WHITE 0.13
+https://video2.tizam.cc/files/2557880/black__and__white_vol._13.mp4
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BRAZZERS 1
 http://static.brazzers.com/scenes/7119/180sec.flv
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BRAZZERS 10
@@ -6521,6 +6605,8 @@ https://cdn2.servitubes.com/videos/c/d/0/6/7/cd067ad27542e80d1183612d84d0c57fe81
 https://cdn2.servitubes.com/videos/e/9/1/f/c/e91fc5e6e5308d853fcfd4ec53a6332bb954ab47.mp4
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] CUANDO LA MADRE SE VA DE CASA
 https://cdn2.servitubes.com/videos/c/8/6/9/0/c86903853256f6f2eb40068e92fb3010f03c440c.mp4
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] DARK ICON 10
+https://video1.tizam.cc/films/InterracialIcon10.mp4
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] DEMIDA
 http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] FOURTH PART
@@ -6531,6 +6617,8 @@ http://video1.tizam.cc/films/appetitnye_chiksy_4.mp4
 https://cdn3.servitubes.com/videos/0/3/8/8/e/0388e1dee35010743e1cfcd738816e939bdd94ea.mp4
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] GERTA
 http://tube.paperstreetcash.com/12mins/rubateen/rubateen_gerta_12minute.mp4
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] I WANT TO BECOME A PORN STAR
+https://video1.tizam.cc/vk/cic-iwant.mp4
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] INTERRACIAL ANAL 4
 https://video1.tizam.cc/files/2423036/interracial_anal_4.mp4
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] INTERRACIAL ICON 5
@@ -6579,6 +6667,8 @@ https://cdn2.servitubes.com/videos/8/5/8/9/a/8589a22faf634ae4adec631048a553e13e0
 http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_sara_luvv_8minutes.mp4
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] SASHA
 http://tube.paperstreetcash.com/12mins/rubateen/rubateen_sasha_12minute.mp4
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] SECRET LINK
+https://video2.tizam.cc/files/2306570/secret_relation.mp4
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] SEX AND ELEGANCE: THE GLAMOR LINE
 https://video1.tizam.cc/files/2438911/sex_and_elegance__gla.mp4
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] SEX FETISH
@@ -6591,6 +6681,12 @@ https://cdn2.servitubes.com/videos/4/8/5/4/4/48544bb5a3a70d453df7d3390ead5418293
 http://cdn.servitubes.com/videos/e/e/6/1/f/ee61f46e421e18382ff152b4cdc74c413236429a.mp4
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] T.ME/TVLAB 2016 ГОД
 https://video2.tizam.cc/films/Pour-It-On.mp4
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] THE BOOTY MOVIE 6
+https://video1.tizam.cc/vk/cic-booty6.mp4
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] THE BOOTY MOVIE 7
+https://video1.tizam.cc/films/The-Booty-Movie-7.mp4
+#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] THE SECRET OF THE CASTLE
+https://video1.tizam.cc/files/801660/mistery___il_mistero_del_castello__2009.mp4
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] TODO EL PLACER POSIBLE
 https://cdn2.servitubes.com/videos/6/d/9/e/0/6d9e03bfe19d62bed366da280b566f2350ce9010.mp4
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] TODO ES MEJOR EN TEXAS
@@ -6759,92 +6855,6 @@ https://video1.tizam.cc/files/2550252/true_milf_4.mp4
 https://video2.tizam.cc/vk/CumInsideMe3.mp4
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] СУМАСШЕДШИЕ ДЕВУШКИ 3 / FREAKY PETITE 3 - MIMEFREAK
 https://video2.tizam.cc/files/2491723/freaky_petite_3.mp4
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] THE SECRET OF THE CASTLE
-https://video1.tizam.cc/files/801660/mistery___il_mistero_del_castello__2009.mp4
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] SECRET LINK
-https://video2.tizam.cc/files/2306570/secret_relation.mp4
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] DARK ICON 10
-https://video1.tizam.cc/films/InterracialIcon10.mp4
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] THE BOOTY MOVIE 7
-https://video1.tizam.cc/films/The-Booty-Movie-7.mp4
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] THE BOOTY MOVIE 6
-https://video1.tizam.cc/vk/cic-booty6.mp4
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK LABEL 6
-https://video1.tizam.cc/files/2474758/interracial_icon_6.mp4
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK LABEL 7
-https://video1.tizam.cc/files/2494973/interracial_icon_7.mp4
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK LABEL 4
-https://video2.tizam.cc/files/2392797/chyornaya_ikona_4_1.mp4
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK AND WHITE 11
-https://video1.tizam.cc/files/2505211/black_and_white.11.mp4
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK AND WHITE 12
-https://video1.tizam.cc/files/2528831/black_and_white_12.mp4
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK AND WHITE 14
-https://video2.tizam.cc/films/Black-and-White-14.mp4
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK AND WHITE 6
-https://video2.tizam.cc/files/2278762/black_and_white_6_chast_1.mp4
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK AND WHITE 8
-https://video1.tizam.cc/films/BlackandWhite8.mp4
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK AND WHITE 9
-https://video2.tizam.cc/files/2399524/black_and_white_9___chernye_i_belye_9.mp4
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK WITH WHITE 0.13
-https://video2.tizam.cc/files/2557880/black__and__white_vol._13.mp4
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK RAW MATERIALS В11
-https://video2.tizam.cc/films/Blacked-Raw-V11.mp4
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK BOLTS 10
-https://video2.tizam.cc/films/Blacked-Raw-10.mp4
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] BLACK MALE AND HIS WHITE GF FUCK IN FRONT OF THE CAMERA
-https://video1.tizam.cc/roliki/BlackedRaw142019.mp4
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",[VIDEO] I WANT TO BECOME A PORN STAR
-https://video1.tizam.cc/vk/cic-iwant.mp4
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET ANAL
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET BIG ASS
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET BIG DICK
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET BIG TITS
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET BLONDE
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET BLOWJOB
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET BRUNETTE
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET COMPILATION
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET CUCKOLD
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET FETISH
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET GANGBANG
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET GAY
-http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET HARDCORE
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET INTERRACIAL
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET LATINA
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET LESBIAN
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET LIVE CAMS
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET MILF
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET PORNSTAR
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET POV
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET ROUGH
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET RUSSIAN
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET TEEN
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*ADULTIPTV.NET THREESOME
-http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",AST TV 1
 https://www.ast.tv/stream/1/high.m3u8
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",AST TV 1
@@ -6859,16 +6869,8 @@ https://www.ast.tv/stream/2/master.m3u8
 https://www.ast.tv/stream/2/normal.m3u8
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",AST TV 2
 https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*BALKAN HOT
-http://194.54.183.85:8000/play/a03m/index.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",*BALKAN HOT 2
-http://194.54.183.85:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",MIAMI TV
 http://59ec5453559f0.streamlock.net/canal18/smil:canal18/playlist.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",MIAMI TV
-http://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/playlist.m3u8
-#EXTINF:-1 group-title="*(18) > > > > > ADULT +18",PRIVATE TV HD (18+)
-http://188.35.9.5:10005/stolen/153a/imposter.rar
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",VIVID TV EUROPE
 http://188.35.9.26:2031/udp/031a
 #EXTINF:-1 group-title="*(18) > > > > > ADULT +18",РТВ (ИВАНОВО)
@@ -9027,8 +9029,6 @@ https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] AGRO BRASIL TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] AXN HD
-http://jserverstv.xyz:80/Altair/Altair/141200
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] BRASIL IPTV_110
 http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] BRASIL IPTV_110
@@ -9081,8 +9081,6 @@ https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
 http://digitalhits.frilab.com:8000/digitalhits;
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] DISCOVERY TURBO
 http://wse01.logicahost.com.br:1935/pascoal/_definst_/pascoal/chunklist_w620652753.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] DISNEY CHANNEL SD
-http://jserverstv.xyz:80/Altair/Altair/141350
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] ESPN (720)(M)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/9409
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] ESPN 2 (720)(M)
@@ -9097,16 +9095,10 @@ http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb
 https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] GLOBO (TV)(4K)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/54798
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] GLOBO TV BELEM
-http://jserverstv.xyz:80/Altair/Altair/141296
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] GLOBO TV DIARIO SD
-http://jserverstv.xyz:80/Altair/Altair/141297
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] ITÚ TV
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] METRÓPOLE NEWS TV
-http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] MKK WEB TV
 http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] NOVA ERA TV
@@ -9131,8 +9123,8 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] REDE MÃO AMIGA
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] REDE METROPOLE
-http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] REDE METROPOLE | 480P
+http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] REDE RC
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] SBT
@@ -9165,10 +9157,6 @@ http://212.102.60.121:8000/calem7/4BY4CSaMUW/9412
 http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] TNT HD
-http://jserverstv.xyz:80/Altair/Altair/141232
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] TNT SD
-http://jserverstv.xyz:80/Altair/Altair/141233
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] TV ALMG
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] TV ALMG
@@ -9263,8 +9251,6 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] TVN BRASIL
 http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] UNIVERSAL CHANNEL HD
-http://jserverstv.xyz:80/Altair/Altair/141236
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] VIVA WEB TV
 https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[BRA] WEB TV UAI
@@ -9915,8 +9901,6 @@ https://nn.geo.joj.sk/live/hls/rik-540.m3u8
 https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[CZE] JOJ WAU
 https://nn.geo.joj.sk/live/hls/wau-540.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[CZE] KOŠICE:DNES (SK)
-http://lb.streaming.sk/tvnasa/stream/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[CZE] NATURA TV (CZ)
 http://media1.tvnatura.cz/live_out/1/live.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[CZE] OCKO
@@ -9959,8 +9943,6 @@ http://c2.manasat.com:1935/kostol-online/eslovaco3/playlist.m3u8
 http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[CZE] TV OSEM (SK)
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_576p/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[CZE] TV RUZINOV
-http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[DEU] ANIXE
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[DEU] BADEN TV
@@ -10807,6 +10789,8 @@ http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/chunklist_w2131949141.m3u8
 https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[FIN] YLE TV2
 https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[FRA] LCI | 720P
+http://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[FRA] TV5MONDE FRANCE
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[FRANCE] A2I MUSIC
@@ -11715,6 +11699,12 @@ http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[ITA] RAI 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[ITA] RAI NETTUNO
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=385140
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[ITA] RAI SPORT
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[ITA] RAI SPORT
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[ITA] REGGIOTV
 https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[ITA] RETE 55
@@ -13264,8 +13254,10 @@ http://live.bumblebeefm.ru:8000/radio
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[TUR] SEATTLE CHANNEL
 https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[TUR] STAR TV (OPT-1)
-http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
+http://lcgid8xu.rocketcdn.com/startvhd.stream_240p/chunklist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[TUR] STAR TV (OPT-2)
+http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[TUR] STAR TV (OPT-3)
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[TUR] TD1
 http://play.streamkit.tv/content/channel/yecmobile/live/yecmobile.player.m3u8
@@ -14197,10 +14189,6 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]A\U0026E (TR)(1080)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/59938
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]A\U0026E HD
-http://latvonlive.com:33612/Lulu/1234/635
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]A\U0026E NETWORK HD US
-http://latvonlive.com:33612/Lulu/1234/298
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]A\U0026E(M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1603
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ABC (TR)(720)
@@ -14257,8 +14245,6 @@ https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ALRAFIDAIN (EG)
 http://cdg3.edge.tmed.pw/arrafidaintv/abr_live/arrafidaintv/live_1024p/chunks.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]AMC HD US
-http://latvonlive.com:33612/Lulu/1234/657
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]AMC(M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1602
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]AMERICAN CLASSIC NETWORK
@@ -14271,8 +14257,6 @@ https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]AMERICAN HEROES (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53807
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]AMERICAN HEROES CHANNEL HD
-http://latvonlive.com:33612/Lulu/1234/913
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]AMERICAN HORRORS
 http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]AMERICAN HORRORS
@@ -14281,28 +14265,16 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ANIMAL PLANET (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35814
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ANIMAL PLANET HD
-http://latvonlive.com:33612/Lulu/1234/57
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ANIMAL PLANET HD US
-http://latvonlive.com:33612/Lulu/1234/682
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]APPLE SAUCE TV
 https://nimble.dashstreams.net/onestudio/applesaucetv/chunks.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ASSAM TALKS
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/assamtalks-origin/live1/chunks.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ATLANTA CHANNEL
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]AXS TV HD
-http://latvonlive.com:33612/Lulu/1234/5696
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]AZ MUNDO HD
-http://latvonlive.com:33612/Lulu/1234/631
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BABY TV(M)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1601
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BABYTV ESPAÑOL
-http://latvonlive.com:33612/Lulu/1234/235
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BBC AMERICA (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53809
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BBC AMERICA HD
-http://latvonlive.com:33612/Lulu/1234/857
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BBC HD(M)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1600
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BEACH TV (CSULB)
@@ -14319,18 +14291,12 @@ https://eb8029576dd74625b1d49e34afc1febb.mediatailor.us-west-2.amazonaws.com/v1/
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/59980
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BEIN USA HD (M)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1604
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BET HD
-http://latvonlive.com:33612/Lulu/1234/146
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BET HER (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35822
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BET HER HD
-http://latvonlive.com:33612/Lulu/1234/139
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BET JAMS (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35823
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BET SOUL (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35824
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BET SOUL HD
-http://latvonlive.com:33612/Lulu/1234/141
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BET WEST (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/59985
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BETTER HEALTH TV
@@ -14387,8 +14353,6 @@ https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8
 https://a.jsrdn.com/broadcast/d5b45/+0000/c.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BOLLYWOOD TV
 https://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BOOMERANG LATINOAMÉRICA
-http://latvonlive.com:33612/Lulu/1234/34
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BOSTON 25 NEWS (WFXT)
 http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BOSTON 7 NEWS (M)(720)
@@ -14397,8 +14361,6 @@ http://212.102.60.121:8000/calem7/4BY4CSaMUW/35788
 http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BRAVO (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/59989
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BRAVO HD
-http://latvonlive.com:33612/Lulu/1234/297
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BRIGHT SMART CHANNEL (OPT-1)
 http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BRITASIA LIVE
@@ -14441,18 +14403,10 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 http://149.202.68.178:1935/live/peprecasens/manifest.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]CANAL 4 JUJUY
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]CANAL FOX HD
-http://latvonlive.com:33612/Lulu/1234/612
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]CANAL SONY HD
-http://latvonlive.com:33612/Lulu/1234/584
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]CAPITAL CITY CONNECTION
 http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]CARTOON NETWORK (M)(1080)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35789
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]CARTOON NETWORK EAST HD US
-http://latvonlive.com:33612/Lulu/1234/667
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]CARTOON NETWORK HD
-http://latvonlive.com:33612/Lulu/1234/39
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]CARTOONS 4U
 https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]CATHOLIC TV
@@ -14541,8 +14495,6 @@ https://cloudflare.tv/hls/live.m3u8
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]CMT (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35813
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]CMT HD
-http://latvonlive.com:33612/Lulu/1234/147
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]CNBC ARABIYA
 http://media.smc-host.com:1935/csat.tv/smil:csat.smil/chunklist_w1421926306_b692000_slar_t64SEQ=.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]CNBC WORLD(M)
@@ -14553,10 +14505,6 @@ http://212.102.60.121:8000/calem7/4BY4CSaMUW/53823
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]COMEDY CENTRAL (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/59935
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]COMEDY CENTRAL HD
-http://latvonlive.com:33612/Lulu/1234/415
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]COMEDY CENTRAL HD US
-http://latvonlive.com:33612/Lulu/1234/148
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]COMEDY CENTRAL(M)(1080)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1596
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]COMET
@@ -14571,10 +14519,6 @@ https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
 https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]COOKING 4U
 https://nimble.dashstreams.net/onestudio/cooking_4u_network/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]COOKING CHANNEL
-http://latvonlive.com:33612/Lulu/1234/848
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]COZI TV
-http://latvonlive.com:33612/Lulu/1234/283
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]CSAT TV
 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]C-SPAN
@@ -14611,80 +14555,38 @@ http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
 https://d06b09a740824c49b9937130662ef38a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheDesignNetwork/7c1469be-63d2-44de-8083-ee421aeb53df/4.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DESTINATION AMERICA (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35815
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DESTINATION AMERICA HD
-http://latvonlive.com:33612/Lulu/1234/655
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY CHANNEL (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53824
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY CHANNEL HD
-http://latvonlive.com:33612/Lulu/1234/624
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY CHANNEL HD US
-http://latvonlive.com:33612/Lulu/1234/916
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY EN ESPAÑOL US
-http://latvonlive.com:33612/Lulu/1234/558
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY FAMILIA HD
-http://latvonlive.com:33612/Lulu/1234/921
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY FAMILY (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/60014
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY FAMILY (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53825
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY FAMILY CHANNEL HD
-http://latvonlive.com:33612/Lulu/1234/922
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY HOME \U0026 HEALTH HD
-http://latvonlive.com:33612/Lulu/1234/623
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY ID HD
-http://latvonlive.com:33612/Lulu/1234/422
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY KIDS HD
-http://latvonlive.com:33612/Lulu/1234/622
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY LIFE (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35817
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY LIFE HD
-http://latvonlive.com:33612/Lulu/1234/915
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY SCIENCE
-http://latvonlive.com:33612/Lulu/1234/640
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY SCIENCE (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/58074
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY THEATER HD
-http://latvonlive.com:33612/Lulu/1234/418
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY TLC (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/60018
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY TURBO
-http://latvonlive.com:33612/Lulu/1234/134
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY WORLD (M)(1080)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/58073
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY WORLD HD
-http://latvonlive.com:33612/Lulu/1234/419
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISNEY CHANNEL (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35793
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISNEY CHANNEL (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53826
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISNEY CHANNEL HD US
-http://latvonlive.com:33612/Lulu/1234/668
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISNEY CHANNEL PAFICIC (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53827
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISNEY HD
-http://latvonlive.com:33612/Lulu/1234/636
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISNEY JR (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35794
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISNEY JUNIOR HD
-http://latvonlive.com:33612/Lulu/1234/37
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISNEY JUNIOR HD US
-http://latvonlive.com:33612/Lulu/1234/929
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISNEY XD (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35795
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISNEY XD LATINOAMÉRICA
-http://latvonlive.com:33612/Lulu/1234/496
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISNEY XD PACIFIC (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53830
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISTRICT OF COLUMBIA NETWORK
 http://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISTRICT OF COLUMBIA NETWORK
 https://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISTRITO COMEDIA
-http://latvonlive.com:33612/Lulu/1234/896
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DIVINE VISION
 http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DIY
-http://latvonlive.com:33612/Lulu/1234/847
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DOCURAMA
 https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DOVE CHANNEL
@@ -14699,12 +14601,8 @@ https://nimble.dashstreams.net/onestudio/dreamtv/chunks.m3u8
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DUSTX
 https://dust.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]E! ENTERTAINMENT TELEVISION
-http://latvonlive.com:33612/Lulu/1234/295
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]E! WEST (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35847
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]EL GOURMET HD
-http://latvonlive.com:33612/Lulu/1234/604
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ELECTRIC NOW
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ELECTRO ANTHEMS
@@ -14767,8 +14665,6 @@ http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FOOD NETWORK (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53838
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FOOD NETWORK HD
-http://latvonlive.com:33612/Lulu/1234/360
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FOX 23 TULSA OK (KOKI-TV)
 http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FOX 28 SAVANNAH GA (WTGS)
@@ -14777,8 +14673,6 @@ http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53840
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FOX DEPORTES (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53849
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FOX LIFE HD
-http://latvonlive.com:33612/Lulu/1234/613
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FOX NEWS CHANNEL (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53850
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FOX SOCCER (M)(720)
@@ -14807,36 +14701,22 @@ http://212.102.60.121:8000/calem7/4BY4CSaMUW/58096
 http://bit.ly/2xV7ewi
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FREE SPEECH TV
 http://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FREEFORM HD
-http://latvonlive.com:33612/Lulu/1234/910
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FRIDAY FEELS
 https://7d6f1eaab26244879085a9c647097af7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_plex/8d5f1f7f-8546-4892-9eca-988e973d6cc2/5.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FUSE
-http://latvonlive.com:33612/Lulu/1234/366
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FUTURISM
 https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FX (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53851
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FX HD
-http://latvonlive.com:33612/Lulu/1234/608
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FX HD US
-http://latvonlive.com:33612/Lulu/1234/293
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FXM (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53852
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FXM(M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1592
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FXX HD
-http://latvonlive.com:33612/Lulu/1234/291
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FXX(M)((720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1591
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FYI CHANNEL HD
-http://latvonlive.com:33612/Lulu/1234/290
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]GALVESTON COUNTY TV
 https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]GAME SHOW
 https://ffcf6c437bec4f3988224ccfe150499d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GameShowCentral/c3d6136c-3a3e-4690-949d-8dcebfe43fc2/3.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]GAME SHOW NETWORK
-http://latvonlive.com:33612/Lulu/1234/837
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]GINX ESPORTS (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35818
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]GLENDALE 11
@@ -14845,8 +14725,6 @@ https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
 https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]GLEWED TV
 https://e54c4fcc08f14de7bc1094ca25cb9d29.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GlewedTV/d1a011d0-5758-439c-9939-ef96c8e13323/3.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]GLITZ
-http://latvonlive.com:33612/Lulu/1234/648
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]GLOBESVILLE (NEW YORK INSTITUTE OF TECHNOLOGY)
 http://live-h1.frontlayer.net/fl592468/live/chunks.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]GLOBUS TV
@@ -14877,8 +14755,6 @@ https://t07113a-lh.akamaihd.net/i/t07113a_1@756729/master.m3u8
 https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]GUSTO TV
 https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]H2 HD
-http://latvonlive.com:33612/Lulu/1234/19
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HALAB TODAY (OPT-1)
 http://wowzacontrol.com:1935/8010/8010/chunklist_w231158337.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HALAB TODAY (OPT-2)
@@ -14913,20 +14789,12 @@ https://dai.google.com/linear/hls/event/SynaOtTyTq2y_N7BrGTz9Q/master.m3u8
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35802
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HGTV (TV)(1080)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53878
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HGTV HD
-http://latvonlive.com:33612/Lulu/1234/659
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HIP HOP BANGERS
 https://e20b86263a38460ba3647b18fb150000.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_plex/ed8212a6-b4f2-46e7-8386-eab377eb0607/3.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HISTORY (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/3129
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HISTORY CHANNEL HD
-http://latvonlive.com:33612/Lulu/1234/598
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HISTORY HD US
-http://latvonlive.com:33612/Lulu/1234/304
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HISTORY(M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1590
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HOLA TV HD
-http://latvonlive.com:33612/Lulu/1234/543
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HOLLYWOOD CLASSICS
 https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/5e48be49-66f7-4712-9fff-347b1ae7afbd/5.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HONOR TV
@@ -14951,8 +14819,6 @@ https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
 http://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]IDG
 https://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]IFC
-http://latvonlive.com:33612/Lulu/1234/833
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ILTV STUDIOS
 http://iltv.cachefly.net/live/live_720p/chunklist_w623022374.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]INDIA TV (OPT-2)
@@ -14965,16 +14831,12 @@ http://212.102.60.121:8000/calem7/4BY4CSaMUW/1570
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]INFOWARS
 https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]INSP
-http://latvonlive.com:33612/Lulu/1234/832
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]INSPIRATIONAL(M)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1588
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]INTERCOMARCAL TV
 http://78.41.83.88:8880/hls/tvixa.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]INVESTIGATION DISCOVERY (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/58072
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]INVESTIGATION DISCOVERY HD
-http://latvonlive.com:33612/Lulu/1234/660
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ION 8 CHRISTIANSTED VI (WSVI-TV)
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ISN
@@ -15035,10 +14897,6 @@ http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_
 http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]LEX TV
 http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]LIFETIME HD US
-http://latvonlive.com:33612/Lulu/1234/505
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]LIFETIME LATINOAMÉRICA
-http://latvonlive.com:33612/Lulu/1234/499
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]LIFEVISIONTV
 http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]LIKE YESTERDAY
@@ -15051,8 +14909,6 @@ https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35850
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]LOCAL NOW PHILIDELPHIA
 https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https://ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]LOGO HD
-http://latvonlive.com:33612/Lulu/1234/149
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]LOVEWORLD USA
 https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]LUCANIA CHANNEL
@@ -15065,8 +14921,6 @@ https://96f6ab4a7f3c434699b8502a36d670fc.mediatailor.us-east-1.amazonaws.com/v1/
 https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]MAGELLAN TV
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]MAS CHIC TV HD
-http://latvonlive.com:33612/Lulu/1234/595
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]MAVERICK BLACK CINEMA
 https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MaverickBlackCinema/fd0e4439-3d12-4d07-99b6-7f79ceeb94c2/3.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]MAVERICK MOVIES
@@ -15119,14 +14973,10 @@ http://212.102.60.121:8000/calem7/4BY4CSaMUW/58067
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/58068
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]MTV CLASSIC (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/58069
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]MTV HD US
-http://latvonlive.com:33612/Lulu/1234/150
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]MTV LIVE (M)(SD)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/58066
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]MTV U (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/58070
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]MTV2 HD
-http://latvonlive.com:33612/Lulu/1234/135
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]MULTIMEDIA CAPPISSIMA TV
 http://cl.streaminghd.cl:80/cappissima/cappissima/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]MUSIC BAEBLE
@@ -15141,22 +14991,10 @@ http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
 http://a92ccb5a-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/6540154/playlist.m3u8?authType=COOKIE&appType=12&appVersion=1&cdnHost=uhs-akamai.ustream.tv/&sgn=b33094ce374f1a5253667a071f98abadb65f5f94
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NAT GEO KIDS HD
-http://latvonlive.com:33612/Lulu/1234/589
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NAT GEO WILD HD
-http://latvonlive.com:33612/Lulu/1234/588
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NAT GEO WILD(M)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1586
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NAT GEO(M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1587
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NATIONAL GEOGRAPHIC HD
-http://latvonlive.com:33612/Lulu/1234/590
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NATIONAL GEOGRAPHIC HD US
-http://latvonlive.com:33612/Lulu/1234/303
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NATIONAL GEOGRAPHIC WILD HD US
-http://latvonlive.com:33612/Lulu/1234/302
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NBA TV HD
-http://latvonlive.com:33612/Lulu/1234/262
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NBA TV(M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1585
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NBC
@@ -15183,28 +15021,12 @@ http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
 https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NBC SAN JOSE CA (KNTV)
 https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NBC SPORTS BAY AREA HD
-http://latvonlive.com:33612/Lulu/1234/741
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NBC SPORTS CALIFORNIA HD
-http://latvonlive.com:33612/Lulu/1234/743
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NBC SPORTS CHICAGO HD
-http://latvonlive.com:33612/Lulu/1234/253
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NBC SPORTS CHICAGO PLUS HD
-http://latvonlive.com:33612/Lulu/1234/756
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NBC SPORTS NETWORK (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35858
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NBC SPORTS NORTHWEST HD
-http://latvonlive.com:33612/Lulu/1234/745
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NBC SPORTS PHILADELPHIA HD
-http://latvonlive.com:33612/Lulu/1234/744
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NBC SPORTS WASHINGTON HD
-http://latvonlive.com:33612/Lulu/1234/746
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NBC UNIVERSO (M) (720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/26597
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NBCLX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NBCSN HD
-http://latvonlive.com:33612/Lulu/1234/263
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NESN (M)(1080)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35807
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NETWORK – AUTOPLAY
@@ -15247,34 +15069,14 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NEWSY
 https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NFL NETWORK HD
-http://latvonlive.com:33612/Lulu/1234/425
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NHL NETWORK HD
-http://latvonlive.com:33612/Lulu/1234/747
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NICK 2 HD
-http://latvonlive.com:33612/Lulu/1234/417
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NICK HD
-http://latvonlive.com:33612/Lulu/1234/586
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NICK JR (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53903
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NICK JR HD
-http://latvonlive.com:33612/Lulu/1234/587
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NICK JR HD US
-http://latvonlive.com:33612/Lulu/1234/136
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NICK MUSIC (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35826
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NICKELODEON (M)(1080)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35808
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NICKELODEON HD US
-http://latvonlive.com:33612/Lulu/1234/152
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NICKMUSIC HD
-http://latvonlive.com:33612/Lulu/1234/154
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NICKTOONS (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53905
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NICKTOONS HD
-http://latvonlive.com:33612/Lulu/1234/137
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NICKTOONS LATINOAMÉRICA
-http://latvonlive.com:33612/Lulu/1234/752
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NOTHING SCRIPTED
 http://30a-tv.com/NothingScripted.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NRBTV
@@ -15299,8 +15101,6 @@ http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]OLYMPIC CHANNEL (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/3111
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]OLYMPIC CHANNEL HD
-http://latvonlive.com:33612/Lulu/1234/286
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ONLY 90S KIDS WILL UNDERSTAND
 https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/76979eef-8053-48eb-a1dc-b165e0d3dbf9/5.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]OPPORTUNITY KNOCKS
@@ -15309,24 +15109,12 @@ https://nimble.dashstreams.net/onestudio/myoktv/chunks.m3u8
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]OUTDOOR AMERICA
 https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]OUTDOOR CHANNEL HD
-http://latvonlive.com:33612/Lulu/1234/822
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]OUTSIDE TELEVISION HD
-http://latvonlive.com:33612/Lulu/1234/821
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]OUTSIDE TV
 https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]OWN HD (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53876
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]OXYGEN
-http://latvonlive.com:33612/Lulu/1234/289
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]PARAMOUNT (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35819
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]PARAMOUNT NETWORK HD
-http://latvonlive.com:33612/Lulu/1234/151
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]PASIONES HD
-http://latvonlive.com:33612/Lulu/1234/416
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]PBC TAPESH TV
-http://iptv.tapesh.tv/tapesh/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]PCC-TV - PINELLAS COUNTY FLORIDA
 http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]PEOPLE ARE AWESOME
@@ -15347,8 +15135,6 @@ https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m
 https://b12eca572da7423284734ca3a6242ea2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PlayWorks/playlist.m3u8?ads.wurl_channel=512\u0026ads.wurl_name=PlayWorks\u0026ads.us_privacy=1---\u0026ads.psid=df8e1a36-847d-5096-86a7-3803ed330ede\u0026ads.targetopt=0\u0026ads.plex_token=MorUy57ijWhGe4ixZb_T\u0026ads.plex_id=5f0ff263d71dcb00449ec01e\u0026ads.ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20rv:83.0)%20Gecko%2F20100101%20Firefox%2F83.0\u0026ads.app_bundle=com.plexapp.desktop\u0026ads.app_store_url=https:%2F%2Fapp.plex.tv\u0026ads.gdpr=1\u0026ads.consent=0\u0026checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]POP
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]POP HD
-http://latvonlive.com:33612/Lulu/1234/367
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]POPSTAR! TV
 https://a.jsrdn.com/broadcast/wAlxn4cs/c.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]POPSTAR! TV
@@ -15379,8 +15165,6 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 http://62.113.210.250/medienasa-live/mp4:ran1_high/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]RBW
 http://62.113.210.250/medienasa-live/rbw_high/master.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]RCN NOVELAS
-http://latvonlive.com:33612/Lulu/1234/5689
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]REAL VISION
 https://a.jsrdn.com/broadcast/2a755012a8/+0000/high/c.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]REDBOX BATTERY POP
@@ -15409,8 +15193,6 @@ https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
 https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]REVELATION TV
 http://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]REVOLT HD
-http://latvonlive.com:33612/Lulu/1234/288
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]REVRY
 https://80b6878a343a4c37ae7c81c26e367b59.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRY-PLEX/aa5b463a-e354-4b03-ab59-020c6cd3713e/0.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]REVRY
@@ -15465,8 +15247,6 @@ http://212.102.60.121:8000/calem7/4BY4CSaMUW/1569
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]SMART LIFESTYLE TV
 https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]SMITHSONIAN CHANNEL HD
-http://latvonlive.com:33612/Lulu/1234/819
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]SNY (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/3115
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]SNY ENCORE  (TR)(720)
@@ -15485,12 +15265,8 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-p.m3u
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/3088
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]SPORTSMAN (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/3104
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]SPORTSMAN CHANNEL HD
-http://latvonlive.com:33612/Lulu/1234/817
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]SPORTSMAN(M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1580
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]SPORTSNET NY HD
-http://latvonlive.com:33612/Lulu/1234/938
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]SPORTSNET Y(M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1579
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]STADIUM
@@ -15561,10 +15337,6 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1578
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]SURF NOW TV
 https://0e52d42a12b74a218576cd628069fa50.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SurfNowTV/1e05afbf-0234-4d61-9406-20bf6719fce5/3.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]SYFY HD
-http://latvonlive.com:33612/Lulu/1234/78
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]SYFY HD US
-http://latvonlive.com:33612/Lulu/1234/287
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]SYFY(M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1577
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TANKEE
@@ -15573,18 +15345,10 @@ https://72c5b87587c545558c3170ab55de2915.mediatailor.us-east-1.amazonaws.com/v1/
 https://bcovlive-a.akamaihd.net/r8ceb94e3229b4c0bb2dd461dacb3ab07/us-east-1/6057994532001/playlist_dvr.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TBS HD US
-http://latvonlive.com:33612/Lulu/1234/934
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TBS LATINOAMÉRICA
-http://latvonlive.com:33612/Lulu/1234/641
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TCM HD US
-http://latvonlive.com:33612/Lulu/1234/663
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TEA TV
 https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TEEN NICK (M)(SD)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35827
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TEENNICK HD
-http://latvonlive.com:33612/Lulu/1234/138
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TELE PEGASO CATANIA
 https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TELECARIBE
@@ -15605,8 +15369,6 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TEMPLE TV
 https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist_w1944862924.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TENNIS CHANNEL HD
-http://latvonlive.com:33612/Lulu/1234/951
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TEXAS-SIZED HITS
 https://8d1615d8ec69435ea11a3e039f9e3771.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_plex/b39ab3ff-fde8-42cf-a6e7-32e66a3da20a/5.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THANTHI TV
@@ -15633,8 +15395,6 @@ https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35809
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THE ERIC ANDRE SHOW (GEO)
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THE FIGHT NETWORK HD
-http://latvonlive.com:33612/Lulu/1234/281
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THE FILM DETECTIVE
 https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THE FILM DETECTIVE
@@ -15645,8 +15405,6 @@ https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_640x360.m3u8
 https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THE FLORIDA CHANNEL
 https://wowzaprod4-i.akamaihd.net/hls/live/254057/6380fec3/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THE GOLF CHANNEL HD
-http://latvonlive.com:33612/Lulu/1234/259
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THE NOW NETWORK
 https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THE OUTDOOR COOKING CHANNEL
@@ -15675,42 +15433,26 @@ http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TITANIC TV
 https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TLC HD
-http://latvonlive.com:33612/Lulu/1234/65
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TLC HD US
-http://latvonlive.com:33612/Lulu/1234/664
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TNT (M)(1080)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35811
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TNT HD US
-http://latvonlive.com:33612/Lulu/1234/557
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TNT PACIFIC (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/58060
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TNT PACIFIC (TR)(1080)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/60025
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TNT PACIFIC (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53870
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TNT SERIES HD
-http://latvonlive.com:33612/Lulu/1234/327
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TOONCAST
-http://latvonlive.com:33612/Lulu/1234/639
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TRANSMEDIA TV MORELIA
 http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TRAVEL 4U
 https://edge1.dashmedia.tv/onestudio/travel4u/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TRAVEL 4U
 https://nimble.dashstreams.net/onestudio/travel4u/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TRAVEL CHANNEL HD
-http://latvonlive.com:33612/Lulu/1234/359
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TRENDING
 https://8f8959ec0c604ae0aac98fe0cda060eb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_plex/9ea57596-c36d-4991-802a-3f1961fb4e87/5.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TRM H24
 http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TRULY
 https://dai.google.com/linear/hls/event/Xu-I6qGiSTKeu6glzS4BtQ/master.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TRUTV HD
-http://latvonlive.com:33612/Lulu/1234/579
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TRUTV HD US
-http://latvonlive.com:33612/Lulu/1234/534
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TSTV
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TURKMEN OWAZY
@@ -15719,8 +15461,6 @@ http://217.174.225.146/legacyhls/ch005_400/index.m3u8
 http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/chunklist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TV CULTURA PA
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TV LAND HD
-http://latvonlive.com:33612/Lulu/1234/144
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TV ONE (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35863
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TV POPRAD
@@ -15729,10 +15469,6 @@ http://213.81.153.221:8080/poprad
 http://185.202.128.1:1935/Tv6Stream/tv6TV.stream_tlm/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TVG (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/60344
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TVG HD
-http://latvonlive.com:33612/Lulu/1234/889
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TVG2 HD
-http://latvonlive.com:33612/Lulu/1234/132
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TVK
 http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TVS FAMILY CHANNEL
@@ -15757,18 +15493,12 @@ https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/playlist.m3u8
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]UALR TV
 http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]UFC TV
-http://latvonlive.com:33612/Lulu/1234/757
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]UNIDENTIFIED
 https://a.jsrdn.com/broadcast/4hhfi556/indexR720P.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]UNIVERSAL KIDS (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53907
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]UNIVERSAL KIDS HD
-http://latvonlive.com:33612/Lulu/1234/279
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]UNIVERSO (TR)(1080)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/3112
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]UNIVISION TL NOVELAS
-http://latvonlive.com:33612/Lulu/1234/365
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]UNWIND
 https://fc68583ae7094821b6ab3b44c50c7740.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_plex/3c8fb5fb-b196-45cc-9284-40da26a04a98/5.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]URBANMUSIC 4U
@@ -15785,8 +15515,6 @@ https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/high/c.m3u8
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35853
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]USA NETWORK (M)(1080)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35812
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]USA NETWORK HD
-http://latvonlive.com:33612/Lulu/1234/285
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]USA NETWORK PACIFIC (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53874
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]USA NETWORK(M)(720)
@@ -15799,10 +15527,6 @@ https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
 https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]VEPACO TV (OPT-2)
 http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2073389661.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]VH1 HD US
-http://latvonlive.com:33612/Lulu/1234/145
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]VICELAND HD
-http://latvonlive.com:33612/Lulu/1234/284
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]VICTORY TELEVISION NETWORK
 http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]VIDEONOLA
@@ -15819,16 +15543,12 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]VUSLAT TV (OPT-2)
 https://59cba4d34b678.streamlock.net/live/vuslattv/chunklist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WARNER HD
-http://latvonlive.com:33612/Lulu/1234/576
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WCCA TV WORCESTER
 http://worcester.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WCCA-TV (WORCESTER)
 https://s3-us-west-2.amazonaws.com/worcester.castus-vod/live/ch1/video.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WE TV (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/3124
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WE TV HD
-http://latvonlive.com:33612/Lulu/1234/666
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WEATHER 4U
 https://nimble.dashstreams.net/onestudio/weather4u/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WEATHER NATION
@@ -15859,8 +15579,6 @@ https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
 https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WORLD FISH (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/3083
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WORLD FISHING NETWORK HD (US)
-http://latvonlive.com:33612/Lulu/1234/808
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WORLD POKER TOUR
 https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WOW! TV
@@ -15869,12 +15587,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WTJR TV
 http://wtjrtv3.srfms.com:1935/wtjrtv3/livestream/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WWE NETWORK HD
-http://latvonlive.com:33612/Lulu/1234/749
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]YACHT ROCK
 https://6f293d7819ba4cf39ea9152700ad54ad.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_plex/eea1884a-76ca-461b-886d-9707c39c0fbb/5.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]YES NETWORK HD
-http://latvonlive.com:33612/Lulu/1234/895
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]YILDIZ TV
 http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]YOUTOO AMERICA
@@ -16389,8 +16103,6 @@ https://videos3.earthcam.com/fecnetwork/5775.flv/chunklist_w479992477.m3u8
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(er)/index.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",|IT| RAI 1 VPN ITA/GEO ITA
 http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",|IT| RAI 2 VPN ITA/GEO ITA
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",|IT| RAI SÜDTIROL HTTP://WZSTREAMING.RAI.IT/TVLIVE/LIVESTREAM/PLAYLIST.M3U
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",|IT| REAL TIME
@@ -16421,6 +16133,8 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b9)/
 https://5bb65e9de3fdf.streamlock.net/live/Videolina/chunklist_w1516725661.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",|IT| VIRGIN RADIO TV
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",|ITA| RAI 2
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",|RU| RT DOCUMENTARY (ENGLISH)
 http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",|TV| TRAVEL HD BG
@@ -16563,8 +16277,6 @@ http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
 https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",CARTOON NETWORK
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",CARTOON NETWORK
-http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",CARTOONS 4U
 https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",CATCH 2 [480P]
@@ -16859,6 +16571,8 @@ http://mfe.cliptv.az/dash/Paramount_Channel_SD.ism/playlist.mpd?checkedby:iptvca
 http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",PAUTA
 http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",PBC TAPESH TV
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",PLANET CANNABIS
 https://edge1.dashmedia.tv/onestudio/planetshopping/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",PLUS
@@ -16873,8 +16587,6 @@ http://eu1.servers10.com:1935/8282/8282/playlist.m3u8?fluxustv.m3u8
 https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",RADIO PITERPAN
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",REDE METROPOLE
-http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",REGALIA TV
 https://edge1.dashmedia.tv/onestudio/regalia_network/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",RETE ORO
@@ -16941,8 +16653,6 @@ https://plbl.m9.lfstrm.tv/sony_turbo/normal/1/index.m3u8
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_1800_av-p.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",STAR CINEMA
 https://plbl.m9.lfstrm.tv/star_cinema_hd/normal/0/index.m3u8?account=3f378f7832e53c10&origin=m9-live4&provider_id=5bbf1e6e7bf7c4facb5e43e8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",STAR TV SD
-http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",STARS
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",STAR-VISION
@@ -17537,6 +17247,10 @@ http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8
 http://0.0.0.0:20
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",@SMARTOTEKA
 https://5nch.com/wp-content/uploads/bnr/Smartoteka-IPTV.ts
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",[UKRAINE] BTV
+http://iptv.rubintele.com:8552/play/a007
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",[UKRAINE] XEPСОН
+http://iptv.rubintele.com:8552/play/a016
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",~ PALESTINE TV ~
 http://users.atw.hu/szbszig/palestine.mp3
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",+O
@@ -18533,10 +18247,6 @@ http://amd.cdn.turner.com/adultswim/big/streams/playlists/live-action-marathon.m
 http://edge1.cl.grupoz.cl/aeradio/live/master.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",AE RADIO
 https://tls.cdnz.cl/aeradio/live/master.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",tv
-http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",tv
-http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/chunklist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ÃƑÆ’Ã‚ÂÃƑÂ¢Ã¢Â€ŠÂ¬Ã‚ÂºÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â¸ÃƑÆ’Ã¢Â‚¬ËŒÃƑÂ¢Ã¢Â€ŠÂ¬Ã…Â¡ÃƑÆ’Ã‚ÂÃƑÂ€¦Ã‚Â¡ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â»ÃƑÆ’Ã¢Â‚¬ËŒÃƑÂ€ Ã¢Â‚¬Â„¢ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â± ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â¢ÃƑÆ’Ã‚ÂÃƑÂ¢Ã¢Â€ŠÂ¬Ã¢Â€ŽÂ¢ ÃƑÆ’Ã‚ÂÃƑÂ€
 http://video.platformcraft.ru/hls/rossp/proza720/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ÃƑÆ’Ã‚ÂÃƑÂ¢Ã¢Â€ŠÂ¬Ã‚ÂºÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â¸ÃƑÆ’Ã¢Â‚¬ËŒÃƑÂ¢Ã¢Â€ŠÂ¬Ã…Â¡ÃƑÆ’Ã‚ÂÃƑÂ€¦Ã‚Â¡ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â»ÃƑÆ’Ã¢Â‚¬ËŒÃƑÂ€ Ã¢Â‚¬Â„¢ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â± ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â¢ÃƑÆ’Ã‚ÂÃƑÂ¢Ã¢Â€ŠÂ¬Ã¢Â€ŽÂ¢ ÃƑÆ’Ã‚ÂÃƑÂ€
@@ -18735,46 +18445,12 @@ http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚ÂÃƑÆ’Ã‚ÂÃƑÂ€ŠÃ‚Â¢ÃƑÆ’Ã‚ÂÃƑÂ¢Ã¢Â€ŠÂ¬Ã¢Â€ŽÂ¢ (+2)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",tv
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_NTV/variant.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",tv
-https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",tv
-http://nadiya.home-net.com.ua/mob/mystream.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",tv
-http://vod.tv7.fi:1935/tv7-ru/tv7-ru.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",tv
-http://persik.tv/pl/9939/211109.m3u
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",tv
-http://persik.by/stream/0264/420211/10231.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",tv
-http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ÃƑÆ’Ã‚TV
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/chunks.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ÃƑÆ’Ã‚TV
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ÃƑÆ’Ã¢Â‚¬Â¢ÃƑÂ¢Ã¢Â‚¬Å¡Ã‚Â¬1
 http://cf.moskvatv.com/live/hayastantv/xMNgKcnp3x/1.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",tv
-http://cf.moskvatv.com/live/hayastantv/xMNgKcnp3x/7.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",tv
-http://cf.moskvatv.com/live/hayastantv/xMNgKcnp3x/3.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",tv
-https://cdn.alarab.com/h264/153976_720p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",tv
-http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",tv
-http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",tv
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",tv
-http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/1tvod/1tvod/playlist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",tv
-http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",tv
-http://langate.tv/acc/tracks-v1/index.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",tv
-https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ÃƑÆ’Ã†Â€™ÃƑÂ€ŠÃ‚TV
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",AFGANISTAN: AL WAAD
@@ -20249,10 +19925,6 @@ http://livear.cgtn.com/1000a/prog_index.m3u8
 http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",CGTN DOCUMENTARY
 http://45.126.83.51/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",CGTN DOCUMENTARY
-http://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",CGTN DOCUMENTARY
-http://livedoc.cgtn.com/200d/prog_index.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",CGTN DOCUMENTARY | SD
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",CGTN ESPAÃƑÆ’Ã†Â€™ÃƑÂ¢Ã¢Â€ŠÂ¬Ã‹Å“OL
@@ -20441,8 +20113,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0013&mode=12&iconimage=ht
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCO0012&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",COLOMBIA:TELEMEDELLIN
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCO0024&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",COMBAT GO
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-combatgoA/CDN/master.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",COMEDY CENTRAL
 https://origin-02.nxplay.com.br/CCLB_HD_NXPLAY/tracks-v1a1a2m2/mono.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",COMEDY PLAY
@@ -20861,8 +20531,6 @@ http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=62\u0026live=1\u0026app_bundle=com.plexapp.desktop\u0026did=df8e1a36-847d-5096-86a7-3803ed330ede\u0026app_domain=app.plex.tv\u0026app_name=plex\u0026h=691\u0026w=1224\u0026content_title=MorUy57ijWhGe4ixZb_T\u0026content_series=5eea605474085f0040ddc76a\u0026custom4=plex\u0026gdpr=1\u0026device_make=Windows\u0026device_model=Firefox\u0026coppa=0\u0026us_privacy=1---\u0026checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",DUBAI ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",DUBAI ONE
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",DUBAI SPORTS 1
 http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",DUBAI SPORTS 2
@@ -22086,7 +21754,7 @@ http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=0
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",INDONESIA: K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",INDONESIA: KARAOKE CHANNEL
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",INDONESIA: KIX
 http://210.210.155.35/uq2663/h/h07/01.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",INDONESIA: KIX*
@@ -22509,12 +22177,6 @@ https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.tr
 http://livetr.gostream.nl/mekke/mekke/chunklist_w2007164765.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",KANTIPUR TV
 https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/chunks.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",KARAOKE
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",KARAOKE CHANNEL
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",KARAOKE CHANNEL
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b420000.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",KARUSEL
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",KAUMUDY
@@ -22835,8 +22497,6 @@ http://stream.laut.fm:80/rockin_c
 https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",LBN
 http://media1.lesea.com:1935/live/leseaorigin.stream/chunklist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",LCI
-http://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",LEBRIJA
 http://212.104.160.156:1935/live/lebrijatv2/master.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",LEBRIJA
@@ -23117,12 +22777,6 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w2006836025_
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w579932063_b2592000.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",MIAMI TV
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/playlist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",MIAMI TV (18+)
-http://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",MIAMI TV (18+)
-http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",MIAMI TV [1080P]
-http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",MIAMI TV | HD  | COLOMBIA
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w152373056_b2592000.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",MIAMI TV | HD  | MEXICO
@@ -23409,8 +23063,6 @@ http://v2.catcast.me/content/37742/index.m3u8
 http://stream.hope.ua/hopeua/live_1/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",NANCY WEBTV
 http://nancy-webtv.vedge.infomaniak.com/livecast/nancy-webtv/playlist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",NASA TV MEDIA
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",NASCAR
@@ -23581,8 +23233,6 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_NICKELODEON/variant.m3u8
 http://msk3.peers.tv/streaming/nickelodeon/126/tvrecw/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",NICKELODEON HD
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_C01_NICKELODEONHD/variant.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",NICKELODEON HD
-http://iptv-telik.usite.pro/load/0-0-1-125-20
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",NICKELODEON RUSSIA
 http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/541/index.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",NICKJR
@@ -24411,8 +24061,6 @@ http://b2.stream12.rai.it/live/rai5.smil/playlist.m3u8
 http://originstream12.rai.it/live/smil:rai5.smil/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RAI 5 (ITA)
 http://b2.stream12.rai.it/live/smil:rai5.smil/playlist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RAI NETTUNO
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=385140
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RAI NEWS 24
 https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RAI SPORT WEB 2
@@ -24431,6 +24079,8 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ran1_high/playlist.
 http://62.113.210.250/medienasa-live/ran1_high/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RAN1
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RANGARANG TV | 720P
+http://iptv.rangarang.us/live/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RASIA HD
 http://stream-nexttv.comboplayer.ru/hlsl/1/Rossiya_HD/04.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RBTV BENGKULU
@@ -24643,8 +24293,6 @@ http://nn.geo.joj.sk/hls/rik-540.m3u8
 http://transcoder1.bitcare.eu:18090/rimextv.flv
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RING BULFARIA
 https://cdn1.mobiletv.bg/T3/ringbghd/ringbghd_794613_850k.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RMC
-http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RMC INFO TALK SPORT
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",RMK TV SCIACCA
@@ -25425,8 +25073,6 @@ http://218.202.220.2:5000/nn_live.ts?id=STARTV
 https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",STAR TV FHD
 http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/4.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",STAR TV TURKEY
-http://lcgid8xu.rocketcdn.com/startvhd.stream_240p/chunklist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",STARGATE ATLANTIS
 https://stream.allsprk.tv/live/6/index.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",STARGATE SG1
@@ -26069,10 +25715,6 @@ http://195.20.196.69:1935/tugantel/tugantel1/playlist.m3u8
 http://serv30.vintera.tv:8081/africa/tunisieimmob/chunks.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TUNISIE IMMOBILIER TV (OPT-2)
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TURBO MIX RADIO TV | SD
-http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TURBOMIX
-http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TURKIA-VUSLAT TV 320*240
 http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TURKISH TV 24SAAT YAYIN
@@ -26109,6 +25751,44 @@ https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/chunklist.m3u8?fluxustv.m3u8
 http://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TUTV TEMPLE UNIVERSITY
 http://streaming.temple.edu/tutvlive/mp4:8BRYCQMB/chunklist.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
+http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
+http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/chunklist.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_NTV/variant.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
+http://vod.tv7.fi:1935/tv7-ru/tv7-ru.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
+http://persik.tv/pl/9939/211109.m3u
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
+http://persik.by/stream/0264/420211/10231.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
+http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
+http://cf.moskvatv.com/live/hayastantv/xMNgKcnp3x/7.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
+http://cf.moskvatv.com/live/hayastantv/xMNgKcnp3x/3.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
+https://cdn.alarab.com/h264/153976_720p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/1tvod/1tvod/playlist.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
+http://langate.tv/acc/tracks-v1/index.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
+https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
 http://188.113.190.12/170/video.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
@@ -26181,8 +25861,6 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8?token=e1
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
-http://iptv.rubintele.com:8552/play/a007
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
 http://live2.mediacdn.ru/sr1/raztv/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TV
@@ -26807,8 +26485,6 @@ http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist_w646772637.m3
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TVW CABLE CHANNEL HD WASHINGTON USA
 https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chunklist_w795404484_b2179072.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TWIT
-http://iphone-streaming.ustream.tv:80/uhls/1524/streams/live/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",-TYSK-ARD
 http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_184_av-p.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",-TYSK-FILSTALWELLE
@@ -26963,8 +26639,6 @@ http://45.126.83.51/qwr9ew/s/s33/index.m3u8
 http://51.254.39.37/TV/RUS/n/1.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",UNKNOWN 122
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",UNKNOWN 129
-http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",UNKNOWN 139
 http://78.26.128.21:8082/stream.flv?stream=13
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",UNKNOWN 14
@@ -26993,6 +26667,12 @@ https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_2500_av-b.m3u8
 http://88.202.231.174/live/prima_max_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",UNKNOWN 149
 http://88.202.231.174:80/live/markiza_hd_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",UNKNOWN 150
+http://185.246.210.55:2200/EX/bein4hd-ar/index.m3u8?token=stalker
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",UNKNOWN 151
+http://185.246.210.55:2200/EX/bein4hd-ar/index.m3u8?token=xxrstalker
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",UNKNOWN 152
+http://185.246.210.55:2200/EX/bein4hd-ar/index.m3u8?token=xrstalker
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",UNKNOWN 16
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w572579028.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",UNKNOWN 164
@@ -27019,8 +26699,6 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8
 http://45.126.83.51/qwr9ew/s/s13/index2.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",UNKNOWN 190
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_HD/variant.m3u8&hd
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",UNKNOWN 191
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",UNKNOWN 2
 http://45.126.83.51/uq2663/h/h08/01.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",UNKNOWN 20
@@ -27057,8 +26735,6 @@ http://rt-nw-klgr-htlive-lb.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 http://video.player.altervista.org/repubblicatv.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",UNKNOWN 243
 http://rt-nw-murm-htlive-lb.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",UNKNOWN 246
-http://itv.bbwqg.cn/fx.mp4
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",UNKNOWN 248
 http://nn2.joj.sk/hls/family-540.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",UNKNOWN 25
@@ -28017,8 +27693,6 @@ https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",USA: POP
 https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",USA: RANGARANG TV
-http://iptv.rangarang.us/live/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",USA: RYETV
 http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",USA: SMILE TV
@@ -28341,8 +28015,6 @@ http://cdnak10.cast4u.info/channels/3/10803.m3u8
 http://wpso.com/livecast.asx
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",XEPCOН
 https://stream.smarthost.com.ua/hls/khersontv.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",XEPСОН
-http://iptv.rubintele.com:8552/play/a016
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",XITE FHD (NL)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-wernigerode_high/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",XUZHOU TV 1 SHANGHAI (OPT-1)
@@ -28517,8 +28189,6 @@ http://94.43.239.178:8080/CHANNEL367/BITRATE0/playlist.m3u8
 http://streams.antennemv.de/antennemv-live/mp3-192/amv
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ZZZUNKNOWN 3380
 http://94.43.239.178:8080/CHANNEL827/BITRATE0/playlist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ZZZUNKNOWN 339
-http://lh3.ggpht.com/n1PDg6D2bXMdh-K4BYvUyZIYBwjfXTuAqkrftPlXnBZv9tJYgY3fQoD1solJ8guwOqaf=w300
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ZZZUNKNOWN 3426
 http://94.43.239.178:8080/CHANNEL846/BITRATE0/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ZZZUNKNOWN 3529
@@ -30351,8 +30021,6 @@ http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant
 https://sitv.ru/hls/s86.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",A HABER HD
 http://spyiptv.merseine.com:8000/live/Qwsd6789k/kopyalamas10s11dvbx/76.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",ABC NEWS 24/7
-http://176.31.74.164:8081/abcnewslive/abcnews/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",ACCTV
 https://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",ADA TV KIBRIS
@@ -30479,8 +30147,6 @@ http://95.211.214.198/bolivia/cristaltv/tracks-v1a1/mono.m3u8
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_STVBAYKAL/variant.m3u8?version=2
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",CVA
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",D MAX TR
-http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",D TAY TV HD
 https://mn-nl.mncdn.com/blutv_taytv/smil:taytv_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",D TAY TV SD
@@ -30551,6 +30217,8 @@ https://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8
 http://waw1.artiyerelmedya.net:1935/frttv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",FINEST TV
 http://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",FLV
+http://v2.14mp4.com:80/av-hls/20160713/m131/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",FOX NEWS
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",GAZIANTEP OLAY TV
@@ -30567,8 +30235,6 @@ https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",GEM TV
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",GEM USA
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",GEO ENTERTAINMENT
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",GEO KAHANI
@@ -30991,14 +30657,14 @@ https://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",NASA TV-SUPERSATFORUM.COM
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",NBC HD
-http://161.0.157.50/PLTV/88888888/224/3221227040/01.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",NBC NEWS NOW
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",NHT TV BELGESEL
 http://nhttv22.nhttv.com:29020/nhttv/nhttv/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",NING TV
 https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",NKNOWN 90
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/74837.ts?checkedby:hlscat.com
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",NOA 4
 http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",NRG 91
@@ -31257,6 +30923,90 @@ http://cdn-umudtv.yayin.com.tr/umudtv/smil:umudtv.smil/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",UNIVERSITE TV
 https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 10
+https://b-hls-17.stripst.com/hls/40513525/40513525.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 11
+https://b-hls-21.stripst.com/hls/38342953/38342953.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 117
+http://api.kaka-app.xyz/mm654123/proxy.php?vid=vipga&id=6000
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 12
+https://b-hls-18.stripst.com/hls/43669480/43669480.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 120
+https://stream-03.sg1.dailymotion.com/sec(39iDNPbzS-KK9aqHY2NME_kJXFUgZwtojIrQK_UgF_c)/dm/3/x6vbjdp/d/live-3.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 125
+http://193.228.153.231:4240/bysid/50
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 126
+http://78.109.108.62:2001/protv
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 127
+https://vid.hls.protv.ro/protvhdn/protvhd_2_34/index.m3u8?1
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 128
+http://198.255.87.59:8080/INDIA_HINDI/STAR_GOLD_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 129
+http://gocache2.antik.sk/live/stv1_800/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 13
+https://b-hls-24.stripst.com/hls/29947440/29947440.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 14
+https://b-hls-20.stripst.com/hls/29559103/29559103.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 145
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/778
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 147
+http://89.38.104.4:8080/O3TV.flv
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 148
+rtsp://83.218.202.202:1935/live/wt_national_tv.stream
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 154
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/index_1500_av-b.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 155
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@303292/index_1500_av-b.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 156
+https://directes-tv-int.ccma.cat/int/ngrp:c33_web/chunklist_b630067.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 160
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b7)/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 161
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b2)/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 162
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b4)/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 165
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b8)/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 171
+https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 179
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 180
+https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b1296000.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 183
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/75299.ts?checkedby:hlscat.com
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 184
+https://b-hls-21.stripst.com/hls/13971979/13971979.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 187
+https://videos.xxxziz.com/media/videos/h264/4717_480p.mp4
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 190
+http://88.201.207.227:81/udp/239.239.3.68:5239
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 24
+https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?trackedby:m3ulive.com
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 25
+https://cda7fd8376774e648dbcc6136f7b42a5.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ACCDigitalNetwork/248ced75-3c63-4e39-8408-4657449b471b/5.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 27
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/2.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 5
+https://b-hls-17.stripst.com/hls/23280602/23280602.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 6
+https://b-hls-17.stripst.com/hls/27621996/27621996.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 69
+https://e32.voyeur-house.tv/realm38/stream/99e8a081e3fdcf0c4f70863cd5d2ff72.m3u8?CAM14
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 7
+https://b-hls-17.stripst.com/hls/41354553/41354553.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 75
+https://videony.rhsj520.com/20190907/RPIN-026/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 77
+https://play.sexysat.live//24/bianca%2014.1.%203.mp4
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 78
+http://46.149.191.217:8117/2023
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 8
+https://b-hls-24.stripst.com/hls/44081986/44081986.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 9
+https://b-hls-16.stripst.com/hls/44080099/44080099.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 91
+http://103.130.186.138:8800/oxygenplay/hbo/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",UNO TV
 http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",UNSERDING
@@ -31535,99 +31285,3 @@ http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8?version=
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?version=2
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",ЯМАЛ РЕГИОН
 http://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8?version=2
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 5
-https://b-hls-17.stripst.com/hls/23280602/23280602.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 6
-https://b-hls-17.stripst.com/hls/27621996/27621996.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 7
-https://b-hls-17.stripst.com/hls/41354553/41354553.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 8
-https://b-hls-24.stripst.com/hls/44081986/44081986.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 9
-https://b-hls-16.stripst.com/hls/44080099/44080099.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 10
-https://b-hls-17.stripst.com/hls/40513525/40513525.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 11
-https://b-hls-21.stripst.com/hls/38342953/38342953.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 12
-https://b-hls-18.stripst.com/hls/43669480/43669480.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 13
-https://b-hls-24.stripst.com/hls/29947440/29947440.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 14
-https://b-hls-20.stripst.com/hls/29559103/29559103.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 24
-https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?trackedby:m3ulive.com
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 25
-https://cda7fd8376774e648dbcc6136f7b42a5.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ACCDigitalNetwork/248ced75-3c63-4e39-8408-4657449b471b/5.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 27
-https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/2.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 69
-https://e32.voyeur-house.tv/realm38/stream/99e8a081e3fdcf0c4f70863cd5d2ff72.m3u8?CAM14
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 75
-https://videony.rhsj520.com/20190907/RPIN-026/1500kb/hls/index.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 77
-https://play.sexysat.live//24/bianca%2014.1.%203.mp4
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 78
-http://46.149.191.217:8117/2023
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",nknown 90
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/74837.ts?checkedby:hlscat.com
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 91
-http://103.130.186.138:8800/oxygenplay/hbo/index.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 117
-http://api.kaka-app.xyz/mm654123/proxy.php?vid=vipga&id=6000
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 120
-https://stream-03.sg1.dailymotion.com/sec(39iDNPbzS-KK9aqHY2NME_kJXFUgZwtojIrQK_UgF_c)/dm/3/x6vbjdp/d/live-3.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 125
-http://193.228.153.231:4240/bysid/50
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 126
-http://78.109.108.62:2001/protv
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 127
-https://vid.hls.protv.ro/protvhdn/protvhd_2_34/index.m3u8?1
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 128
-http://198.255.87.59:8080/INDIA_HINDI/STAR_GOLD_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 129
-http://gocache2.antik.sk/live/stv1_800/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 145
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/778
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 147
-http://89.38.104.4:8080/O3TV.flv
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 148
-rtsp://83.218.202.202:1935/live/wt_national_tv.stream
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 150
-http://185.246.210.55:2200/EX/bein4hd-ar/index.m3u8?token=stalker
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 151
-http://185.246.210.55:2200/EX/bein4hd-ar/index.m3u8?token=xxrstalker
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 152
-http://185.246.210.55:2200/EX/bein4hd-ar/index.m3u8?token=xrstalker
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 154
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/index_1500_av-b.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 155
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@303292/index_1500_av-b.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 156
-https://directes-tv-int.ccma.cat/int/ngrp:c33_web/chunklist_b630067.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 160
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b7)/index.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 161
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b2)/index.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 162
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b4)/index.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 165
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b8)/index.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 171
-https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 179
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 180
-https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b1296000.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 183
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/75299.ts?checkedby:hlscat.com
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 184
-https://b-hls-21.stripst.com/hls/13971979/13971979.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 185
-http://latvonlive.com:33612/movie/Lulu/1234/3149.mp4
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Flv
-http://v2.14mp4.com:80/av-hls/20160713/m131/index.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 187
-https://videos.xxxziz.com/media/videos/h264/4717_480p.mp4
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",Unknown 190
-http://88.201.207.227:81/udp/239.239.3.68:5239
