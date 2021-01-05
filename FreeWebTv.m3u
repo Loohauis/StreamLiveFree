@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*(01)  > > > > > FREE WEB TV ( UPDATE 2020-12-31 )
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*(01)  > > > > > FREE WEB TV ( UPDATE 2021-01-05 )
 http://0.0.0.0:01
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] RTP 1 | 504P
 https://streaming-live.rtp.pt/liverepeater/rtp1.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
@@ -30,19 +30,19 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] SIC RADICAL
 http://live.impresa.pt/live/sicrad/sicrad.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] TVI
-https://ptiptv.tk/tvi.m3u8?v0hM1ipmMkzrnFBUQN2fJB_kAwc
+https://ptiptv.tk/tvi.m3u8?yEi6QW1wWnYwY1BUwkt7DE4N1L4
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] TVI 24
-https://ptiptv.tk/tvi24.m3u8?v0hM1ipmMkzrnFBUQN2fJB_kAwc
+https://ptiptv.tk/tvi24.m3u8?yEi6QW1wWnYwY1BUwkt7DE4N1L4
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] TVI REALITY
-https://ptiptv.tk/tvi-direct.m3u8?v0hM1ipmMkzrnFBUQN2fJB_kAwc
+https://ptiptv.tk/tvi-direct.m3u8?yEi6QW1wWnYwY1BUwkt7DE4N1L4
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**[EUR] EURONEWS UK
-https://ptiptv.tk/euronews.m3u8?v0hM1ipmMkzrnFBUQN2fJB_kAwc
+https://ptiptv.tk/euronews.m3u8?yEi6QW1wWnYwY1BUwkt7DE4N1L4
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**[PRT]  TV MOZAMBIQUE INTERNACIONAL | 480P
 http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**[PRT] ARTV
 https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**[PRT] EURONEWS PT
-https://ptiptv.tk/euronews-pt.m3u8?v0hM1ipmMkzrnFBUQN2fJB_kAwc
+https://ptiptv.tk/euronews-pt.m3u8?yEi6QW1wWnYwY1BUwkt7DE4N1L4
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**[PRT] KURIAKOS TV | 1080P
 http://195.22.11.11:1935/ktv/ktv1/playlist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",**[PRT] PORTO CANAL S01 | 360P
@@ -30607,3 +30607,583 @@ http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8?version=
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?version=2
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",ЯМАЛ РЕГИОН
 http://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8?version=2
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV GUARANY
+http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8?wowzasessionid=1032864113
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",BALIK PAPAN TV
+http://122.248.43.138:1935/ch10/myStream/chunklist_w476334342.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",GOLD TV [HD]
+http://151.0.207.99:1935/GoldTV/GOLD_17/chunklist_w1119251967.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV CAMARA JACAREÍ [HD]
+http://179.109.16.5:1935/tvcamarajacarei/aovivo/chunklist_w1875288456.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",MICROVISION [HD]
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1803917787.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TELEARAGUA
+http://190.205.43.236:8080/hls/nginx.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",KURIAKOS TV [HD]
+http://195.22.11.11:1935/ktv/ktv2/chunklist_w1333127579.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV ASSEMBLÉIA PARAÍBA
+http://200.164.225.175/hls/tvalpb.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TRAVEL TV
+http://31.13.223.104:1935/travel/travel.stream/chunklist_w1252567985.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",BUCOVINA TV
+http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TELEISLAS
+http://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w1748301643.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",LANCELOT TELEVISIÓN
+http://62.210.141.18:1935/directo/lancelot.television/chunklist_w38430638.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Lounge
+http://6d9a.webradio.upx.net.br:9064/stream
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV Gazeta
+http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",BADEN TV [HD]
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w46330699.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",BOLIVIA TV
+http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w337269779.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",KURIAKOS CINE
+http://c2.manasat.com:1935/kcine/kcine2/chunklist_w701660014.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",KURIAKOS KIDS [HD]
+http://c2.manasat.com:1935/kkids/kkids2/chunklist_w379743939.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CATHOLIC TV [HD]
+http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV IDIFUSORA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w2010541423.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",DW (ARABIA)
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UCSG TV
+http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist_w60223011.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",KARAOKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",KARAOKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",METRO TV NEWS [HD]
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w6882452_b1492000_sleng.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",BULGARIA ON AIR [HD]
+http://edge15.cdn.bg:2006/fls/bonair.stream/chunklist_w2140568028.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",SBT RJ SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b176000_sleng.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV SANTA CELILIA
+http://flash1.crossdigital.com.br/2063/2063/chunklist_w32770933.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RADIONORBA
+http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/chunklist_w133502394_b800000.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TVCI
+http://flash8.crossdigital.com.br/2306/2306/chunklist_w1640929631.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",WFGC TELEVISION
+http://hls1.livestreamingcdn.com:1935/livecdn631/myStream.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TVE - LA1 [HD]
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TVE
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",88 STEREO FM
+http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1751004350.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",MY COMEDY TV
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w718367859_b1928000.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",SIC Caras
+http://live.impresa.pt/live/siccaras/siccaras.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",ETV MARCHE
+http://live.kronopress.com:1935/etvmarche_live/etvmarche/chunklist_w1476853811.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",NAPOLE CANALE 21
+http://live.sloode.com:1935/canale21/live/chunklist_w1446339038.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",LUX TELEVISIA
+http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w2057911929.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Globo RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CANAL 26 [HD]
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1419430851_b2628000_sleng.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",DIARIO 26 [HD]
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1929421910_b2628000_sleng.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TLX HD [HD]
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1324794764_b1828000_sleng.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",EXTREMA TV [HD]
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1661009252.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CANAL VIDA
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w1302460826.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV VIDEOLINA
+http://livestreaming.videolina.it/live/Videolina/chunklist_w1746135946.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TRT 3 TBMM TV [HD]
+http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV DIÁRIO DO SERTÃO
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w1649459754.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",WEB TV ÁGUA BOA
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1076516397.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CANAL 9
+http://panel.dattalive.com:1935/8250/8250/chunklist_w836342637.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",STZ TV
+http://pge0907stz35.nethorizontes.tv:1935/pge0907stz35/stzwebtv/chunklist_w1772589810.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV PLAN
+http://rtmp.cdn.upx.net.br/723b/myStream.sdp/chunklist.m3u8?a5e234becd67d12c63554ea77a930bde
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",7TV MURCIA
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Estação SAT FM
+http://s32.maxcast.com.br:8022/live
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TELEMAX [HD]
+http://s5.mexside.net:1935/telemax/telemax/chunklist_w1655155739.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",SAKSHI
+http://sakshi.live-s.cdn.bitgravity.com/cdn-live/_definst_/sakshi/live/new_feed01/chunklist_w1925385620.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Vibe FM
+http://servidor36.brlogic.com:8180/live
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",NTV
+http://srv02.brasilstream.com.br:8080/live/ntv/ntv/mono.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CAMPUS TELEVISION [HD]
+http://st2.worldkast.com/8004/8004/chunklist_w775087674.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",SI TV
+http://st2.worldkast.com/8030/8030/chunklist_w911510249.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RETRO MUSIC TELEVISION
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w730609437.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Retrô Music
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CANAL EXECUTIVO IASD
+http://stream.novotempo.com:1935/tv/executivo.smil/chunklist_w316288436_b628000_slpor.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w342913242.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",EL PINGUINO TV [HD]
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w1428043935.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TVE RS [HD]
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w2037356443.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RTP1 [HD]
+http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b1290000_slpor.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Antena 1 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8?DVR
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Antena 1 Açores 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena1acores80a/playlist.m3u8?DVR
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Antena 1 Fado 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena1fado80a/playlist.m3u8?DVR
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Antena 1 Madeira 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8?DVR
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Antena 1 Memória 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena1memoria80a/playlist.m3u8?DVR
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Antena 2 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Antena 2 Jazzin 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8?DVR
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Antena 2 Ópera 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena2opera80a/playlist.m3u8?DVR
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Antena 3 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8?DVR
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Antena 3 Madeira 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8?DVR
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Antena 1 Lusitânia 🎧
+http://streaming-live-app.rtp.pt/liveradio/lusitania80a/playlist.m3u8?DVR
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RDP África 🎧
+http://streaming-live-app.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8?DVR
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RDP Internacional 🎧
+http://streaming-live-app.rtp.pt/liveradio/rdpint80a/playlist.m3u8?DVR
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Antena 1 Vida 🎧
+http://streaming-live-app.rtp.pt/liveradio/vida80a/playlist.m3u8?DVR
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Rádio ZigZag 🎧
+http://streaming-live-app.rtp.pt/liveradio/zigzag80a/playlist.m3u8?DVR
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RTP 1
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RTP 1
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RTP AÇORES
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RTP ÀFRICA
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RTP INTERNACIONAL
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RTP MADEIRA
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RTP Memória
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RTP 3
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CBS 47
+http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/564k/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV INTERLAGOS
+http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/chunklist_w544299472.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNISC TV
+http://tv.unisc.br/hls/test.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",SUMMER TV [HD]
+http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w2046018657.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV QUE DEMAIS
+http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/chunklist_w1135688541.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV DAS ARTES
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/chunklist_w2031240560.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",WEB TV SANTANA [HD]
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",PROMAR TV
+http://vcp1.myplaytv.com/promar/promar/chunklist_w1564695878.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",VIVA WEB TV
+http://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w850288381.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Web TV RWCG
+http://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w745028546.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV MARAJOARA
+http://video01.kshost.com.br/tv31966/tv31966/chunklist_w624176818.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",SAKTI TV
+http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TRM TV
+http://w1.streamingmedia.it:1935/trmh24/live/chunklist_w1662993896.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",SARDEGNA UNO
+http://wms.shared.streamshow.it/sardegnauno/mp4:sardegnauno/chunklist_w16198794.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CANALE 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/chunklist_w2035893241.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",DIRETTA SUPER TV
+http://wms.shared.streamshow.it:1935/supertv/supertv/chunklist_w87161393.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",BRESCIA TV
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/chunklist_w20810694.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CANAL 10 FERNANDOPOLIS
+http://wowza.acessaradios.com.br:1935/canaldez/canaldez/chunklist_w830214796.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",FONTE TV [HD]
+http://wowza.softhost.com.br:1935/fonte/fontetv/chunklist_w1425444462.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",UFG TV [HD]
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w240924789_b1544100_sleng.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",POWER TV [HD]
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w1139689967.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",MGS TV
+http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",MKK WEB TV
+http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/chunklist_w1092850441.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV DESTAK
+http://wse01.logicahost.com.br:1935/pascoal/_definst_/pascoal/chunklist_w598480219.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV CAPITAL 777
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1287912850.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV DIGITAL BIRIGUI
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1794321969.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV CINCO
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",SONUS FM [HD]
+http://www.sonus.fm:1935/public/stream_720p/chunklist_w671425768.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CANAL 10 FOZ DO IGUAÇU
+http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/chunklist_w11822246.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TVN BRASIL
+http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/chunklist_w993944372.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",NOVA ERA TV [HD]
+http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w954302459.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",VIVA ¹
+https://2204.janjua.pw:8088/live/aovivotudo_nick/playlist.m3u8?
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TELE PADRE PIO
+https://5698c1463445c.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w172885464_b227000_slita.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",HISTORY LAB
+https://5929b138b139d.streamlock.net/HistoryLab/livestream/chunklist_w1774384580.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CANAL C [HD]
+https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/chunklist_w358257876.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",LITORAL TV
+https://596639ebdd89b.streamlock.net/8048/8048/chunklist_w1952604940.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV VERDES CAMPOS SAT
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist_w1723504263.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",BX1
+https://59959724487e3.streamlock.net/stream/live/chunklist_w1433133692.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CANALE 2
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w1483280070.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",VISUAL RADIO
+https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/chunklist_w1603920264.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TELE PAVIA
+https://59d8c0cee6f3d.streamlock.net/telepavia/telepavia/chunklist_w667898692.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV AMBIENTAL
+https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1448480831.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV ASSEMBLEIA PIAUÍ [HD]
+https://59e4b6c1beddc.streamlock.net/ronaldoalepi/ronaldoalepi/chunklist_w36911338.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Canal 29 Web TV
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1913464202.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV METROPOLITANA
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w1108113354.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CAXIAS TV COMUNITÁRIA [HD]
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w1130229993.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV HORA1 [HD]
+https://59f1cbe63db89.streamlock.net:1443/hotflix/_definst_/hotflix/chunklist_w96738037.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",MUNDO TV [HD]
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w327784589.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",GOSTEI GOSPLE TV
+https://59f1cbe63db89.streamlock.net:1443/redegostei/redegostei/chunklist_w11053170.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Summer TV
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w749519263.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV PAI ETERNO [HD]
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w922266385.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TOP MIX TV
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w998048218.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV BELTRÃO 2
+https://59f1cbe63db89.streamlock.net:1443/tvbeltrao2/_definst_/tvbeltrao2/chunklist_w1364014716.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Rede Brasil
+https://59f1cbe63db89.streamlock.net:1443/tvc21/_definst_/tvc21/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV CARAVELAS [HD]
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/chunklist_w1229593460.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV CINEC
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/chunklist_w1744838480.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",WEB TV PARANÁ [HD]
+https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/chunklist_w110254846.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV BNO
+https://59f2354c05961.streamlock.net:1443/bonner/_definst_/bonner/chunklist_w558740421.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RECORD NEWS [HD]
+https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w1088693847.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV ASSEMBLÉIA RN
+https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w1648277708.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RBTV (REDE BRASIL)
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1050977781.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV GUARÁ (RECORD NEWS) [HD]
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist_w1269852601.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TVÌDEOS NEWS
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w1976399092.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",SBT Interior SP
+https://5a1c76baf08c0.streamlock.net/sbtinterior/1mav5vdk7hchgyjpwulrjtxf7lywjz24/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV COM MACEIÓ
+https://5a7d54e35f9d2.streamlock.net/z883-live/stream/chunklist_w1285984413.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV BRUSQUE
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/chunklist_w522809333.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV CIDADE CANAL 9
+https://5b7f3c45ab7c2.streamlock.net/8002/8002/chunklist_w1942569764.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",IMPERIAL TV
+https://5b7f3c45ab7c2.streamlock.net/8002/8002/chunklist_w343167958.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV RP
+https://5b7f3c45ab7c2.streamlock.net/8042/8042/chunklist_w1218801665_DVR.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",NOVA TV
+https://5b7f3c45ab7c2.streamlock.net/8124/8124/chunklist_w175921010_DVR.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",FANO TV
+https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/43DA-3923-9C72-4E9F/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",PPTV Channel
+https://5cf4a2c2512a2.streamlock.net/felipemello/felipemello/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV MAIS MARICÁ [HD]
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/chunklist_w1888487497.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",URBAN TV BRASIL [HD]
+https://5cf4a2c2512a2.streamlock.net/urbantv/urbantv/chunklist_w1050306083.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",All Sports TV
+https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w698058298.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TOP TV ¹
+https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w654982812.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CTV
+https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w1373090659.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",HOPE TV [HD]
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelUkraine_1@432955/index_2000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",BFM TV
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RADIO CAPITAL TIVÙ
+https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV JAGUAR HDTV BRISANET CANAL 170 [HD]
+https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/chunklist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV8 BRASIL [HD]
+https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/chunklist_b2596000.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",REDE LITORAL NEWS
+https://cdn.jmvstream.com/w/LVW-8414/LVW8414_tDit99EAtY/chunklist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TELE BARN [HD]
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_0mc3z57p/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV ONIX [HD]
+https://cdn-candiano-1114.ciclano.io:1443/candiano-1114/candiano-1114/chunklist_w1434678954.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",COUNTRY MUSIC CHANNEL [HD]
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TELESUR (ENGLISH)
+https://d7g1ebft2592.cloudfront.net/mblivev3/480p/chunklist_w2033976373.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV ZOOM
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/index_150_av-p.m3u8?sd=6&rebase=on
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV CLIC BRASIL
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692593/index_150_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CANAL 324
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b1296000.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",DUBAI ONE
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV DUBAI RACING [HD]
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV DUBAI [HD]
+https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",DW (AMERIKA)
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",MUSIC CHANNEL ROMANIA
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w861319804.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV JORNAL (SBT PE) [HD]
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1748976303_b216000_sleng.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV JANGADEIRO [HD]
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w856232510_b216000_sleng.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV JORNAL CARUARU (SBT PE)
+https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w639460903.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TVE - 24H [HD]
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",www.listaiptv.gratis
+https://listaiptv.gratis/site.mp4
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CANAL ONCE [HD]
+https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist_w697310356_b1300000_slesp.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Cine Livre
+https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV VM Web TV
+https://livefocamundo.com:8081/8606/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",M2O
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",BH FM
+https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",3ABN RUSSIAN [HD]
+https://moiptvhls-i.akamaihd.net/hls/live/652316-b/secure/HQs/chunklist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Love Nature
+https://origin-02.nxplay.com.br/LOVENATURE_NX/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Euronews (en)
+https://ptiptv.tk/euronews.m3u8?FkdO0z30ll0GglBUyFA9DBr9zAU
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Euronews (pt)
+https://ptiptv.tk/euronews-pt.m3u8?FkdO0z30ll0GglBUyFA9DBr9zAU
+#EXTINF:-1 ,#EXTVLCOPT:http-referrer=http://portocanal.sapo.pt/live
+https://ptiptv.tk/porto.m3u8?CUezieOxORY6e0RFN3aARPdMgf8
+#EXTINF:-1 ,#EXTVLCOPT:http-referrer=http://portocanal.sapo.pt/live
+https://ptiptv.tk/porto.m3u8?FkdO0z30ll0GglBUyFA9DBr9zAU
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",PORTO CANAL
+https://ptiptv.tk/porto.m3u8?qUcbT80N4a1GBUJSz5zm_5jdTZE|referer=http://portocanal.sapo.pt/live
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Zig Zag
+https://ptiptv.tk/zigzag.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",MOSCOU 24 [HD]
+https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",BFM SPORT
+https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV CN AGITOS
+https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8?wowzasessionid=1282716424
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Pluto TV Cine Sucessos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Pluto TV Filmes Ação
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Pluto TV Cine Comédia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Pluto TV Cine Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Pluto TV Cine Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Pluto TV Séries
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Pluto TV Retrô
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",MTV Pluto TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Pluto TV Anime
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Pluto TV Natureza
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Pluto TV Junior
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Nick Jr. Club
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Nick Clássico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Pluto TV Cine Família
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Os Três Patetas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Pluto TV Investigação
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Porta dos Fundos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Clima de Natal
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fc5aeca824d000783d321/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",FailArmy
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",People are Awesome
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d000739e19c/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",The Pet Collective
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Pluto TV Fashionbox
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",MTV Are you the One?
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Naruto
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",A Vida Moderna de Rocko
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Pluto TV Cine Natal
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8a11ce2a4559000782a583/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Músicas de Natal
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8a12659ab0370008b177f4/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Turma da Mônica
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",As Pistas de Blue
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Guia de Canais
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",BIGMIX
+https://servidor39-1.brlogic.com:8130/live
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Rede Premium
+https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV MON
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8?wowzasessionid=1167800536
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Cine Trianon TV
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w564310084.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Cine Livre 2
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Greatest Hits TV
+https://stmv1.srvif.com/ghtv/ghtv/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Retrô Cartoon
+https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV Séries As Panteras
+https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV Séries A Mulher Biônica
+https://stmv1.srvstm.com/tvserie2/tvserie2/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV Séries Star Trek
+https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Vintage TV
+https://stmv1.srvstm.com:443/rogerio4248/rogerio4248/chunklist_w2046020600.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",ISTV
+https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w1506444664.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Rede HTV
+https://stmv3.samcast.com.br/hugo3090/hugo3090/chunklist_w1615540760.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Coca Cola FM
+https://str2b.openstream.co/1084
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",FURG TV
+https://stream.furg.br/hls/furgtv_480p.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Vagalume Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",LOGOS TV
+https://streamer1.streamhost.org/salive/logosH/chunklist_w168103485.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CNN BRASIL ¹
+https://streaming.cnnbrasil.com.br/cnndigital_mainOutput2.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CNN BRASIL ²
+https://streaming.cnnbrasil.com.br:443/cnndigital_mainOutput5.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV GIDEÔES
+https://streaming01.zas.media/gideoes/programacao_360p/chunklist_w1277060667.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",VIAJAR TV
+https://tpc.googlesyndication.com/simgad/2798683087989834986
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Bons Tempos TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV5 MONDE
+https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CITIZEN TV
+https://vidcdn.vidgyor.com/citizentv-origin/liveabr/citizentv-origin/live1/chunks.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",PUBLIC TV
+https://vidcdn.vidgyor.com/publictv-origin/liveabr/publictv-origin/live1/chunks.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",CANAL PROMESSAS
+https://video01.kshost.com.br/gente8322/gente8322/chunklist_w1016045675.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",FUN CANAL [HD]
+https://video01.kshost.com.br/luiz68286/luiz68286/chunklist_w716128848.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV PORTAL MIDIA [HD]
+https://video01.kshost.com.br/portalmidia/portalmidia/chunklist_w637420370.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",RADIO AVELA WEB TV
+https://video1.earthcam.com/myearthcamclips/_definst_/MP4:20180920/d76371d13cdb1eee7a8d4198272b23cd.mp4/chunklist_w334331426.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TV Brasil
+https://video-rvd-df-gw-1-2.rnp.br/live/ocp(t(FlM1wl5KB-Y)r(fVR9ug)a(qLWpag)p(d(2xc)k(q8M)m(xNer0KtizPDEQRmD_fYWEA)n(a(xQatgg)s(e0c)'a(JrQ5mg)s(eyo)))s(s(-78)b(3XZWwPbOo1QIl0CB4ftHCFJZF_0GU1O5aYWVu0oroCIDkhbJc1iG4bFJderJsOGJCNL7YiitDktHssRosg)'s(WNQ)b(uXPS4-uLuUHopZbGtBMTf5i3P4NpRkzM1j1baUj2AI_3RLqPhgCLnaHHQ5TNOLoc_y9-ac3eEiUUvjOjFY5AjJTabrLiHyFaaOHsZMNs)'s(F8U)b(qX7axyDP))m(0))/index.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",ANDORRA DIFUSIÓ [HD]
+https://videos.rtva.ad/live/web/chunklist_w707810450.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",THE WEATHER CHANNEL [HD]
+https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",WFAA CHANNEL 8 - BREAKING NEWS
+https://wfaa-lh.akamaihd.net/i/WFAA_Breaking_1@37783/index_2000_av-p.m3u8?sd=6&rebase=on
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",TELPIN TV [HD]
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w384649765_b1344100_sleng.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",DJING: ELECTRONIC MUSIC
+https://www.djing.com/tv/28993-04.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",DJING: PARTY
+https://www.djing.com/tv/i-28993-04.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",DJING: UNDERGROUND
+https://www.djing.com/tv/u-28993-04.m3u8
