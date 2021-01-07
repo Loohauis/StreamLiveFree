@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*(01)  > > > > > FREE WEB TV ( UPDATE 2021-01-05 )
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*(01)  > > > > > FREE WEB TV ( UPDATE 2021-01-07 )
 http://0.0.0.0:01
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] RTP 1 | 504P
 https://streaming-live.rtp.pt/liverepeater/rtp1.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
@@ -31187,3 +31187,54 @@ https://www.djing.com/tv/28993-04.m3u8
 https://www.djing.com/tv/i-28993-04.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",DJING: UNDERGROUND
 https://www.djing.com/tv/u-28993-04.m3u8
+
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_1
+https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_2
+https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_3
+https://alchimie-euronews-4-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_4
+https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_5
+https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_6
+https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_8
+https://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_9
+https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_10
+https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_11
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_12
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_13
+https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_14
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_15
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_16
+https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_17
+https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_18
+https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_19
+https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_20
+https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_21
+https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_22
+https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_23
+https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_24
+https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_25
+https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_26
+https://whistle-1.samsung.wurl.com/manifest/playlist.m3u8
