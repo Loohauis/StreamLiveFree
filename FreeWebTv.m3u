@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*(01)  > > > > > FREE WEB TV ( UPDATE 2021-01-07 )
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*(01)  > > > > > FREE WEB TV ( UPDATE 2021-01-08 )
 http://0.0.0.0:01
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] RTP 1 | 504P
 https://streaming-live.rtp.pt/liverepeater/rtp1.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
@@ -31187,54 +31187,395 @@ https://www.djing.com/tv/28993-04.m3u8
 https://www.djing.com/tv/i-28993-04.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",DJING: UNDERGROUND
 https://www.djing.com/tv/u-28993-04.m3u8
-
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_1
-https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
+https://1091-surfnowtv-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_2
-https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
+https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_3
-https://alchimie-euronews-4-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_4
-https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
+https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_5
-https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_6
-https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
+https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_7
+https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_8
-https://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+https://alchimie-big-names-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_9
-https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
+https://alchimie-big-names-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_10
-https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
+https://alchimie-classical-harmony-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_11
-https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_12
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+https://alchimie-euronews-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_13
-https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+https://alchimie-euronews-4-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_14
-https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://alchimie-humanity-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_15
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+https://alchimie-humanity-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_16
-https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_17
-https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://alchimie-moods-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_18
-https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
+https://alchimie-moods-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_19
-https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_20
-https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_21
-https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
+https://alchimie-mysurf-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_22
-https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
+https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_23
-https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
+https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_24
-https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
+https://amc-absolutereality-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_25
-https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
+https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_26
+https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_27
+https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_28
+https://arcade-cloud-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_29
+https://arcade-cloud.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_30
+https://barcroft-truly-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_31
+https://biglife.sinclair.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_32
+https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_33
+https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_34
+https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_35
+https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_36
+https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_37
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_38
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_39
+https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_40
+https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_41
+https://cheddar-cheddar-3.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_42
+https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_43
+https://coco-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_44
+https://coco-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_45
+https://connection3-ent-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_46
+https://connection3-ent.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_47
+https://contv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_48
+https://contv.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_49
+https://dhx-caillou-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_50
+https://dhx-caillou-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_51
+https://dhx-teletubbies-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_52
+https://dhx-teletubbies-3-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_53
+https://dhx-teletubbies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_54
+https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_55
+https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_56
+https://dovenow.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_57
+https://drybar-drybarcomedy-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_58
+https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_59
+https://dust-samsung-uk-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_60
+https://dust.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_61
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_62
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_63
+https://elevensports-samsunguk-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_64
+https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_65
+https://elevensports.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_66
+https://endemol-dealornodeal-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_67
+https://endemol-dealornodeal-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_68
+https://endemol-derserienkanal-1-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_69
+https://endemol-derserienkanal-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_70
+https://endemol-reeltruthcrime-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_71
+https://endemol-restore-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_72
+https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_74
+https://endemol-top-criminie-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_75
+https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_76
+https://endemol-wipeoutxtra-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_77
+https://esr-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_78
+https://failarmy-international-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_79
+https://failarmy-international-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_80
+https://failarmy-international-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_81
+https://failarmy-international-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_82
+https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_83
+https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_84
+https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_85
+https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_86
+https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_87
+https://food.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_88
+https://fueltv-fueltv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_89
+https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_90
+https://fueltv-fueltv-4-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_91
+https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_92
+https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_93
+https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_95
+https://glewedtv-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_96
+https://gravitas-movies.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_97
+https://gravitas-movies.sinclair.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_98
+https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_99
+https://gsn-gameshowchannnel-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_100
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_101
+https://hsn.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_102
+https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_103
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_104
+https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_105
+https://jukin-peopleareawesome-2-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_106
+https://jukin-peopleareawesome-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_107
+https://jukin-peopleareawesome-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_108
+https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_109
+https://jukin-weatherspy-2-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_111
+https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_112
+https://kedoo-supertoonstv-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_113
+https://kmtvnow-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_114
+https://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_115
+https://magellantv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_116
+https://maverick-maverick-black-cinema-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_117
+https://maverick-maverick-black-cinema-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_118
+https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_119
+https://mavtv-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_120
+https://mhz-samsung-linear.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_121
+https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_122
+https://midnightpulp-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_123
+https://mobcrush-live.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_124
+https://mobcrush-live.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_125
+https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_126
+https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_127
+https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_128
+https://newsy.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_129
+https://newsy.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_130
+https://nosey-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_131
+https://nosey-2.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_132
+https://obsession-media-sinclair.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_133
+https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_134
+https://okproductions-brindiamochannel-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_135
+https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_136
+https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_137
+https://pocketwatch-ryanandfriends-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_138
+https://pocketwatch.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_139
+https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_140
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_141
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_142
+https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_143
+https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_144
+https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_145
+https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_146
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_147
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_148
+https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_149
+https://rakuten-comedymovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_150
+https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_151
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_152
+https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_153
+https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_154
+https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_155
+https://rakuten-spotlight-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_156
+https://rakuten-spotlight-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_157
+https://rakuten-spotlight-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_158
+https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_159
+https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_160
+https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_161
+https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_162
+https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_163
+https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_164
+https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_165
+https://revry.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_166
+https://rtmtv-powernation-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_167
+https://rtmtv-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_168
+https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_169
+https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_170
+https://sony-competencias-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_171
+https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_172
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_173
+https://stadium.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_174
+https://stadium.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_175
+https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_176
+https://stingray-karaoke-2-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_177
+https://stingray-qelloconcerts-2-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_178
+https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_179
+https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_180
+https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_181
+https://the-pet-collective-international-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_182
+https://the-pet-collective-international-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_183
+https://the-pet-collective-linear.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_184
+https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_185
+https://thisoldhouse-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_186
+https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_187
+https://toon-goggles.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_188
+https://triplesquirrels-evrgrn-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_189
+https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_191
+https://vod365-ketchuptv-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_192
+https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_193
+https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_194
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_195
+https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_196
 https://whistle-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_197
+https://whistle-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_198
+https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_199
+https://world-poker-tour.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_201
+https://yamatovideo-yamatoanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_202
+https://yuyu-samsung.samsung.wurl.com/manifest/playlist.m3u8
