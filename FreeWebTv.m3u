@@ -70,7 +70,55 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",KILLARNEY | WWW.MCNMEDIA.TV
 https://1104069653.rsc.cdn77.org/live/_724a07187b96b387ad836fc386ecf6fadac80dfc_/724a07187b96b387ad836fc386ecf6fadac80dfc_33.stream/playlist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",NBC HD
-http://161.0.157.50/PLTV/88888888/224/3221227040/01.m3u8
+http://161.0.157.50/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",CBS HD
+http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",UNIVERSAL FBI HD off
+http://203.154.243.89:1029
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",off
+http://203.154.243.89:1201
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",IZAA HD
+http://203.154.243.89:1202
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",off
+http://203.154.243.89:1204
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",WARNER TV HD ASIA
+http://203.154.243.89:1205
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",off
+http://203.154.243.89:1206
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",ASTRO 3 HD off
+http://203.154.243.89:1207
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",Golf off
+http://203.154.243.89:1208
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",Euro Sports off
+http://203.154.243.89:1209
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",ASTRO 4 off
+http://203.154.243.89:1211
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",W Concert HD
+http://203.154.243.89:1212
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MUSIC4U
+http://203.154.243.89:1213
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",SPORTS RB
+http://203.154.243.89:1214
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",CCTV5+ HD off
+http://203.154.243.89:1215
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",TOP FIGHT HD off
+http://203.154.243.89:1421
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",HI FIGHT HD off
+http://203.154.243.89:1422
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",ENC8-4 HD off
+http://203.154.243.89:1423
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",H Channel HD off
+http://203.154.243.89:2037
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",off
+http://203.154.243.89:11203
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",WARNER TV HD ASIA
+http://203.154.243.89:11205
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",NBC GOLF
+http://203.154.243.89:11208
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",M6 COUNTRY
+http://203.154.243.89:11620
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",off
+http://203.154.243.89:11739
 #EXTINF:-1 group-title="*(02) > > > > > MOVIES",*(02)  > > > > > MOVIES
 http://0.0.0.0:02
 #EXTINF:-1 group-title="*(02) > > > > > MOVIES",***[USA] MIH TV
@@ -2827,8 +2875,6 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 http://200.115.193.177/live/msctphd-720/chunklist_w1936316961.m3u8
 #EXTINF:-1 group-title="*(08) > > > > > MUSIC",MUSIC TOP HD
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
-#EXTINF:-1 group-title="*(08) > > > > > MUSIC",MUSIC4U
-http://203.154.243.89:1213
 #EXTINF:-1 group-title="*(08) > > > > > MUSIC",MUSICA DJING CLASSIC
 http://djing.com/tv/hits.m3u8
 #EXTINF:-1 group-title="*(08) > > > > > MUSIC",MUSICA DJING KARAOKE
@@ -3390,7 +3436,7 @@ http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3
 #EXTINF:-1 group-title="*(10) > > > > > NEWS",ABC 10 NEWS HD 720
 http://kxtv-lh.akamaihd.net/KXTV_Live_1_2000@74761?videoId=2166100606001&lineUpId=&pubId=35121343001&playerId=1811591078001&affiliateId=&accountid=35121343001&bandwidthEstimationTest=true&v=3.4.0&fp=WIN%2016,0,0,305&r=NVLKP&g=KFDXSNYRFCBN
 #EXTINF:-1 group-title="*(10) > > > > > NEWS",ABC 2
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="*(10) > > > > > NEWS",ABC NEWS
 http://abclive.abcnews.com/i/abc_live…/index_1200_av-b.m3u8…
 #EXTINF:-1 group-title="*(10) > > > > > NEWS",ABC NEWS
