@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*(01)  > > > > > FREE WEB TV ( UPDATE 2021-01-08 )
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*(01)  > > > > > FREE WEB TV ( UPDATE 2021-01-09 )
 http://0.0.0.0:01
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] RTP 1 | 504P
 https://streaming-live.rtp.pt/liverepeater/rtp1.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
@@ -55,8 +55,6 @@ http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist.m3u8
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/master.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*[USA] COMEDY DYNAMICS | @P
 https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*[USA] FAILARMY | 720P
-https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*[USA] INSIGHT TV | @P
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",[USA] SHOWTIME (WEST)
@@ -121,8 +119,6 @@ http://203.154.243.89:11620
 http://203.154.243.89:11739
 #EXTINF:-1 group-title="*(02) > > > > > MOVIES",*(02)  > > > > > MOVIES
 http://0.0.0.0:02
-#EXTINF:-1 group-title="*(02) > > > > > MOVIES",***[USA] MIH TV
-https://connection3-ent.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(02) > > > > > MOVIES",***KURIAKOS CINE | 1080P
 http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
 #EXTINF:-1 group-title="*(02) > > > > > MOVIES",*CINELIFE | 1080P
@@ -287,10 +283,6 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="*(02) > > > > > MOVIES",GEM DRAMA
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
-#EXTINF:-1 group-title="*(02) > > > > > MOVIES",GRAVITAS MOVIES
-https://cba5182b39c145c2b96ecc5c3f72e41a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GravitasMovies/b465c16f-0c23-4bf0-9a52-e1d87cb0f5ee/3.m3u8
-#EXTINF:-1 group-title="*(02) > > > > > MOVIES",GRAVITAS MOVIES
-https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(02) > > > > > MOVIES",GROOVY
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="*(02) > > > > > MOVIES",HI YAH!(หนังจีน)
@@ -447,8 +439,6 @@ https://nimble.dashstreams.net/onestudio/movee4u/chunks.m3u8
 https://autopilot.catcast.tv/content/35448/index.m3u8?password=74569857845640698609765906
 #EXTINF:-1 group-title="*(02) > > > > > MOVIES",MOVIE MIX
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:-1 group-title="*(02) > > > > > MOVIES",MOVIE MIX
-https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(02) > > > > > MOVIES",MULT
 http://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 group-title="*(02) > > > > > MOVIES",N TV MOVIES
@@ -967,8 +957,6 @@ http://0.0.0.0:04
 http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 #EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",[USA] NASA TV | 720P
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",[USA] THIS OLD HOUSE
-https://thisoldhouse-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",AMAZING DISCOVERIES TV
 http://amazingdrtmp.tulix.tv:1935/amazingdiscoveries/mystream2/playlist.m3u8
 #EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",ANIMAL PLANET
@@ -1035,12 +1023,8 @@ http://dmitry-tv.my1.ru/his/zabava/02/CH_LOVENATURE4K_HLSQHD.m3u8?version=2&offs
 http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
 #EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",NET GEO WILD
 http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
-#EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",OUTDOOR AMERICA | 720P
-https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",PSI สาระดี
 http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",PURSUIT UP | 720P
-https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",QATAR EDUCATION TV
 http://qtv-i.akamaihd.net/hls/live/1019478-b/QTVEdu1/master.m3u8
 #EXTINF:-1 group-title="*(04) > > > > > DOCUMENTARY",QATAR EDUCATION TV 2
@@ -1129,12 +1113,8 @@ https://sc.id-tv.kz/HalykArna_38_39.m3u8
 http://0.0.0.0:05
 #EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",[USA] BSPOKETV
 https://bspoketv.s.llnwi.net/streams/322/master.m3u8
-#EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",[USA] DESIGN NETWORK
-https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",[USA] ENTERTAINMENT TONIGHT | @P
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
-#EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",[USA] NOSEY
-https://nosey-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",[USA] POP STAR
 https://linear-10.frequency.stream/10/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",[USA] TWIT
@@ -1323,8 +1303,6 @@ https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
 #EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",PORTALES (1180 AM)
 http://s6.jcwebnew.com:8060/stream
-#EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",RESTORE HD
-https://endemol-restore-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",RETRO MUSIC TV
 http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w772554622_b750000.m3u8
 #EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",ROBOT CHICKEN (GEO)
@@ -1339,8 +1317,6 @@ https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
 #EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",SUPERJAIL! (GEO)
 https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
-#EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",THE DESIGN NETWORK HD
-https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",THE VENTURE BROS. (GEO)
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
 #EXTINF:-1 group-title="*(05) > > > > > ENTERTAINMENT",TLX
@@ -2329,8 +2305,6 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunkl
 https://karapuztv.fenixplustv.xyz/content/33418/index.m3u8
 #EXTINF:-1 group-title="*(07) > > > > > KIDS",KHYBER MIDDLE EAST
 https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
-#EXTINF:-1 group-title="*(07) > > > > > KIDS",KIDOODLE.TV | @P
-https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/2000.m3u8
 #EXTINF:-1 group-title="*(07) > > > > > KIDS",KTV KIDS
 https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
 #EXTINF:-1 group-title="*(07) > > > > > KIDS",KURIAKOS KIDS
@@ -2965,8 +2939,6 @@ https://ss3.domint.net:3134/otv_str/orbittv/.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
 #EXTINF:-1 group-title="*(08) > > > > > MUSIC",PARAMOUNT CHANNEL
 http://91.234.24.5:8080/paramount_channel/mono.m3u8
-#EXTINF:-1 group-title="*(08) > > > > > MUSIC",PARTY 80 S
-https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
 #EXTINF:-1 group-title="*(08) > > > > > MUSIC",PERSIANA 6 MUSIC
 http://163.172.147.113/hls/stream.m3u8
 #EXTINF:-1 group-title="*(08) > > > > > MUSIC",PLAY TV
@@ -3273,8 +3245,6 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 http://0.0.0.0:09
 #EXTINF:-1 group-title="*(09) > > > > > GAMES",[USA] KID GAMER TV
 https://studio71-ssai.amagi.tv/ingest/roku/playlist.m3u8
-#EXTINF:-1 group-title="*(09) > > > > > GAMES",[USA] POCKETWATCH
-https://pocketwatch.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(09) > > > > > GAMES",VIASAT NATURE
 https://plbl.m9.lfstrm.tv/viasat_nature/normal/1/index.m3u8?origin=m9-dvr2
 #EXTINF:-1 group-title="*(09) > > > > > GAMES",ZEE TV
@@ -13706,8 +13676,6 @@ http://161.0.157.38/PLTV/88888888/224/3221227041/index.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[PLTV] CBS 4 - WFOR MIAMI
 http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[PLTV] CBS 4 - WFOR MIAMI
-http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[PLTV] CBS 4 - WFOR MIAMI
 http://161.0.157.51/PLTV/88888888/224/3221227041/index.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[PLTV] CBS 4 - WFOR MIAMI
 http://161.0.157.8/PLTV/88888888/224/3221227041/index.m3u8
@@ -13747,8 +13715,6 @@ http://161.0.157.8/PLTV/88888888/224/3221226825/index.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226727/index.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[PLTV] NBC 6 - WTVJ MIAMI
 http://161.0.157.38/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[PLTV] NBC 6 - WTVJ MIAMI
-http://161.0.157.50/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[PLTV] NBC GOLF
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[PLTV] NBC GOLF
@@ -15189,8 +15155,6 @@ http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
 http://46.175.163.130/live_yatb/chunks.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[UKRAINE] ЯТБ
 http://46.175.163.130/live_yatb/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[UNK] DUST | 360P
-http://dust.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] 13 KECI
 https://content-aeuf1.uplynk.com/c23d33a2641448c3a755fdce4e0a1e43/g.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] 23 ABC (KERO)
@@ -15293,8 +15257,6 @@ https://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
 https://nimble.dashstreams.net/onestudio/celebrityscene/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] CERRITOS TV3
 https://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] CHEDDAR USA EN
-https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] CHRISTIAN YOUTH CHANNEL
 http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] CLASSIC ARTS SHOWCASE
@@ -15433,8 +15395,6 @@ https://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] NEWSY
 https://content.uplynk.com/channel/04cce35dcd994bbc82d61805ae67a65f.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] NOSEY | 1080P
-https://9c27771bc8af464c8588ae326fe26edd.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Nosey/3e715e05-ef51-4db7-8499-59628359c65b/5.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] NRBTV
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] OCN (USA/RELIGIE)
@@ -15531,8 +15491,6 @@ https://2-fss-2.streamhoster.com/pl_138/201950-1309230-1/playlist.m3u8
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] WCCA-TV (WORCESTER)
 https://worcester.vod.castus.tv/live/ch1.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] WEATHERNATION USA
-https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] WHITE PLAINS COMMUNITY MEDIA
 https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] WHOH TV (USA)
@@ -15623,8 +15581,6 @@ http://212.102.60.121:8000/calem7/4BY4CSaMUW/59938
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1603
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ABC (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/59946
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ABC 2 BATON ROUGE LA (WBRZ-HD)
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ABC 7 SARASOTA FL (WWSB)
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ABC 9 CHATTANOOGA TN (WTVC)
@@ -15639,16 +15595,8 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]AFV FAMILY
 http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]AFV FAMILY
-https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/b2bc9f3a-4e07-4879-8cbd-069986706a88/0.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]AIR (TR)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/63620
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]AKAKU 53 (HAWAII)
-https://s3-us-west-2.amazonaws.com/akaku.castus-vod/live/ch1/video.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]AKAKU 54 (HAWAII)
-https://s3-us-west-2.amazonaws.com/akaku.castus-vod/live/ch2/video.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]AKAKU 55 (HAWAII)
-https://s3-us-west-2.amazonaws.com/akaku.castus-vod/live/ch3/video.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]AKC TV
 https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]AKC TV
@@ -15711,12 +15659,8 @@ http://212.102.60.121:8000/calem7/4BY4CSaMUW/1600
 http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BEACH TV (PAWLEYS ISLAND)
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BEAST MODE
-https://1f0e60dbce3043279c491fe51983361d.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_plex/dedcdc71-f8ba-4371-9ed9-e5fb2a691485/5.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BEAUTY IQ
 https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BEDROOM BEATS
-https://eb8029576dd74625b1d49e34afc1febb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_plex/932c2e9d-348a-4633-8a43-5e590398fde7/5.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BEIN SPORTS USA (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/59980
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BEIN USA HD (M)
@@ -15737,12 +15681,6 @@ https://uni10rtmp.tulix.tv/betterlife/betterlife.stream/chunklist.m3u8
 https://uni10rtmp.tulix.tv/betternature/betternature.stream/chunklist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BIBLE EXPLORATIONS
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BIG LIFE
-https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BIG LIFE TV
-https://biglife.sinclair.wurl.com/manifest/3000.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BIGLIFE TV
-http://biglife.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BLACK WIDOW TV
 https://nimble.dashstreams.net/onestudio/spydar/chunks.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]BLAZETV
@@ -15897,8 +15835,6 @@ https://live.chdrstatic.com/cbn/primary/5.m3u8
 http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]CHIVE TV
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]CHOPPER TOWN
-https://6c4d10b7b847421db903914a39b00eb7.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-PLEX/67d41d7e-f2c4-4005-abab-22174f1f8b43/0.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]CHOPPERTOWN
 https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]CHRISTIAN YOUTH CHANNEL
@@ -15979,8 +15915,6 @@ https://video.oct.dc.gov/out/u/15_12.m3u8
 https://dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DENVER 8 TV
 http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DESIGN
-https://d06b09a740824c49b9937130662ef38a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheDesignNetwork/7c1469be-63d2-44de-8083-ee421aeb53df/4.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DESTINATION AMERICA (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35815
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DISCOVERY CHANNEL (TV)(720)
@@ -16027,14 +15961,10 @@ http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
 https://nimble.dashstreams.net/onestudio/dreamtv/chunks.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DUST (SCI-FI)
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]DUSTX
-https://dust.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]E! WEST (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35847
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ELECTRIC NOW
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ELECTRO ANTHEMS
-https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/3f15c325-941b-4c87-b429-d93bd3e70738/5.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]EPIX 1 (TR)(1080)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35843
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]EPIX 2 (TR)(720)
@@ -16067,8 +15997,6 @@ https://dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8
 https://nimble.dashstreams.net/onestudio/exercise_4u_tv/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]EZWAY NETWORK
 https://edge1.dashmedia.tv/onestudio/ezwaytv/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FAIL ARMY
-https://9c17e762ec814557b3516dd3e0a7ca56.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_FailArmy/ade59f27-be9b-4b71-b8dc-05928c1dfdf4/2.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FAIL ARMY
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FAIRFAX CH. 16 - VIRGINIA
@@ -16129,8 +16057,6 @@ http://212.102.60.121:8000/calem7/4BY4CSaMUW/58096
 http://bit.ly/2xV7ewi
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FREE SPEECH TV
 http://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FRIDAY FEELS
-https://7d6f1eaab26244879085a9c647097af7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_plex/8d5f1f7f-8546-4892-9eca-988e973d6cc2/5.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FUTURISM
 https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]FX (TV)(720)
@@ -16143,16 +16069,12 @@ http://212.102.60.121:8000/calem7/4BY4CSaMUW/1592
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1591
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]GALVESTON COUNTY TV
 https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]GAME SHOW
-https://ffcf6c437bec4f3988224ccfe150499d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GameShowCentral/c3d6136c-3a3e-4690-949d-8dcebfe43fc2/3.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]GINX ESPORTS (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35818
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]GLENDALE 11
 https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]GLEWED TV
 https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]GLEWED TV
-https://e54c4fcc08f14de7bc1094ca25cb9d29.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GlewedTV/d1a011d0-5758-439c-9939-ef96c8e13323/3.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]GLOBESVILLE (NEW YORK INSTITUTE OF TECHNOLOGY)
 http://live-h1.frontlayer.net/fl592468/live/chunks.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]GLOBUS TV
@@ -16217,14 +16139,10 @@ https://dai.google.com/linear/hls/event/SynaOtTyTq2y_N7BrGTz9Q/master.m3u8
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35802
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HGTV (TV)(1080)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53878
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HIP HOP BANGERS
-https://e20b86263a38460ba3647b18fb150000.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_plex/ed8212a6-b4f2-46e7-8386-eab377eb0607/3.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HISTORY (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/3129
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HISTORY(M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1590
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HOLLYWOOD CLASSICS
-https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/5e48be49-66f7-4712-9fff-347b1ae7afbd/5.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HONOR TV
 https://a.jsrdn.com/broadcast/d5b48/+0000/high/c.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HONOR TV
@@ -16235,8 +16153,6 @@ https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8
 https://edge1.dashmedia.tv/onestudio/horrified/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HORRIFIED TV
 https://nimble.dashstreams.net/onestudio/horrified/chunks.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HOTTEST OF THE HOT
-https://942aece530c1422894fddbd5867984d1.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_plex/224447a1-0ef3-43cf-bb86-cb636669ba45/5.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HSN
 https://dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]HUMRAAZ TV
@@ -16287,8 +16203,6 @@ https://edge1.dashmedia.tv/onestudio/kathryn_raakers_world/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]KHABRAIN ABHI TAK
 https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live1/chunks.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]KIDOODLE TV
-https://7c16fcbdbd1b4a74b712c2052303b6bb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KidoodleTV/1d045896-8061-414f-b467-2b5afadb837e/3.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]KIDS CLICK (GEO)
 https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]KIRO 7 NEWS
@@ -16313,8 +16227,6 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.
 http://cdn.mainstreaming.tv/live/100197/SOrBDPy/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]LAW \U0026 CRIME
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]LAW AND CRIME
-https://0e6490ecfe9b4c7696b00aa6767caa75.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_LawAndCrime/3764ff82-e9c3-4cd8-a6d7-fd42b777ed75/1.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]LAW AND CRIME NETWORK
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]LEOMINSTER TV EDUCATIONAL
@@ -16327,8 +16239,6 @@ http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_
 http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]LIFEVISIONTV
 http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]LIKE YESTERDAY
-https://7b65d9c562ad41b4b6efeaf1f598093d.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_plex/11b32cf3-e807-4244-b949-6a22933cef3a/2.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]LINE TV
 https://broadcasttr.com:446/linetv/bant1/chunklist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]LIVE LIVE
@@ -16343,14 +16253,10 @@ https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
 http://wms.shared.streamshow.it/lucaniatv/mp4:lucaniatv/chunklist_w852349934.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]LUYS TV (TR)
 http://luyse.mediatriple.net/luystv/luystv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]M NOW
-https://96f6ab4a7f3c434699b8502a36d670fc.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MagellanTV/94d277d1-8703-4f03-a2d8-69e91ff314fb/3.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]MADE IN HOLLYWOOD
 https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]MAGELLAN TV
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]MAVERICK BLACK CINEMA
-https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MaverickBlackCinema/fd0e4439-3d12-4d07-99b6-7f79ceeb94c2/3.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]MAVERICK MOVIES
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]MAVTV
@@ -16383,8 +16289,6 @@ https://ott.mobcrush.com/hls/0/ott.m3u8
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/high/c.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]MONARCH TV
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]MONSTER KIDS
-https://d8f9c7ca60f84037aad1ff1030ecfa2f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MonsterKids/c3ab9586-35f3-4813-8021-e9262efd4616/5.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]MOTORCYCLIST
 http://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]MOTORCYCLIST
@@ -16483,8 +16387,6 @@ https://nimble.dashstreams.net/onestudio/npowered/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/planetshopping/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NETWORK – REALLY TV
 https://nimble.dashstreams.net/onestudio/ReallyTv/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NEURAL FOCUSED
-https://1d75125ffd43490eb970a2f3f575e96c.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_plex/35cba159-09d0-4e37-bf3c-99cd99ec425b/5.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NEW ORLEANS TV
 http://bit.ly/2N6lxn9
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]NEW ORLEANS TV
@@ -16529,8 +16431,6 @@ http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]OLYMPIC CHANNEL (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/3111
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ONLY 90S KIDS WILL UNDERSTAND
-https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/76979eef-8053-48eb-a1dc-b165e0d3dbf9/5.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]OPPORTUNITY KNOCKS
 https://nimble.dashstreams.net/onestudio/myoktv/chunks.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]ORANGE TV
@@ -16545,8 +16445,6 @@ http://212.102.60.121:8000/calem7/4BY4CSaMUW/53876
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35819
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]PCC-TV - PINELLAS COUNTY FLORIDA
 http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]PEOPLE ARE AWESOME
-https://a357e37df8ec46719fdeffa29a3e8e40.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_PeopleAreAwesome/8fe64d6c-210c-42ac-8b42-8006b8721cf4/3.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]PEOPLE TV
 https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]PEQUERADIO
@@ -16559,8 +16457,6 @@ https://edge1.dashmedia.tv/onestudio/planetshopping/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/pce/chunks.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]PLANT-BASED NETWORK HD
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]PLAY WORKS
-https://b12eca572da7423284734ca3a6242ea2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PlayWorks/playlist.m3u8?ads.wurl_channel=512\u0026ads.wurl_name=PlayWorks\u0026ads.us_privacy=1---\u0026ads.psid=df8e1a36-847d-5096-86a7-3803ed330ede\u0026ads.targetopt=0\u0026ads.plex_token=MorUy57ijWhGe4ixZb_T\u0026ads.plex_id=5f0ff263d71dcb00449ec01e\u0026ads.ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20rv:83.0)%20Gecko%2F20100101%20Firefox%2F83.0\u0026ads.app_bundle=com.plexapp.desktop\u0026ads.app_store_url=https:%2F%2Fapp.plex.tv\u0026ads.gdpr=1\u0026ads.consent=0\u0026checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]POP
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]POPSTAR! TV
@@ -16617,18 +16513,10 @@ https://edge1.dashmedia.tv/onestudio/regalia_network/playlist.m3u8
 http://rehbertv.canliyayin.org/P871000884/rehbertv/chunklist_w1174978711.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]RETROCRUSH
 https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]REUTERS
-https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]REVELATION TV
 http://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]REVRY
-https://80b6878a343a4c37ae7c81c26e367b59.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRY-PLEX/aa5b463a-e354-4b03-ab59-020c6cd3713e/0.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]REVRY
 https://dai.google.com/linear/hls/event/gvO6-Y6TTjCxRf1QALU4VQ/master.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]REVRY 2
-https://0bef58ceebc44ecbba8ed46a4b17de0c.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-PLEX/09eef831-6e1a-4f60-a138-77c0a1da8e06/0.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]REVRY NEWS
-https://0b4227d4da7e4ba4aa9d980f532fdc86.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-PLEX/384b6047-c4ba-41fa-93da-86bb345ec805/0.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]RFH HARZ
 http://62.113.210.250/medienasa-live/RFH_high/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]RICK AND MORTY (GEO)
@@ -16677,8 +16565,6 @@ https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/3115
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]SNY ENCORE  (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/3092
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]SO...REAL
-https://e982c1e590144972a3c79888837ecd36.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SoReal/78ee14fe-d1d9-4189-8b1f-e2b57a314963/0.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]SOAR
 https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]SPACE 1999
@@ -16761,12 +16647,8 @@ https://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]SUNDANCE(M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1578
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]SURF NOW TV
-https://0e52d42a12b74a218576cd628069fa50.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SurfNowTV/1e05afbf-0234-4d61-9406-20bf6719fce5/3.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]SYFY(M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1577
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TANKEE
-https://72c5b87587c545558c3170ab55de2915.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Tankee/282d947f-8e33-4bcb-8d98-3c7d9254f6f5/3.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TASTYTRADE
 https://bcovlive-a.akamaihd.net/r8ceb94e3229b4c0bb2dd461dacb3ab07/us-east-1/6057994532001/playlist_dvr.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TBD
@@ -16795,14 +16677,8 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TEMPLE TV
 https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist_w1944862924.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TEXAS-SIZED HITS
-https://8d1615d8ec69435ea11a3e039f9e3771.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_plex/b39ab3ff-fde8-42cf-a6e7-32e66a3da20a/5.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THANTHI TV
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THAT 70S CHANNEL
-https://18a6ff4fa5424e6797030b139ca98e6c.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_plex/19b70c9a-59d0-418c-9cbc-80be9698c16b/5.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THAT'S HOT
-https://fd80a2d7c3fb4580b4cb8ef661a96d49.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_plex/6fd86144-5938-4c3a-bda9-14ae30d6e38b/5.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THE 360 CHANNEL
 https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THE ASYLUM
@@ -16813,8 +16689,6 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280
 http://30a-tv.com/beachy.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THE BOAT SHOW
 https://a.jsrdn.com/broadcast/256ccf645e/+0000/high/c.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THE BOAT SHOW
-https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheBoatShow/820e6d4e-cebb-4533-adf7-d0193f320ac9/4.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THE BOB ROSS CHANNEL
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THE CW (M)(1080)
@@ -16835,8 +16709,6 @@ https://wowzaprod4-i.akamaihd.net/hls/live/254057/6380fec3/playlist.m3u8
 https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THE OUTDOOR COOKING CHANNEL
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THE PET COLLECTIVE
-https://631dd17512664bafa0f3d1bd9717d7c0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_ThePetCollective/9a0bc894-3507-4712-ac73-40ae060ddbef/3.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THE PET COLLECTIVE
 https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]THE ROCKVILLE CHANNEL
@@ -16873,8 +16745,6 @@ http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
 https://edge1.dashmedia.tv/onestudio/travel4u/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TRAVEL 4U
 https://nimble.dashstreams.net/onestudio/travel4u/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TRENDING
-https://8f8959ec0c604ae0aac98fe0cda060eb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_plex/9ea57596-c36d-4991-802a-3f1961fb4e87/5.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TRM H24
 http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]TRULY
@@ -16925,8 +16795,6 @@ https://a.jsrdn.com/broadcast/4hhfi556/indexR720P.m3u8
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53907
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]UNIVERSO (TR)(1080)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/3112
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]UNWIND
-https://fc68583ae7094821b6ab3b44c50c7740.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_plex/3c8fb5fb-b196-45cc-9284-40da26a04a98/5.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]URBANMUSIC 4U
 https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]US | VIDA MEJOR TV
@@ -16971,16 +16839,12 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 https://59cba4d34b678.streamlock.net/live/vuslattv/chunklist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WCCA TV WORCESTER
 http://worcester.vod.castus.tv/live/ch1.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WCCA-TV (WORCESTER)
-https://s3-us-west-2.amazonaws.com/worcester.castus-vod/live/ch1/video.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WE TV (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/3124
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WEATHER 4U
 https://nimble.dashstreams.net/onestudio/weather4u/playlist.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WEATHER NATION
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WEATHER SPY
-https://04799df414944908856c6c521891945f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_WeatherSpy/2eba863c-1452-4ea6-98b2-2b1c0c81c112/3.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WEATHERNATION TV
 http://klive.kaltura.com/dc-1/m/ny-live-publish113/live/legacy/p/931702/e/1_oorxcge2/sd/10000/t/h7ZSW00fbUt8kYi1resQBg/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WFTV CHANNEL 9 - FLORIDA - ORLANDO
@@ -17005,16 +16869,12 @@ https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
 https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WORLD FISH (TR)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/3083
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WORLD POKER TOUR
-https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WOW! TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WSJ
 http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]WTJR TV
 http://wtjrtv3.srfms.com:1935/wtjrtv3/livestream/playlist.m3u8
-#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]YACHT ROCK
-https://6f293d7819ba4cf39ea9152700ad54ad.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_plex/eea1884a-76ca-461b-886d-9707c39c0fbb/5.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]YILDIZ TV
 http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
 #EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA]YOUTOO AMERICA
@@ -20313,8 +20173,6 @@ http://live.canaloncelive.tv:1935/livepkgr/naf_480p/chunklist_w2053269195.m3u8
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",CANAL ORBE 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",CANAL PORTO
-http://213.13.26.13:1935/live/portocanal/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",CANAL SANTA MARIA
 http://www.trimi.com.ar/santa_maria/streaming/mystream.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",CANAL SUR ANDALUCÃƑÆ’Ã†Â€™ÃƑÂ€ŠÃ‚Â­A
@@ -21317,8 +21175,6 @@ http://events2-crtvg.flumotion.com/playlist.m3u8
 http://events3-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ES VEGA BAJA TV
 http://185.29.68.24/tvb.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ESCAPE
-https://content-na.drive.amazonaws.com/cdproxy/share/jfTyMe5JcjXLeYAPs4r6NBlhbkO2lEC3cwcF2FMecGr/nodes/3iX3rFoMSKujtkWYG5SCvQ?nonce=e_eblNRg9MmzTQ1Q0lKShX3c1sII-W4BWUItNPbmEqviX4fMm4bgp7aog2_t0jpQ
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ESLOVENIA LUX TV HD
 http://live.tvlux.sk:1935/lux/lux.stream/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",ESLOVENIA RTCG SAT
@@ -21473,8 +21329,6 @@ https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_t
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/chunklist_b3628000.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",EXPRESSEN TV
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/chunklist_b3628000.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",EXTINCION
-https://content-na.drive.amazonaws.com/cdproxy/share/gMxzCd3Bg6W7W5txRPgUeB0ydPYW810QlEkcOkQpQYG/nodes/WHoOgVBWTkyaqdTbqbydmg?nonce=Ym6clLfChEQhSK0hg-ExgkTy20KmGhnLt_jC4CmMGHrIk9WUishbpuPwZlB-8D_J
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",EXTREMA
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/master.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",EXTREMADURA TV
@@ -25443,8 +25297,6 @@ http://91.82.85.44:1935/scr8174/lives078.sdp/playlist.m3u8
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TARSUS GUNEY
 http://stream.taksimbilisim.com:1935/tarsusguneytv/bant1/playlist.m3u8
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TASTEMADE EN
-https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TASTY
 https://dl.dropbox.com/s/t7kcrn2w3idpg86/Tasty.m3u8?dl=0
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",TAY
@@ -27999,8 +27851,6 @@ http://stmv1.ifantasy.com.br/emerson/emerson/playlist.m3u8
 http://ms7.mx-cd.net/tv/129-562449/WEEFF_TV.smil/chunklist.m3u8
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",WEERBERICHT BELGIÃƑÆ’Ã†Â€™ÃƑÂ€ŠÃ‚Â« (VOLGENDE DAGEN)
 http://media.meteonews.tv/Aussichten_nl_BE_high.mp4?1539088258
-#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",WEERBERICHT NEDERLAND
-http://s3-eu-west-1.amazonaws.com/static.forecast-web.consumer.meteogroup.com/weather-video/nl_nl/latest/bbtv_1024.webm
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",WEERBERICHT VLAANDEREN
 http://media.meteonews.tv/Wetter-Region2_nl_BE_high.mp4?1539089409
 #EXTINF:-1 group-title="*(20) > > > > > UNSORTED",WEERBERICHT WALLONIÃƑÆ’Ã†Â€™ÃƑÂ€ŠÃ‚Â«
@@ -30249,8 +30099,6 @@ http://kodivip.livestreamfast.com/videojsplayer/tot_a4485b656d764f308c63b14a8bf6
 https://live-agtw-03.rcsobjects.it/out/v1/eea00f5fbf21479f874988dc907dcd8c/index.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 24
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?trackedby:m3ulive.com
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 25
-https://cda7fd8376774e648dbcc6136f7b42a5.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ACCDigitalNetwork/248ced75-3c63-4e39-8408-4657449b471b/5.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 27
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/2.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",UNKNOWN 297
@@ -31079,12 +30927,6 @@ https://origin-02.nxplay.com.br/LOVENATURE_NX/playlist.m3u8
 https://ptiptv.tk/euronews.m3u8?FkdO0z30ll0GglBUyFA9DBr9zAU
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",Euronews (pt)
 https://ptiptv.tk/euronews-pt.m3u8?FkdO0z30ll0GglBUyFA9DBr9zAU
-#EXTINF:-1 ,#EXTVLCOPT:http-referrer=http://portocanal.sapo.pt/live
-https://ptiptv.tk/porto.m3u8?CUezieOxORY6e0RFN3aARPdMgf8
-#EXTINF:-1 ,#EXTVLCOPT:http-referrer=http://portocanal.sapo.pt/live
-https://ptiptv.tk/porto.m3u8?FkdO0z30ll0GglBUyFA9DBr9zAU
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",PORTO CANAL
-https://ptiptv.tk/porto.m3u8?qUcbT80N4a1GBUJSz5zm_5jdTZE|referer=http://portocanal.sapo.pt/live
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",Zig Zag
 https://ptiptv.tk/zigzag.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",MOSCOU 24 [HD]
@@ -31233,395 +31075,539 @@ https://www.djing.com/tv/28993-04.m3u8
 https://www.djing.com/tv/i-28993-04.m3u8
 #EXTINF:-1 group-title="*(21) > > > > > TESTING",DJING: UNDERGROUND
 https://www.djing.com/tv/u-28993-04.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_1
-https://1091-surfnowtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_2
-https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_3
-https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_4
-https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_5
-https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_6
-https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_7
-https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_8
-https://alchimie-big-names-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_9
-https://alchimie-big-names-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_10
-https://alchimie-classical-harmony-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_11
-https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_12
-https://alchimie-euronews-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_13
-https://alchimie-euronews-4-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_14
-https://alchimie-humanity-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_15
-https://alchimie-humanity-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_16
-https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_17
-https://alchimie-moods-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_18
-https://alchimie-moods-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_19
-https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_21
-https://alchimie-mysurf-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_22
-https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_23
-https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_24
-https://amc-absolutereality-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_25
-https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_26
-https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_27
-https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_28
-https://arcade-cloud-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_29
-https://arcade-cloud.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_30
-https://barcroft-truly-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_31
-https://biglife.sinclair.wurl.com/manifest/3000.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_32
-https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_33
-https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_34
-https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_35
-https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_36
-https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_37
-https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_38
-https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_39
-https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_40
-https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_41
-https://cheddar-cheddar-3.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_42
-https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_43
-https://coco-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_44
-https://coco-samsung.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_45
-https://connection3-ent-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_46
-https://connection3-ent.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_47
-https://contv.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_48
-https://contv.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_49
-https://dhx-caillou-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_50
-https://dhx-caillou-2-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_51
-https://dhx-teletubbies-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_52
-https://dhx-teletubbies-3-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_53
-https://dhx-teletubbies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_54
-https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_55
-https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_56
-https://dovenow.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_57
-https://drybar-drybarcomedy-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_58
-https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_59
-https://dust-samsung-uk-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_60
-https://dust.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_61
-https://dust.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_62
-https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_63
-https://elevensports-samsunguk-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_64
-https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_65
-https://elevensports.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_66
-https://endemol-dealornodeal-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_67
-https://endemol-dealornodeal-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_68
-https://endemol-derserienkanal-1-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_69
-https://endemol-derserienkanal-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_70
-https://endemol-reeltruthcrime-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_71
-https://endemol-restore-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_72
-https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_74
-https://endemol-top-criminie-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_75
-https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_76
-https://endemol-wipeoutxtra-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_77
-https://esr-samsung.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_78
-https://failarmy-international-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_79
-https://failarmy-international-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_80
-https://failarmy-international-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_81
-https://failarmy-international-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_82
-https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_83
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] HOLLYWOOD CLASSICS
+https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/5e48be49-66f7-4712-9fff-347b1ae7afbd/5.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] HIP HOP BANGERS
+https://e20b86263a38460ba3647b18fb150000.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_plex/ed8212a6-b4f2-46e7-8386-eab377eb0607/3.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] GLEWED TV
+https://e54c4fcc08f14de7bc1094ca25cb9d29.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GlewedTV/d1a011d0-5758-439c-9939-ef96c8e13323/3.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] GAME SHOW
+https://ffcf6c437bec4f3988224ccfe150499d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GameShowCentral/c3d6136c-3a3e-4690-949d-8dcebfe43fc2/3.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] FRIDAY FEELS
+https://7d6f1eaab26244879085a9c647097af7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_plex/8d5f1f7f-8546-4892-9eca-988e973d6cc2/5.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] FAIL ARMY
+https://9c17e762ec814557b3516dd3e0a7ca56.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_FailArmy/ade59f27-be9b-4b71-b8dc-05928c1dfdf4/2.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] ELECTRO ANTHEMS
+https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/3f15c325-941b-4c87-b429-d93bd3e70738/5.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] CHOPPER TOWN
+https://6c4d10b7b847421db903914a39b00eb7.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-PLEX/67d41d7e-f2c4-4005-abab-22174f1f8b43/0.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] BEDROOM BEATS
+https://eb8029576dd74625b1d49e34afc1febb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_plex/932c2e9d-348a-4633-8a43-5e590398fde7/5.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] BEAST MODE
+https://1f0e60dbce3043279c491fe51983361d.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_plex/dedcdc71-f8ba-4371-9ed9-e5fb2a691485/5.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] AKAKU 53 (HAWAII)
+https://s3-us-west-2.amazonaws.com/akaku.castus-vod/live/ch1/video.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] AKAKU 54 (HAWAII)
+https://s3-us-west-2.amazonaws.com/akaku.castus-vod/live/ch2/video.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] AKAKU 55 (HAWAII)
+https://s3-us-west-2.amazonaws.com/akaku.castus-vod/live/ch3/video.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] AFV FAMILY
+https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/b2bc9f3a-4e07-4879-8cbd-069986706a88/0.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] NOSEY | 1080P
+https://9c27771bc8af464c8588ae326fe26edd.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Nosey/3e715e05-ef51-4db7-8499-59628359c65b/5.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] PARTY 80 S
+https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/3.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] GRAVITAS MOVIES
+https://cba5182b39c145c2b96ecc5c3f72e41a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GravitasMovies/b465c16f-0c23-4bf0-9a52-e1d87cb0f5ee/3.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] DESIGN
+https://d06b09a740824c49b9937130662ef38a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheDesignNetwork/7c1469be-63d2-44de-8083-ee421aeb53df/3.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] DESIGN
+https://a57b77e98569478b83c10881a22b7a24.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheDesignNetwork/7c1469be-63d2-44de-8083-ee421aeb53df/3.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] DESIGN
+https://bdaaeb4bd9114c088964e4063f849065.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheDesignNetwork/7c1469be-63d2-44de-8083-ee421aeb53df/3.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] DESIGN
+https://b72f3cf86e764127a5ce7958f52a0fb8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheDesignNetwork/7c1469be-63d2-44de-8083-ee421aeb53df/3.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] HOTTEST OF THE HOT
+https://942aece530c1422894fddbd5867984d1.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_plex/224447a1-0ef3-43cf-bb86-cb636669ba45/5.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] KIDOODLE TV
+https://7c16fcbdbd1b4a74b712c2052303b6bb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KidoodleTV/1d045896-8061-414f-b467-2b5afadb837e/3.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] LAW AND CRIME
+https://0e6490ecfe9b4c7696b00aa6767caa75.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_LawAndCrime/3764ff82-e9c3-4cd8-a6d7-fd42b777ed75/1.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] LIKE YESTERDAY
+https://7b65d9c562ad41b4b6efeaf1f598093d.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_plex/11b32cf3-e807-4244-b949-6a22933cef3a/2.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] M NOW
+https://96f6ab4a7f3c434699b8502a36d670fc.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MagellanTV/94d277d1-8703-4f03-a2d8-69e91ff314fb/3.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] MAVERICK BLACK CINEMA
+https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MaverickBlackCinema/fd0e4439-3d12-4d07-99b6-7f79ceeb94c2/3.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] MONSTER KIDS
+https://d8f9c7ca60f84037aad1ff1030ecfa2f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MonsterKids/c3ab9586-35f3-4813-8021-e9262efd4616/5.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] NEURAL FOCUSED
+https://1d75125ffd43490eb970a2f3f575e96c.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_plex/35cba159-09d0-4e37-bf3c-99cd99ec425b/5.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] ONLY 90S KIDS WILL UNDERSTAND
+https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/76979eef-8053-48eb-a1dc-b165e0d3dbf9/5.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] PEOPLE ARE AWESOME
+https://a357e37df8ec46719fdeffa29a3e8e40.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_PeopleAreAwesome/8fe64d6c-210c-42ac-8b42-8006b8721cf4/3.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] PLAY WORKS
+https://b12eca572da7423284734ca3a6242ea2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PlayWorks/playlist.m3u8?ads.wurl_channel=512\u0026ads.wurl_name=PlayWorks\u0026ads.us_privacy=1---\u0026ads.psid=df8e1a36-847d-5096-86a7-3803ed330ede\u0026ads.targetopt=0\u0026ads.plex_token=MorUy57ijWhGe4ixZb_T\u0026ads.plex_id=5f0ff263d71dcb00449ec01e\u0026ads.ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20rv:83.0)%20Gecko%2F20100101%20Firefox%2F83.0\u0026ads.app_bundle=com.plexapp.desktop\u0026ads.app_store_url=https:%2F%2Fapp.plex.tv\u0026ads.gdpr=1\u0026ads.consent=0\u0026checkedby:iptvcat.com
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] REUTERS
+https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] REVRY
+https://80b6878a343a4c37ae7c81c26e367b59.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRY-PLEX/aa5b463a-e354-4b03-ab59-020c6cd3713e/0.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] REVRY 2
+https://0bef58ceebc44ecbba8ed46a4b17de0c.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-PLEX/09eef831-6e1a-4f60-a138-77c0a1da8e06/0.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] REVRY NEWS
+https://0b4227d4da7e4ba4aa9d980f532fdc86.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-PLEX/384b6047-c4ba-41fa-93da-86bb345ec805/0.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] SO...REAL
+https://e982c1e590144972a3c79888837ecd36.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SoReal/78ee14fe-d1d9-4189-8b1f-e2b57a314963/0.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] SURF NOW TV
+https://0e52d42a12b74a218576cd628069fa50.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SurfNowTV/1e05afbf-0234-4d61-9406-20bf6719fce5/3.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] TANKEE
+https://72c5b87587c545558c3170ab55de2915.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Tankee/282d947f-8e33-4bcb-8d98-3c7d9254f6f5/3.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] TEXAS-SIZED HITS
+https://8d1615d8ec69435ea11a3e039f9e3771.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_plex/b39ab3ff-fde8-42cf-a6e7-32e66a3da20a/5.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] THAT 70S CHANNEL
+https://18a6ff4fa5424e6797030b139ca98e6c.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_plex/19b70c9a-59d0-418c-9cbc-80be9698c16b/5.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] THAT'S HOT
+https://fd80a2d7c3fb4580b4cb8ef661a96d49.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_plex/6fd86144-5938-4c3a-bda9-14ae30d6e38b/5.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] HE BOAT SHOW
+https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheBoatShow/820e6d4e-cebb-4533-adf7-d0193f320ac9/4.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] THE PET COLLECTIVE
+https://631dd17512664bafa0f3d1bd9717d7c0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_ThePetCollective/9a0bc894-3507-4712-ac73-40ae060ddbef/3.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] TRENDING
+https://8f8959ec0c604ae0aac98fe0cda060eb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_plex/9ea57596-c36d-4991-802a-3f1961fb4e87/5.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] UNWIND
+https://fc68583ae7094821b6ab3b44c50c7740.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_plex/3c8fb5fb-b196-45cc-9284-40da26a04a98/5.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] WCCA-TV WORCESTER
+https://s3-us-west-2.amazonaws.com/worcester.castus-vod/live/ch1/video.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] WEATHER SPY
+https://04799df414944908856c6c521891945f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_WeatherSpy/2eba863c-1452-4ea6-98b2-2b1c0c81c112/3.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] WORLD POKER TOUR
+https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] YACHT ROCK
+https://6f293d7819ba4cf39ea9152700ad54ad.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_plex/eea1884a-76ca-461b-886d-9707c39c0fbb/5.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] ESCAPE
+https://content-na.drive.amazonaws.com/cdproxy/share/jfTyMe5JcjXLeYAPs4r6NBlhbkO2lEC3cwcF2FMecGr/nodes/3iX3rFoMSKujtkWYG5SCvQ?nonce=e_eblNRg9MmzTQ1Q0lKShX3c1sII-W4BWUItNPbmEqviX4fMm4bgp7aog2_t0jpQ
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] EXTINCION
+https://content-na.drive.amazonaws.com/cdproxy/share/gMxzCd3Bg6W7W5txRPgUeB0ydPYW810QlEkcOkQpQYG/nodes/WHoOgVBWTkyaqdTbqbydmg?nonce=Ym6clLfChEQhSK0hg-ExgkTy20KmGhnLt_jC4CmMGHrIk9WUishbpuPwZlB-8D_J
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] WEERBERICHT NEDERLAND
+http://s3-eu-west-1.amazonaws.com/static.forecast-web.consumer.meteogroup.com/weather-video/nl_nl/latest/bbtv_1024.webm
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] ACCDigitalNetwork
+https://cda7fd8376774e648dbcc6136f7b42a5.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ACCDigitalNetwork/248ced75-3c63-4e39-8408-4657449b471b/5.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] amazonaws.com_7
+http://ec2-54-201-20-66.us-west-2.compute.amazonaws.com:1935/live/roku/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] amazonaws.com_13
+http://odk-hls-seg.s3.amazonaws.com/v1/201710/variety/idol-school/idol-school-e1-1/p1080_b5941000_v5805000_a129000_chunk.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] amazonaws.com_16
+https://1022d09cb9f743d0b7bd7fc0fd7eab26.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RealNosey/dd2806dd-c2d1-417f-998f-950725c76727/5.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] amazonaws.com_18
+https://2001live-videos.s3.amazonaws.com/MSTeaser2/High.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] amazonaws.com_19
+https://3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com/out/v1/936a64de8b1d4b46bfcee7bd230bfd37/index.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] amazonaws.com_20
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] amazonaws.com_21
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/051912d8c97f410d9313e5b76804d632/index.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] amazonaws.com_22
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/cf481442e41b4a00bbea86d65fa98fc9/index.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] amazonaws.com_23
+https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] amazonaws.com_26
+https://7d30fd285faf40b59dd87e51a9fb1fab.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MavTVSelect/6705d5f0-232c-4116-8097-798cd5bf154d/5.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] amazonaws.com_51
+https://dailysportbucket3.s3.eu-west-3.amazonaws.com/1c/1.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] amazonaws.com_66
+https://modav-lab-samples.s3.amazonaws.com/av_testharness/assets/bitmovin/mf/264/advanced/rights_free/2_32_0/rights_free_pv13_pa4.mp4
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] amazonaws.com_68
+https://odk-hls-seg.s3.amazonaws.com/v1/201710/variety/idol-school/idol-school-e1-1/p1080_b5941000_v5805000_a129000_chunk.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] amazonaws.com_75
+https://s3-ap-southeast-1.amazonaws.com/iflix-production-trailers/s-103277_watermarked/mp4/s-103277_watermarked.mp4
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [AMAZONAWS] amazonaws.com_76
+https://s3-ap-southeast-1.amazonaws.com/iflix-production-trailers/s-105053_watermarked/mp4/s-105053_watermarked.mp4
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] FAILARMY | 720P
 https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_84
-https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_85
-https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_86
-https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_87
-https://food.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_88
-https://fueltv-fueltv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_89
-https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_90
-https://fueltv-fueltv-4-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_91
-https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_92
-https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_93
-https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_95
-https://glewedtv-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_96
-https://gravitas-movies.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_97
-https://gravitas-movies.sinclair.wurl.com/manifest/3000.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_98
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] FAILARMY | 720P
+https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] MIH TV
+https://connection3-ent.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] MIH TV
+https://connection3-ent-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] GRAVITAS MOVIES
 https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_99
-https://gsn-gameshowchannnel-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_100
-https://gto2000-sportoutdoortv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_101
-https://hsn.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_102
-https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_103
-https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_104
-https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_105
-https://jukin-peopleareawesome-2-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_106
-https://jukin-peopleareawesome-2-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_107
-https://jukin-peopleareawesome-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_108
-https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_109
-https://jukin-weatherspy-2-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_111
-https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_112
-https://kedoo-supertoonstv-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_113
-https://kmtvnow-samsung.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_114
-https://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_115
-https://magellantv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_116
-https://maverick-maverick-black-cinema-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_117
-https://maverick-maverick-black-cinema-3.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_118
-https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_119
-https://mavtv-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_120
-https://mhz-samsung-linear.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_121
-https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_122
-https://midnightpulp-samsung.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_123
-https://mobcrush-live.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_124
-https://mobcrush-live.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_125
-https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_126
-https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_127
-https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_128
-https://newsy.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_129
-https://newsy.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_130
-https://nosey-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_131
-https://nosey-2.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_132
-https://obsession-media-sinclair.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_133
-https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_134
-https://okproductions-brindiamochannel-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_135
-https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_136
-https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_137
-https://pocketwatch-ryanandfriends-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_138
-https://pocketwatch.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_139
-https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_140
-https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_141
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_142
-https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_143
-https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_144
-https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_145
-https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_146
-https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_147
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_148
-https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_149
-https://rakuten-comedymovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_150
-https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_151
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_152
-https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_153
-https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_154
-https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_155
-https://rakuten-spotlight-4-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_156
-https://rakuten-spotlight-6-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_157
-https://rakuten-spotlight-7-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_158
-https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_159
-https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_160
-https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_161
-https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_162
-https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_163
-https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_164
-https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_165
-https://revry.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_166
-https://rtmtv-powernation-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_167
-https://rtmtv-samsung.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_168
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] GRAVITAS MOVIES
+https://gravitas-movies.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] MOVIE MIX
 https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_169
-https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_170
-https://sony-competencias-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_171
-https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_172
-https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_173
-https://stadium.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_174
-https://stadium.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_175
-https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_176
-https://stingray-karaoke-2-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_177
-https://stingray-qelloconcerts-2-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_178
-https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_179
-https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_180
-https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_181
-https://the-pet-collective-international-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_182
-https://the-pet-collective-international-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_183
-https://the-pet-collective-linear.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_184
-https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_185
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] THIS OLD HOUSE
 https://thisoldhouse-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_186
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] THIS OLD HOUSE
 https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_187
-https://toon-goggles.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_188
-https://triplesquirrels-evrgrn-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_189
-https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_191
-https://vod365-ketchuptv-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_192
-https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_193
-https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_194
-https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_195
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] OUTDOOR AMERICA | 720P
+https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] OUTDOOR AMERICA | 720P
+https://obsession-media-sinclair.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] PURSUIT UP | 720P
+https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] THE DESIGN NETWORK HD
+https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] THE DESIGN NETWORK HD
+https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] NOSEY
+https://nosey-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] RESTORE HD
+https://endemol-restore-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] KIDOODLE.TV | @P
+https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] POCKETWATCH
+https://pocketwatch.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] DUST | 360P
+http://dust.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] CHEDDAR USA EN
+https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] WEATHERNATION USA
 https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_196
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] BIG LIFE
+https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] BIGLIFE TV
+http://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] DUSTX
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] TASTEMADE EN
+https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_1
+https://1091-surfnowtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_2
+https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_3
+https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_4
+https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_5
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_6
+https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_7
+https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_8
+https://alchimie-big-names-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_9
+https://alchimie-big-names-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_10
+https://alchimie-classical-harmony-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_11
+https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_12
+https://alchimie-euronews-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_13
+https://alchimie-euronews-4-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_14
+https://alchimie-humanity-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_15
+https://alchimie-humanity-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_16
+https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_17
+https://alchimie-moods-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_18
+https://alchimie-moods-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_19
+https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_21
+https://alchimie-mysurf-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_22
+https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_23
+https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_24
+https://amc-absolutereality-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_25
+https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_26
+https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_27
+https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_28
+https://arcade-cloud-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_29
+https://arcade-cloud.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_30
+https://barcroft-truly-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_31
+https://biglife.sinclair.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_33
+https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_34
+https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_35
+https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_36
+https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_37
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_38
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_39
+https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_40
+https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_41
+https://cheddar-cheddar-3.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_43
+https://coco-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_44
+https://coco-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_47
+https://contv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_48
+https://contv.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_49
+https://dhx-caillou-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_50
+https://dhx-caillou-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_51
+https://dhx-teletubbies-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_52
+https://dhx-teletubbies-3-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_53
+https://dhx-teletubbies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_54
+https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_55
+https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_56
+https://dovenow.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_57
+https://drybar-drybarcomedy-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_58
+https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_59
+https://dust-samsung-uk-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_60
+https://dust.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_62
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_63
+https://elevensports-samsunguk-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_64
+https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_65
+https://elevensports.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_66
+https://endemol-dealornodeal-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_67
+https://endemol-dealornodeal-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_68
+https://endemol-derserienkanal-1-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_69
+https://endemol-derserienkanal-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_70
+https://endemol-reeltruthcrime-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_72
+https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_74
+https://endemol-top-criminie-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_75
+https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_76
+https://endemol-wipeoutxtra-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_77
+https://esr-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_78
+https://failarmy-international-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_79
+https://failarmy-international-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_80
+https://failarmy-international-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_81
+https://failarmy-international-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_84
+https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_85
+https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_86
+https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_87
+https://food.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_88
+https://fueltv-fueltv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_89
+https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_90
+https://fueltv-fueltv-4-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_91
+https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_92
+https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_93
+https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_95
+https://glewedtv-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_99
+https://gsn-gameshowchannnel-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_100
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_101
+https://hsn.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_102
+https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_103
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_104
+https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_105
+https://jukin-peopleareawesome-2-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_106
+https://jukin-peopleareawesome-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_107
+https://jukin-peopleareawesome-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_108
+https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_109
+https://jukin-weatherspy-2-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_111
+https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_112
+https://kedoo-supertoonstv-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_113
+https://kmtvnow-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_114
+https://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_115
+https://magellantv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_116
+https://maverick-maverick-black-cinema-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_117
+https://maverick-maverick-black-cinema-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_118
+https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_119
+https://mavtv-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_120
+https://mhz-samsung-linear.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_121
+https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_122
+https://midnightpulp-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_123
+https://mobcrush-live.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_124
+https://mobcrush-live.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_125
+https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_126
+https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_127
+https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_128
+https://newsy.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_129
+https://newsy.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_131
+https://nosey-2.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_134
+https://okproductions-brindiamochannel-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_135
+https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_136
+https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_137
+https://pocketwatch-ryanandfriends-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_140
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_141
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_142
+https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_143
+https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_144
+https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_145
+https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_146
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_147
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_148
+https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_149
+https://rakuten-comedymovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_150
+https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_151
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_152
+https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_153
+https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_154
+https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_155
+https://rakuten-spotlight-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_156
+https://rakuten-spotlight-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_157
+https://rakuten-spotlight-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_158
+https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_159
+https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_160
+https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_161
+https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_162
+https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_163
+https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_164
+https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_165
+https://revry.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_166
+https://rtmtv-powernation-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_167
+https://rtmtv-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_169
+https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_170
+https://sony-competencias-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_171
+https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_172
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_173
+https://stadium.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_174
+https://stadium.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_175
+https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_176
+https://stingray-karaoke-2-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_177
+https://stingray-qelloconcerts-2-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_178
+https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_179
+https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_181
+https://the-pet-collective-international-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_182
+https://the-pet-collective-international-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_183
+https://the-pet-collective-linear.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_187
+https://toon-goggles.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_188
+https://triplesquirrels-evrgrn-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_189
+https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_191
+https://vod365-ketchuptv-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_192
+https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_193
+https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_194
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_196
 https://whistle-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_197
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_197
 https://whistle-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_198
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_198
 https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_199
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_199
 https://world-poker-tour.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_201
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_201
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="*(21) > > > > > TESTING",samsung.wurl.com_202
+#EXTINF:-1 group-title="*(19) > > > > > WORLD COUNTRIES",[USA] [WURL.COM] samsung.wurl.com_202
 https://yuyu-samsung.samsung.wurl.com/manifest/playlist.m3u8
