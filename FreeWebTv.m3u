@@ -1,31 +1,22 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*(01)  > > > > > FREE WEB TV ( UPDATE 2021-03-07 )
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",*(01)  > > > > > FREE WEB TV ( UPDATE 2021-03-09 )
 http://0.0.0.0:01
-
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] RTP 1 | 504P
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
-
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] RTP 1 | 720P
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
-
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] RTP 1 | b640000
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b640000_slpor.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
-
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] RTP 1 | b1290000
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b1290000_slpor.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
-
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] RTP 1 | b2540000
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
-
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] RTP 2 | 360P
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
-
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] RTP 2 | b640000
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
-
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] RTP 2 | b1290000
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b1290000_slpt.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
-
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] RTP 3 | 504P
 https://streaming-live.rtp.pt/liverepeater/rtpn.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] RTP ACORES | 360P
@@ -46,8 +37,6 @@ http://live.impresa.pt/live/sic/sic.m3u8
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] SIC ONLINE | @P
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] SIC RADICAL
-http://live.impresa.pt/live/sicrad/sicrad.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] TVI
 https://ptiptv.tk/tvi.m3u8?2UhM1ipmMkzrnFBUB5o_5sf5GpU
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",***[PRT] TVI 24
@@ -84,11 +73,11 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",[USA] SHOWTIME (WEST)
 https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",1 CH5
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",1 CH5
 https://www.livedoomovies.com/02_5HD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",247 RETRO TV
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",[USA] 247 RETRO TV
 http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",33 CH3
+#EXTINF:-1 group-title="*(20) > > > > > UNSORTED",33 CH3
 https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",35 CH7
 https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8
@@ -264,120 +253,16 @@ http://198.199.74.234/miniProxy.php/https://live-cdn.pbskids.org/out/u/aim/wttw.
 https://status.tehw00t.net/miniProxy.php/https://live-cdn.pbskids.org/out/u/est.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY PBS KIDS 3 | @P
 https://status.tehw00t.net/miniProxy.php/https://live-cdn.pbskids.org/out/u/pst.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_1
-http://c0860134.ferozo.com/miniProxy.php?https://securehls-claroargentina-live01.clarovideo.net/gl/playlist/quality.m3u8/legacy_mode/false/q/01/t/0a5c11c382657d874d1a1ba1992ee400/f/908/M3U8/1563849795.m3u8?exp=1621449795&hmac=a40fd8f6eb36084217d1d9e3418df6e7dce6843e
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_10
-https://kerenua.xyz/zine/mini/miniProxy.php/http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_11
-https://kerenua.xyz/zine/mini/miniProxy.php/http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_1200.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_12
-https://kerenua.xyz/zine/mini/miniProxy.php/http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_13
-https://kerenua.xyz/zine/mini/miniProxy.php/http://tvecsnnewengland-i.akamaihd.net/hls/live/219795/CSNnewenglandx/4296k/prog.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_14
-https://kerenua.xyz/zine/mini/miniProxy.php/http://ylive10-i.akamaihd.net/hls/live/682401/kbouk/playlist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_15
-https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/1212@!liveInx1/mtvbeats/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDIxIDU6NTY6MTEgQU0maGFzaF92YWx1ZT1hM01UdC9nNWlaSElKTTRhYWNlMXNnPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_16
-https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/indialpc@!2/sonymarathi/chunks.m3u8?nimblesessionid=13409915&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyMCA3OjQ5OjMyIFBNJmhhc2hfdmFsdWU9UG5jTER6RXdrNnF3ODNRTmRuOW1TUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_17
-https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/indialpc@!2/sonytvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIwIDk6MDU6MDcgQU0maGFzaF92YWx1ZT1BU2hoeTlzRUhFTU9EbUw3NGZVTzl3PT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_18
-https://mhdtvworld.live/delta/planet/miniProxy.php/http://185.59.222.171:2200/EX/starplushduk-in/index.m3u8?token=RED
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_19
-https://ritesh.ch/miniproxy/miniproxy.php/http://125.209.89.83:5555/play/a03k/index.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_2
-http://csclub.uwaterloo.ca/~aszczeci/proxy/miniProxy.php/http://195.181.172.83:2200/R-EX/HINDI_AND_PICTURES_HD-in/tracks-v1a1/mono.m3u8?token=RED_H78R1rP4Vfpkw1W8eDvIqw==,1588572803.6429270333
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_20
-https://ritesh.ch/miniproxy/miniproxy.php/http://163.172.223.102:8081/1212@!liveInx1/stargold/chunks.m3u8?nimblesessionid=10526489&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIwIDU6NTI6MDEgUE0maGFzaF92YWx1ZT1JYWtFbVZRN0ppTXl1WGpUQWVxbGxRPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_21
-https://ritesh.ch/miniproxy/miniproxy.php/http://163.172.223.102:8081/1212@!liveInx1/stargold/playlist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_22
-https://ritesh.ch/miniproxy/miniproxy.php/http://163.172.223.102:8081/indialpc@!2/colorstv/playlist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_23
-https://ritesh.ch/miniproxy/miniproxy.php/http://163.172.223.102:8081/indialpc@!2/sonymaxhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIwIDU6NDY6MjQgUE0maGFzaF92YWx1ZT0wVDlZL3N6Tjc5MVpuVU1aalUrcHpBPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_24
-https://ritesh.ch/miniproxy/miniproxy.php/http://163.172.223.102:8081/indialpc@!2/sonytvhd/chunks.m3u8?nimblesessionid=10513347&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIwIDU6MzY6MjUgUE0maGFzaF92YWx1ZT1jN3dPNG9qejZDMDI4M0hvSVIrRHFnPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_25
-https://ritesh.ch/miniproxy/miniproxy.php/http://163.172.223.102:8081/indialpc@!2/sonytvhd/chunks.m3u8?nimblesessionid=10520868&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIwIDU6NDY6MjQgUE0maGFzaF92YWx1ZT0wVDlZL3N6Tjc5MVpuVU1aalUrcHpBPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_26
-https://ritesh.ch/miniproxy/miniproxy.php/http://163.172.223.102:8081/indialpc@!2/sonytvhd/playlist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_27
-https://ritesh.ch/miniproxy/miniproxy.php/http://163.172.223.102:8081/indialpc@!2/sonytvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIwIDU6MzY6MjUgUE0maGFzaF92YWx1ZT1jN3dPNG9qejZDMDI4M0hvSVIrRHFnPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_28
-https://ritesh.ch/miniproxy/miniproxy.php/http://163.172.223.102:8081/indialpc@!2/sonytvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIwIDU6NDY6MjQgUE0maGFzaF92YWx1ZT0wVDlZL3N6Tjc5MVpuVU1aalUrcHpBPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_29
-https://ritesh.ch/miniproxy/miniproxy.php/http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_3
-http://status.tehw00t.net/miniProxy.php/https://ctl.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_30
-https://ritesh.ch/miniproxy/miniproxy.php/http://208.115.215.42/Sony_TV_HD_02/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_31
-https://ritesh.ch/miniproxy/miniproxy.php/http://208.115.215.42/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_32
-https://ritesh.ch/miniproxy/miniproxy.php/http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_33
-https://ritesh.ch/miniproxy/miniproxy.php/http://iptvbroadcast.ddns.net:25461/Niaz2020/Niaz2020/212
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_4
-http://status.tehw00t.net/miniProxy.php/https://ctl.stream.universoeast.com/live/N0339/master.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_5
-http://tclhosting.com/test/miniProxy.php/http://d2m1uxwc5tgx9.cloudfront.net/blaze/live.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_6
-http://tclhosting.com/test/miniProxy.php/https://live2.hoolatv.com/live/itv2_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_7
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_8
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/TR-N/ATV_HD-tr/tracks-v1a1/mono.m3u8?token=veera4utv
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MINIPROXY UNKNOWN_9
-https://kerenua.xyz/zine/mini/miniProxy.php/http://playbackn18.aotg-video.astro.com.my/CH1/master_VAAN_8_05.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MONO_PLUS
-https://www.livedoomovie.com/02_MONO_Plus_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MONO29
-https://www.livedoomovie.com/02_MONO_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MTV_ASIA
-https://www.livedoomovie.com/02_MTV_Asia_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MTV_CHINA
-https://www.livedoomovie.com/02_MTV_China_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MTV_LIVE_HD
-https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MUSIC4U
 http://203.154.243.89:1213
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",MYSCIHD
-https://www.livedoomovie.com/02_MYSCIHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",NATGEO HD
-https://www.livedoomovie.com/02_NatGeoHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",NATGEO PEOPLE
-https://www.livedoomovie.com/02_NatPeopleHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",NATGEO WILD_TH
-https://www.livedoomovie.com/02_NatGeoWild_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",NATGEOHD_TH
-https://www.livedoomovie.com/02_NatGeoHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",NATGEOWILD
-https://www.livedoomovie.com/02_NatGeoWild_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",NATION TV
-https://www.livedoomovie.com/02_NATION_480p/chunklist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",NBA HD
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",NBA HD
 https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",NBC GOLF
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",NBC GOLF HD
 http://203.154.243.89:11208
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",NBC HD
 http://161.0.157.50/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",NBT
-https://www.livedoomovie.com/02_NBTSD_480p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",NEW
-https://www.livedoomovie.com/02_NEW_480p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",NFLNETWORK
-https://www.livedoomovie.com/02_NFLNetwork_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",NHANG_DUNK
-https://www.livedoomovie.com/02_NHANG_DUNK_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",NHK_WORLD_TV
-https://www.livedoomovie.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",NICK_JR
-https://www.livedoomovie.com/02_Nick_Jr_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",ONE HD
-https://www.livedoomovie.com/02_GMMONE_720p/chunklist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",PPTV HD
 https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",PREMIERE FOOTBALL HD 1
@@ -424,16 +309,6 @@ https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_SMM_TV_480p/chunklist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",SPORTS RB
 http://203.154.243.89:1214
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",SPORTTV 1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",SPORTTV 2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",SPORTTV 3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",SPORTTV 4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",SPORTTV 5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",SPYDAR TV
 https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",SUMRUJLOK
@@ -476,9 +351,9 @@ https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_TrueFilmHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",TRUEFILMHD2
 https://www.livedoomovie.com/02_TrueFilmHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",UNKNOWN_1
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",SkyNet Sports 1
 https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",UNKNOWN_3
+#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",True Sports 2
 https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",VIOCE
 https://www.livedoomovie.com/02_VOICE_480p/chunklist.m3u8
@@ -492,14 +367,6 @@ http://203.154.243.89:11205
 http://203.154.243.89:1205
 #EXTINF:-1 group-title="*(01) > > > > > FAVORITES",WARNERTV HD
 https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",WISH_CHANNEL
-https://www.livedoomovie.com/02_Wish_Channel_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",WORKPIONT
-https://www.livedoomovie.com/02_WORKPOINT_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",ZEE_NUNG
-https://www.livedoomovie.com/02_Zee_Nung_720p/chunklist.m3u8
-#EXTINF:-1 group-title="*(01) > > > > > FAVORITES",มังกร ทีวี
-https://www.livedoomovies.com/02_MANGORN_720p/chunklist.m3u8
 #EXTINF:-1 group-title="*(02) > > > > > MOVIES",*(02)  > > > > > MOVIES
 http://0.0.0.0:02
 #EXTINF:-1 group-title="*(02) > > > > > MOVIES",***KURIAKOS CINE | 1080P
@@ -1762,6 +1629,36 @@ http://162.244.81.111:1937/liveTrans/livestream_360p/playlist.m3u8
 http://95.67.21.100/hls/prm_ua_low/index.m3u8
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",*(06)  > > > > > SPORTS
 http://0.0.0.0:06
+#EXTINF:-1 group-title="*(06) > > > > > SPORTS",*SPORT TV 1 HD
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="*(06) > > > > > SPORTS",*SPORT TV 2 SD
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="*(06) > > > > > SPORTS",*SPORT TV 3 HD
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="*(06) > > > > > SPORTS",*SPORT TV 4 HD
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="*(06) > > > > > SPORTS",*SPORT TV 5 SD
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="*(06) > > > > > SPORTS",*SPORT TV 1 SD
+http://77.54.145.209:81/play/a02v
+#EXTINF:-1 group-title="*(06) > > > > > SPORTS",*SPORT TV 2 SD
+http://77.54.145.209:81/play/a02j
+#EXTINF:-1 group-title="*(06) > > > > > SPORTS",*SPORT TV 3 SD
+http://77.54.145.209:81/play/a02n
+#EXTINF:-1 group-title="*(06) > > > > > SPORTS",*SPORT TV 4 SD
+http://77.54.145.209:81/play/a02o
+#EXTINF:-1 group-title="*(06) > > > > > SPORTS",*BTV FHD
+http://77.54.145.209:81/play/a032
+#EXTINF:-1 group-title="*(06) > > > > > SPORTS",*Eleven Sports 1 FHD
+http://77.54.145.209:81/play/a00a
+#EXTINF:-1 group-title="*(06) > > > > > SPORTS",*Eleven Sports 2 FHD
+http://77.54.145.209:81/play/a03d
+#EXTINF:-1 group-title="*(06) > > > > > SPORTS",*BTV SD
+http://77.54.145.209:81/play/a002
+#EXTINF:-1 group-title="*(06) > > > > > SPORTS",*Sport TV 1 Mobile
+http://77.54.145.209:81/play/a001
+#EXTINF:-1 group-title="*(06) > > > > > SPORTS",*Sport TV 2 Mobile
+http://77.54.145.209:81/play/a004
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",*[GRB] EDGE SPORTS
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",[ARB] DUBAI SPORTS 2
@@ -1990,8 +1887,6 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",BOSS CHARM
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 group-title="*(06) > > > > > SPORTS",BTV FHD
-http://77.54.145.209:81/play/a032
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",CAPTITAL OTB BETTING
 https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",CBC SPORT
@@ -2072,10 +1967,6 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",EDGESPORT
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
-#EXTINF:-1 group-title="*(06) > > > > > SPORTS",ELEVEN SPORTS 1
-http://77.54.145.209:81/play/a00a
-#EXTINF:-1 group-title="*(06) > > > > > SPORTS",ELEVEN SPORTS 2 HD
-http://77.54.145.209:81/play/a03d
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",ESPN ACCN
 https://gma2.blab.email/acc.m3u8
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",ESPN FS2
@@ -2460,14 +2351,6 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",SPORT FIGHT HD
 http://188.35.9.11:21151/udp/193i
-#EXTINF:-1 group-title="*(06) > > > > > SPORTS",SPORT TV 1 HD
-http://77.54.145.209:81/play/a02v
-#EXTINF:-1 group-title="*(06) > > > > > SPORTS",SPORT TV 2 HD
-http://77.54.145.209:81/play/a02j
-#EXTINF:-1 group-title="*(06) > > > > > SPORTS",SPORT TV 3 HD
-http://77.54.145.209:81/play/a02n
-#EXTINF:-1 group-title="*(06) > > > > > SPORTS",SPORT TV 4
-http://77.54.145.209:81/play/a02o
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",SPORTS HD
 http://dmitry-tv.my1.ru/his/ua/CH_SPORTHD_720.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="*(06) > > > > > SPORTS",SPORTS TV [HD]
